@@ -1,0 +1,3279 @@
+ticker,name,premium_code,free_code
+DDD,3D Systems Corporation,EOD/DDD,GOOG/NYSE_DDD
+MMM,3M Company,EOD/MMM,GOOG/NYSE_MMM
+WBAI,500.com Limited,EOD/WBAI,
+WUBA,58.com Inc.,EOD/WUBA,GOOG/NYSE_WUBA
+AHC,A.H. Belo Corporation,EOD/AHC,GOOG/NYSE_AHC
+ATEN,"A10 Networks,EOD/ATEN,
+AAC,"AAC Holdings,EOD/AAC,
+AIR,AAR Corp.,EOD/AIR,GOOG/NYSE_AIR
+AAN,"Aaron&#39;s,EOD/AAN,GOOG/NYSE_AAN
+ABB,ABB Ltd,EOD/ABB,GOOG/NYSE_ABB
+ABT,Abbott Laboratories,EOD/ABT,GOOG/NYSE_ABT
+ABBV,AbbVie Inc.,EOD/ABBV,GOOG/NYSE_ABBV
+ANF,Abercrombie & Fitch Company,EOD/ANF,GOOG/NYSE_ANF
+GCH,"Aberdeen Greater China Fund,EOD/GCH,GOOG/NYSE_GCH
+JEQ,"Aberdeen Japan Equity Fund,EOD/JEQ,GOOG/NYSE_JEQ
+SGF,"Aberdeen Singapore Fund,EOD/SGF,GOOG/NYSE_SGF
+ABM,ABM Industries Incorporated,EOD/ABM,GOOG/NYSE_ABM
+AKR,Acadia Realty Trust,EOD/AKR,GOOG/NYSE_AKR
+ACN,Accenture plc.,EOD/ACN,GOOG/NYSE_ACN
+ACCO,Acco Brands Corporation,EOD/ACCO,GOOG/NYSE_ACCO
+ACW,Accuride Corporation New,EOD/ACW,GOOG/NYSE_ACW
+ACE,Ace Limited,EOD/ACE,GOOG/NYSE_ACE
+ATV,"Acorn International,EOD/ATV,GOOG/NYSE_ATV
+ATU,Actuant Corporation,EOD/ATU,GOOG/NYSE_ATU
+AYI,Acuity Brands Inc,EOD/AYI,GOOG/NYSE_AYI
+ADX,"Adams Diversified Equity Fund,EOD/ADX,GOOG/NYSE_ADX
+PEO,"Adams Natural Resources Fund,EOD/PEO,GOOG/NYSE_PEO
+AGRO,Adecoagro S.A.,EOD/AGRO,GOOG/NYSE_AGRO
+ADPT,Adeptus Health Inc.,EOD/ADPT,
+ADT,ADT Corporation,EOD/ADT,GOOG/NYSE_ADT
+AAP,Advance Auto Parts Inc,EOD/AAP,GOOG/NYSE_AAP
+WMS,"Advanced Drainage Systems,EOD/WMS,GOOG/NYSE_WMS
+ASX,"Advanced Semiconductor Engineering,EOD/ASX,GOOG/NYSE_ASX
+AAV,Advantage Oil & Gas Ltd,EOD/AAV,GOOG/NYSE_AAV
+ATE,Advantest Corporation (Kabushiki Kaisha Advantest) ADS,EOD/ATE,GOOG/NYSE_ATE
+AVK,Advent Claymore Convertible Securities and Income Fund,EOD/AVK,GOOG/NYSE_AVK
+AGC,Advent Claymore Convertible Securities and Income Fund II,EOD/AGC,GOOG/NYSE_AGC
+LCM,Advent/Claymore Enhanced Growth & Income Fund,EOD/LCM,GOOG/NYSE_LCM
+ACM,AECOM,EOD/ACM,GOOG/NYSE_ACM
+ANW,Aegean Marine Petroleum Network Inc.,EOD/ANW,GOOG/NYSE_ANW
+AEB,Aegon NV,EOD/AEB,GOOG/NYSE_AEB
+AED,Aegon NV,EOD/AED,GOOG/NYSE_AED
+AEG,Aegon NV,EOD/AEG,GOOG/NYSE_AEG
+AEH,Aegon NV,EOD/AEH,GOOG/NYSE_AEH
+AEK,Aegon NV,EOD/AEK,
+AER,Aercap Holdings N.V.,EOD/AER,GOOG/NYSE_AER
+HIVE,"Aerohive Networks,EOD/HIVE,
+AJRD,"Aerojet Rocketdyne Holdings,EOD/AJRD,
+ARO,Aeropostale Inc,EOD/ARO,GOOG/NYSE_ARO
+AET,Aetna Inc.,EOD/AET,GOOG/NYSE_AET
+AMG,"Affiliated Managers Group,EOD/AMG,GOOG/NYSE_AMG
+MGR,"Affiliated Managers Group,EOD/MGR,
+AFL,Aflac Incorporated,EOD/AFL,GOOG/NYSE_AFL
+AFSD,Aflac Incorporated,EOD/AFSD,
+MITT,"AG Mortgage Investment Trust,EOD/MITT,GOOG/NYSE_MITT
+MITT_A,"AG Mortgage Investment Trust,,
+MITT_B,"AG Mortgage Investment Trust,,
+AGCO,AGCO Corporation,EOD/AGCO,GOOG/NYSE_AGCO
+A,"Agilent Technologies,EOD/A,GOOG/NYSE_A
+GAS,"AGL Resources,EOD/GAS,GOOG/NYSE_GAS
+AEM,Agnico Eagle Mines Limited,EOD/AEM,GOOG/NYSE_AEM
+ADC,Agree Realty Corporation,EOD/ADC,GOOG/NYSE_ADC
+GRO,Agria Corporation,EOD/GRO,GOOG/NYSE_GRO
+AGU,Agrium Inc.,EOD/AGU,GOOG/NYSE_AGU
+AL,Air Lease Corporation,EOD/AL,GOOG/NYSE_AL
+APD,"Air Products and Chemicals,EOD/APD,GOOG/NYSE_APD
+AYR,Aircastle Limited,EOD/AYR,GOOG/NYSE_AYR
+ARG,"Airgas,EOD/ARG,GOOG/NYSE_ARG
+AKS,AK Steel Holding Corporation,EOD/AKS,GOOG/NYSE_AKS
+ALP_O,Alabama Power Company,,GOOG/NYSE_ALP_O
+ALG,"Alamo Group,EOD/ALG,GOOG/NYSE_ALG
+AGI,Alamos Gold Inc.,EOD/AGI,GOOG/NYSE_AGI
+ALK,"Alaska Air Group,EOD/ALK,GOOG/NYSE_ALK
+AIN,Albany International Corporation,EOD/AIN,GOOG/NYSE_AIN
+ALB,Albemarle Corporation,EOD/ALB,GOOG/NYSE_ALB
+ALU,Alcatel Lucent,EOD/ALU,GOOG/NYSE_ALU
+AA,Alcoa Inc.,EOD/AA,GOOG/NYSE_AA
+AA_B,Alcoa Inc.,,
+ALR,Alere Inc.,EOD/ALR,GOOG/NYSE_ALR
+ALR_B,Alere Inc.,,GOOG/NYSE_ALR_B
+ALEX,"Alexander & Baldwin Holdings,EOD/ALEX,GOOG/NYSE_ALEX
+ALX,"Alexander&#39;s,EOD/ALX,GOOG/NYSE_ALX
+ARE,"Alexandria Real Estate Equities,EOD/ARE,GOOG/NYSE_ARE
+ARE_E,"Alexandria Real Estate Equities,,GOOG/NYSE_ARE_E
+BABA,Alibaba Group Holding Limited,EOD/BABA,
+Y,Alleghany Corporation,EOD/Y,GOOG/NYSE_Y
+ATI,Allegheny Technologies Incorporated,EOD/ATI,GOOG/NYSE_ATI
+ALLE,Allegion plc,EOD/ALLE,GOOG/NYSE_ALLE
+AGN,Allergan plc.,EOD/AGN,GOOG/NYSE_AGN
+AGN_A,Allergan plc.,,
+ALE,"Allete,EOD/ALE,GOOG/NYSE_ALE
+AKP,Alliance California Municipal Income Fund Inc,EOD/AKP,GOOG/NYSE_AKP
+ADS,Alliance Data Systems Corporation,EOD/ADS,GOOG/NYSE_ADS
+AFB,Alliance National Municipal Income Fund Inc,EOD/AFB,GOOG/NYSE_AFB
+AOI,"Alliance One International,EOD/AOI,GOOG/NYSE_AOI
+AWF,Alliance World Dollar Government Fund II,EOD/AWF,GOOG/NYSE_AWF
+AB,AllianceBernstein Holding L.P.,EOD/AB,GOOG/NYSE_AB
+ACG,ALLIANCEBERNSTEIN INCOME FUND INC,EOD/ACG,GOOG/NYSE_ACG
+LNT,Alliant Energy Corporation,EOD/LNT,GOOG/NYSE_LNT
+NCV,AllianzGI Convertible & Income Fund,EOD/NCV,GOOG/NYSE_NCV
+NCZ,AllianzGI Convertible & Income Fund II,EOD/NCZ,GOOG/NYSE_NCZ
+ACV,AllianzGI Diversified Income & Convertible Fund,EOD/ACV,
+NIE,AllianzGI Equity & Convertible Income Fund,EOD/NIE,GOOG/NYSE_NIE
+NFJ,"AllianzGI NFJ Dividend,EOD/NFJ,GOOG/NYSE_NFJ
+AWH,"Allied World Assurance Company Holdings,EOD/AWH,GOOG/NYSE_AWH
+ALSN,"Allison Transmission Holdings,EOD/ALSN,GOOG/NYSE_ALSN
+ALL,Allstate Corporation (The),EOD/ALL,GOOG/NYSE_ALL
+ALL_A,Allstate Corporation (The),,GOOG/NYSE_ALL_A
+ALL_B,Allstate Corporation (The),,
+ALL_C,Allstate Corporation (The),,
+ALL_D,Allstate Corporation (The),,
+ALL_E,Allstate Corporation (The),,
+ALL_F,Allstate Corporation (The),,
+ALLY,Ally Financial Inc.,EOD/ALLY,
+ALLY_A,Ally Financial Inc.,,
+ALLY_B,Ally Financial Inc.,,
+BSI,Alon Blue Square Israel Ltd.,EOD/BSI,GOOG/NYSE_BSI
+ALJ,"Alon USA Energy,EOD/ALJ,GOOG/NYSE_ALJ
+ALDW,"Alon USA Partners,EOD/ALDW,GOOG/NYSE_ALDW
+AGD,Alpine Global Dynamic Dividend Fund,EOD/AGD,GOOG/NYSE_AGD
+AWP,Alpine Global Premier Properties Fund,EOD/AWP,GOOG/NYSE_AWP
+AOD,Alpine Total Dynamic Dividend Fund,EOD/AOD,GOOG/NYSE_AOD
+RESI,Altisource Residential Corporation,EOD/RESI,GOOG/NYSE_RESI
+MO,Altria Group,EOD/MO,GOOG/NYSE_MO
+ACH,Aluminum Corporation of China Limited,EOD/ACH,GOOG/NYSE_ACH
+AMBR,"Amber Road,EOD/AMBR,
+ABEV,Ambev S.A.,EOD/ABEV,
+AMC,"AMC Entertainment Holdings,EOD/AMC,
+AMFW,Amec Plc Ord,EOD/AMFW,
+AEE,Ameren Corporation,EOD/AEE,GOOG/NYSE_AEE
+AMRC,"Ameresco,EOD/AMRC,GOOG/NYSE_AMRC
+AMX,"America Movil,EOD/AMX,GOOG/NYSE_AMX
+AAT,"American Assets Trust,EOD/AAT,GOOG/NYSE_AAT
+AXL,"American Axle & Manufacturing Holdings,EOD/AXL,GOOG/NYSE_AXL
+ACC,American Campus Communities Inc,EOD/ACC,GOOG/NYSE_ACC
+AEO,"American Eagle Outfitters,EOD/AEO,GOOG/NYSE_AEO
+AEP,"American Electric Power Company,EOD/AEP,GOOG/NYSE_AEP
+AEL,American Equity Investment Life Holding Company,EOD/AEL,GOOG/NYSE_AEL
+AXP,American Express Company,EOD/AXP,GOOG/NYSE_AXP
+AFA,"American Financial Group,EOD/AFA,
+AFG,"American Financial Group,EOD/AFG,GOOG/NYSE_AFG
+AFGE,"American Financial Group,EOD/AFGE,
+AFW,"American Financial Group,EOD/AFW,
+AMH,American Homes 4 Rent,EOD/AMH,GOOG/NYSE_AMH
+AMH_A,American Homes 4 Rent,,
+AMH_B,American Homes 4 Rent,,
+AMH_C,American Homes 4 Rent,,
+AIG,"American International Group,EOD/AIG,GOOG/NYSE_AIG
+AIG_WS,"American International Group,EOD/AIG_WS,
+AMID,"American Midstream Partners,EOD/AMID,GOOG/NYSE_AMID
+ARL,"American Realty Investors,EOD/ARL,GOOG/NYSE_ARL
+ARPI,"American Residential Properties,EOD/ARPI,GOOG/NYSE_ARPI
+AWR,American States Water Company,EOD/AWR,GOOG/NYSE_AWR
+AMT,American Tower Corporation (REIT),EOD/AMT,GOOG/NYSE_AMT
+AMT_A,American Tower Corporation (REIT),,
+AMT_B,American Tower Corporation (REIT),,
+AVD,American Vanguard Corporation,EOD/AVD,GOOG/NYSE_AVD
+AWK,American Water Works,EOD/AWK,GOOG/NYSE_AWK
+APU,"AmeriGas Partners,EOD/APU,GOOG/NYSE_APU
+AMP,"AMERIPRISE FINANCIAL SERVICES,EOD/AMP,GOOG/NYSE_AMP
+ABC,AmerisourceBergen Corporation (Holding Co),EOD/ABC,GOOG/NYSE_ABC
+ANFI,Amira Nature Foods Ltd,EOD/ANFI,GOOG/NYSE_ANFI
+AHS,AMN Healthcare Services Inc,EOD/AHS,GOOG/NYSE_AHS
+AP,Ampco-Pittsburgh Corporation,EOD/AP,GOOG/NYSE_AP
+APH,Amphenol Corporation,EOD/APH,GOOG/NYSE_APH
+BETR,"Amplify Snack Brands,EOD/BETR,
+AXR,AMREP Corporation,EOD/AXR,GOOG/NYSE_AXR
+AME,"AMTEK,EOD/AME,GOOG/NYSE_AME
+AFSI_A,"AmTrust Financial Services,,
+AFSI_B,"AmTrust Financial Services,,
+AFSI_C,"AmTrust Financial Services,,
+AFSI_D,"AmTrust Financial Services,,
+AFSS,"AmTrust Financial Services,EOD/AFSS,
+AFST,"AmTrust Financial Services,EOD/AFST,
+AEUA,Anadarko Petroleum Corporation,EOD/AEUA,
+APC,Anadarko Petroleum Corporation,EOD/APC,GOOG/NYSE_APC
+AU,AngloGold Ashanti Limited,EOD/AU,GOOG/NYSE_AU
+BUD,Anheuser-Busch Inbev SA,EOD/BUD,GOOG/NYSE_BUD
+AXE,Anixter International Inc.,EOD/AXE,GOOG/NYSE_AXE
+NLY,Annaly Capital Management Inc,EOD/NLY,GOOG/NYSE_NLY
+NLY_A,Annaly Capital Management Inc,,GOOG/NYSE_NLY_A
+NLY_C,Annaly Capital Management Inc,,GOOG/NYSE_NLY_C
+NLY_D,Annaly Capital Management Inc,,GOOG/NYSE_NLY_D
+AM,Antero Midstream Partners LP,EOD/AM,GOOG/NYSE_AM
+AR,Antero Resources Corporation,EOD/AR,GOOG/NYSE_AR
+ANTM,"Anthem,EOD/ANTM,
+ANTX,"Anthem,EOD/ANTX,
+ANH,Anworth Mortgage Asset  Corporation,EOD/ANH,GOOG/NYSE_ANH
+ANH_A,Anworth Mortgage Asset  Corporation,,GOOG/NYSE_ANH_A
+ANH_B,Anworth Mortgage Asset  Corporation,,GOOG/NYSE_ANH_B
+ANH_C,Anworth Mortgage Asset  Corporation,,
+AON,Aon plc,EOD/AON,GOOG/NYSE_AON
+APA,Apache Corporation,EOD/APA,GOOG/NYSE_APA
+AIV,Apartment Investment and Management Company,EOD/AIV,GOOG/NYSE_AIV
+AIV_A,Apartment Investment and Management Company,,
+AIV_Z,Apartment Investment and Management Company,,GOOG/NYSE_AIV_Z
+ARI,Apollo Commercial Real Estate Finance,EOD/ARI,GOOG/NYSE_ARI
+ARI_A,Apollo Commercial Real Estate Finance,,GOOG/NYSE_ARI_A
+APO,"Apollo Global Management,EOD/APO,GOOG/NYSE_APO
+AIB,Apollo Investment Corporation,EOD/AIB,
+AIY,Apollo Investment Corporation,EOD/AIY,
+AMTG,"Apollo Residential Mortgage,EOD/AMTG,GOOG/NYSE_AMTG
+AMTG_A,"Apollo Residential Mortgage,,
+AFT,Apollo Senior Floating Rate Fund Inc.,EOD/AFT,GOOG/NYSE_AFT
+AIF,Apollo Tactical Income Fund Inc.,EOD/AIF,GOOG/NYSE_AIF
+APLE,"Apple Hospitality REIT,EOD/APLE,
+AIT,"Applied Industrial Technologies,EOD/AIT,GOOG/NYSE_AIT
+ATR,"AptarGroup,EOD/ATR,GOOG/NYSE_ATR
+WTR,"Aqua America,EOD/WTR,GOOG/NYSE_WTR
+ARMK,Aramark,EOD/ARMK,
+ABR,Arbor Realty Trust,EOD/ABR,GOOG/NYSE_ABR
+ABR_A,Arbor Realty Trust,,GOOG/NYSE_ABR_A
+ABR_B,Arbor Realty Trust,,
+ABR_C,Arbor Realty Trust,,
+ABRN,Arbor Realty Trust,EOD/ABRN,
+ARC,"ARC Document Solutions,EOD/ARC,GOOG/NYSE_ARC
+ARCX,Arc Logistic Partners LP,EOD/ARCX,GOOG/NYSE_ARCX
+MT,ArcelorMittal,EOD/MT,GOOG/NYSE_MT
+MTCN,ArcelorMittal,EOD/MTCN,
+ARH_C,Arch Capital Group Ltd.,,GOOG/NYSE_ARH_C
+ACI,"Arch Coal,EOD/ACI,GOOG/NYSE_ACI
+ADM,Archer-Daniels-Midland Company,EOD/ADM,GOOG/NYSE_ADM
+AROC,"Archrock,EOD/AROC,
+ARCO,Arcos Dorados Holdings Inc.,EOD/ARCO,GOOG/NYSE_ARCO
+ASC,Ardmore Shipping Corporation,EOD/ASC,GOOG/NYSE_ASC
+AFC,Ares Capital Corporation,EOD/AFC,GOOG/NYSE_AFC
+ARU,Ares Capital Corporation,EOD/ARU,
+ACRE,Ares Commercial Real Estate Corporation,EOD/ACRE,GOOG/NYSE_ACRE
+ARDC,"Ares Dynamic Credit Allocation Fund,EOD/ARDC,GOOG/NYSE_ARDC
+ARES,Ares Management L.P.,EOD/ARES,
+AGX,"Argan,EOD/AGX,
+ANET,"Arista Networks,EOD/ANET,
+AI,Arlington Asset Investment Corp,EOD/AI,GOOG/NYSE_AI
+AIC,Arlington Asset Investment Corp,EOD/AIC,
+AIW,Arlington Asset Investment Corp,EOD/AIW,
+AHH,"Armada Hoffler Properties,EOD/AHH,GOOG/NYSE_AHH
+ARR,"ARMOUR Residential REIT,EOD/ARR,GOOG/NYSE_ARR
+ARR_A,"ARMOUR Residential REIT,,GOOG/NYSE_ARR_A
+ARR_B,"ARMOUR Residential REIT,,GOOG/NYSE_ARR_B
+AWI,Armstrong World Industries Inc,EOD/AWI,GOOG/NYSE_AWI
+ARW,"Arrow Electronics,EOD/ARW,GOOG/NYSE_ARW
+AJG,Arthur J. Gallagher & Co.,EOD/AJG,GOOG/NYSE_AJG
+APAM,Artisan Partners Asset Management Inc.,EOD/APAM,GOOG/NYSE_APAM
+ASA,ASA Gold and Precious Metals Limited,EOD/ASA,GOOG/NYSE_ASA
+ABG,Asbury Automotive Group Inc,EOD/ABG,GOOG/NYSE_ABG
+AHP,"Ashford Hospitality Prime,EOD/AHP,
+AHT,Ashford Hospitality Trust Inc,EOD/AHT,GOOG/NYSE_AHT
+AHT_A,Ashford Hospitality Trust Inc,,GOOG/NYSE_AHT_A
+AHT_D,Ashford Hospitality Trust Inc,,GOOG/NYSE_AHT_D
+AHT_E,Ashford Hospitality Trust Inc,,GOOG/NYSE_AHT_E
+ASH,Ashland Inc.,EOD/ASH,GOOG/NYSE_ASH
+APB,"Asia Pacific Fund,EOD/APB,GOOG/NYSE_APB
+GRR,"Asia Tigers Fund,EOD/GRR,GOOG/NYSE_GRR
+ASPN,"Aspen Aerogels,EOD/ASPN,
+AHL,Aspen Insurance Holdings Limited,EOD/AHL,GOOG/NYSE_AHL
+AHL_A,Aspen Insurance Holdings Limited,,GOOG/NYSE_AHL_A
+AHL_B,Aspen Insurance Holdings Limited,,GOOG/NYSE_AHL_B
+AHL_C,Aspen Insurance Holdings Limited,,
+ASB,Associated Banc-Corp,EOD/ASB,
+ASB_B,Associated Banc-Corp,,
+ASB_C,Associated Banc-Corp,,
+AC_WD,"Associated Capital Group,EOD/AC_WD,
+AIZ,"Assurant,EOD/AIZ,GOOG/NYSE_AIZ
+AGO,Assured Guaranty Ltd.,EOD/AGO,GOOG/NYSE_AGO
+AGO_B,Assured Guaranty Ltd.,,GOOG/NYSE_AGO_B
+AGO_E,Assured Guaranty Ltd.,,GOOG/NYSE_AGO_E
+AGO_F,Assured Guaranty Ltd.,,GOOG/NYSE_AGO_F
+AF,Astoria Financial Corporation,EOD/AF,GOOG/NYSE_AF
+AF_C,Astoria Financial Corporation,,GOOG/NYSE_AF_C
+AZN,Astrazeneca PLC,EOD/AZN,GOOG/NYSE_AZN
+T,AT&T Inc.,EOD/T,GOOG/NYSE_T
+ATTO,Atento S.A.,EOD/ATTO,
+AT,Atlantic Power Corporation,EOD/AT,GOOG/NYSE_AT
+ATLS,"Atlas Energy,EOD/ATLS,GOOG/NYSE_ATLS
+ARP,"Atlas Resource Partners,EOD/ARP,GOOG/NYSE_ARP
+ARP_D,"Atlas Resource Partners,,
+ARP_E,"Atlas Resource Partners,,
+ATO,Atmos Energy Corporation,EOD/ATO,GOOG/NYSE_ATO
+ATW,"Atwood Oceanics,EOD/ATW,GOOG/NYSE_ATW
+AUO,AU Optronics Corp,EOD/AUO,GOOG/NYSE_AUO
+ATHM,Autohome Inc.,EOD/ATHM,
+ALV,"Autoliv,EOD/ALV,GOOG/NYSE_ALV
+AN,"AutoNation,EOD/AN,GOOG/NYSE_AN
+AZO,"AutoZone,EOD/AZO,GOOG/NYSE_AZO
+AVB,"AvalonBay Communities,EOD/AVB,GOOG/NYSE_AVB
+ACP,Avenue Income Credit Strategies Fund,EOD/ACP,GOOG/NYSE_ACP
+AVY,Avery Dennison Corporation,EOD/AVY,GOOG/NYSE_AVY
+AVG,AVG Technologies N.V.,EOD/AVG,GOOG/NYSE_AVG
+AVH,Avianca Holdings S.A.,EOD/AVH,GOOG/NYSE_AVH
+AVA,Avista Corporation,EOD/AVA,GOOG/NYSE_AVA
+AV,Aviva plc,EOD/AV,GOOG/NYSE_AV
+AVV,Aviva plc,EOD/AVV,GOOG/NYSE_AVV
+AVT,"Avnet,EOD/AVT,GOOG/NYSE_AVT
+AVOL,Avolon Holdings Limited,EOD/AVOL,
+AVP,"Avon Products,EOD/AVP,GOOG/NYSE_AVP
+AVX,AVX Corporation,EOD/AVX,GOOG/NYSE_AVX
+AXTA,Axalta Coating Systems Ltd.,EOD/AXTA,
+AXLL,Axiall Corporation,EOD/AXLL,GOOG/NYSE_AXLL
+AXS,Axis Capital Holdings Limited,EOD/AXS,GOOG/NYSE_AXS
+AXS_C,Axis Capital Holdings Limited,,GOOG/NYSE_AXS_C
+AXS_D,Axis Capital Holdings Limited,,
+AZUR,"Azure Midstream Partners,EOD/AZUR,
+AZZ,AZZ Inc.,EOD/AZZ,GOOG/NYSE_AZZ
+BGS,"B&G Foods,EOD/BGS,GOOG/NYSE_BGS
+BW,Babcock,EOD/BW,
+MCI,Babson Capital Corporate Investors,EOD/MCI,GOOG/NYSE_MCI
+BGH,Babson Capital Global Short Duration High Yield Fund,EOD/BGH,GOOG/NYSE_BGH
+MPV,Babson Capital Participation Investors,EOD/MPV,GOOG/NYSE_MPV
+BMI,"Badger Meter,EOD/BMI,GOOG/NYSE_BMI
+BHI,Baker Hughes Incorporated,EOD/BHI,GOOG/NYSE_BHI
+BBN,BalckRock Taxable Municipal Bond Trust,EOD/BBN,GOOG/NYSE_BBN
+BLL,Ball Corporation,EOD/BLL,GOOG/NYSE_BLL
+BGE_B,Baltimore Gas & Electric Company,,GOOG/NYSE_BGE_B
+BANC,"Banc of California,EOD/BANC,
+BANC_C,"Banc of California,,
+BANC_D,"Banc of California,,
+BOCA,"Banc of California,EOD/BOCA,
+BBVA,Banco Bilbao Viscaya Argentaria S.A.,EOD/BBVA,GOOG/NYSE_BBVA
+BBD,Banco Bradesco Sa,EOD/BBD,GOOG/NYSE_BBD
+BBDO,Banco Bradesco Sa,EOD/BBDO,GOOG/NYSE_BBDO
+BCH,Banco De Chile,EOD/BCH,GOOG/NYSE_BCH
+BLX,"Banco Latinoamericano de Comercio Exterior,EOD/BLX,GOOG/NYSE_BLX
+BSBR,Banco Santander Brasil SA,EOD/BSBR,GOOG/NYSE_BSBR
+BSAC,Banco Santander Chile,EOD/BSAC,GOOG/NYSE_BSAC
+SAN,"Banco Santander,EOD/SAN,GOOG/NYSE_SAN
+SAN_A,"Banco Santander,,GOOG/NYSE_SAN_A
+SAN_B,"Banco Santander,,GOOG/NYSE_SAN_B
+SAN_C,"Banco Santander,,GOOG/NYSE_SAN_C
+SAN_I,"Banco Santander,,GOOG/NYSE_SAN_I
+CIB,BanColombia S.A.,EOD/CIB,GOOG/NYSE_CIB
+BXS,"BancorpSouth,EOD/BXS,GOOG/NYSE_BXS
+BAC,Bank of America Corporation,EOD/BAC,GOOG/NYSE_BAC
+BAC_WS_A,Bank of America Corporation,EOD/BAC_WS_A,
+BAC_WS_B,Bank of America Corporation,EOD/BAC_WS_B,
+BAC_D,Bank of America Corporation,,GOOG/NYSE_BAC_D
+BAC_E,Bank of America Corporation,,GOOG/NYSE_BAC_E
+BAC_I,Bank of America Corporation,,GOOG/NYSE_BAC_I
+BAC_L,Bank of America Corporation,,GOOG/NYSE_BAC_L
+BAC_W,Bank of America Corporation,,GOOG/NYSE_BAC_W
+BAC_Y,Bank of America Corporation,,GOOG/NYSE_BAC_Y
+BAC_Z,Bank of America Corporation,,GOOG/NYSE_BAC_Z
+BML_G,Bank of America Corporation,,GOOG/NYSE_BML_G
+BML_H,Bank of America Corporation,,GOOG/NYSE_BML_H
+BML_I,Bank of America Corporation,,GOOG/NYSE_BML_I
+BML_J,Bank of America Corporation,,GOOG/NYSE_BML_J
+BML_L,Bank of America Corporation,,GOOG/NYSE_BML_L
+BOH,Bank of Hawaii Corporation,EOD/BOH,GOOG/NYSE_BOH
+BMO,Bank Of Montreal,EOD/BMO,GOOG/NYSE_BMO
+BK,Bank Of New York Mellon Corporation (The),EOD/BK,GOOG/NYSE_BK
+BK_C,Bank Of New York Mellon Corporation (The),,GOOG/NYSE_BK_C
+BNS,Bank of Nova Scotia (The),EOD/BNS,GOOG/NYSE_BNS
+RATE,"Bankrate,EOD/RATE,GOOG/NYSE_RATE
+BKU,"BankUnited,EOD/BKU,GOOG/NYSE_BKU
+BCS,Barclays PLC,EOD/BCS,GOOG/NYSE_BCS
+BCS_,Barclays PLC,,GOOG/NYSE_BCS_
+BCS_A,Barclays PLC,,GOOG/NYSE_BCS_A
+BCS_C,Barclays PLC,,GOOG/NYSE_BCS_C
+BCS_D,Barclays PLC,,GOOG/NYSE_BCS_D
+BNED,"Barnes & Noble Education,EOD/BNED,
+BKS,"Barnes & Noble,EOD/BKS,GOOG/NYSE_BKS
+B,"Barnes Group,EOD/B,GOOG/NYSE_B
+CUDA,"Barracuda Networks,EOD/CUDA,GOOG/NYSE_CUDA
+ABX,Barrick Gold Corporation,EOD/ABX,GOOG/NYSE_ABX
+BAS,"Basic Energy Services,EOD/BAS,GOOG/NYSE_BAS
+BXLT,Baxalta Incorporated,EOD/BXLT,
+BAX,Baxter International Inc.,EOD/BAX,GOOG/NYSE_BAX
+BTE,Baytex Energy Corp,EOD/BTE,GOOG/NYSE_BTE
+BBT,BB&T Corporation,EOD/BBT,GOOG/NYSE_BBT
+BBT_D,BB&T Corporation,,GOOG/NYSE_BBT_D
+BBT_E,BB&T Corporation,,GOOG/NYSE_BBT_E
+BBT_F,BB&T Corporation,,GOOG/NYSE_BBT_F
+BBT_G,BB&T Corporation,,
+BFR,BBVA Banco Frances S.A.,EOD/BFR,GOOG/NYSE_BFR
+BBX,BBX Capital Corporation,EOD/BBX,GOOG/NYSE_BBX
+BCE,"BCE,EOD/BCE,GOOG/NYSE_BCE
+TZF,"Bear Stearns Depositor,EOD/TZF,GOOG/NYSE_TZF
+BZH,"Beazer Homes USA,EOD/BZH,GOOG/NYSE_BZH
+BDX,"Becton,EOD/BDX,GOOG/NYSE_BDX
+BDC,Belden Inc,EOD/BDC,GOOG/NYSE_BDC
+BXE,Bellatrix Exploration Ltd,EOD/BXE,
+BEL,Belmond Ltd.,EOD/BEL,
+BMS,"Bemis Company,EOD/BMS,GOOG/NYSE_BMS
+BHE,"Benchmark Electronics,EOD/BHE,GOOG/NYSE_BHE
+BRK_A,Berkshire Hathaway Inc.,EOD/BRK_A,GOOG/NYSE_BRK_A
+BRK_B,Berkshire Hathaway Inc.,EOD/BRK_B,GOOG/NYSE_BRK_B
+BHLB,"Berkshire Hills Bancorp,EOD/BHLB,GOOG/NYSE_BHLB
+BBY,"Best Buy Co.,EOD/BBY,GOOG/NYSE_BBY
+BGCA,"BGC Partners,EOD/BGCA,
+BHP,BHP Billiton Limited,EOD/BHP,GOOG/NYSE_BHP
+BBL,BHP Billiton plc,EOD/BBL,GOOG/NYSE_BBL
+BIG,"Big Lots,EOD/BIG,GOOG/NYSE_BIG
+BH,Biglari Holdings Inc.,EOD/BH,GOOG/NYSE_BH
+BBG,Bill Barrett Corporation,EOD/BBG,GOOG/NYSE_BBG
+BIOA,BioAmber Inc.,EOD/BIOA,
+BIOA_WS,BioAmber Inc.,EOD/BIOA_WS,
+BMR,Biomed Realty Trust,EOD/BMR,GOOG/NYSE_BMR
+BIO,"Bio-Rad Laboratories,EOD/BIO,GOOG/NYSE_BIO
+BIO_B,"Bio-Rad Laboratories,EOD/BIO_B,GOOG/NYSE_BIO_B
+BITA,Bitauto Holdings Limited,EOD/BITA,GOOG/NYSE_BITA
+BKH,Black Hills Corporation,EOD/BKH,GOOG/NYSE_BKH
+BKFS,"Black Knight Financial Services,EOD/BKFS,
+BSM,"Black Stone Minerals,EOD/BSM,
+BJZ,Blackrock California Municipal 2018 Term Trust,EOD/BJZ,GOOG/NYSE_BJZ
+BFZ,BlackRock California Municipal Income Trust,EOD/BFZ,GOOG/NYSE_BFZ
+CII,Blackrock Capital and Income Strategies Fund Inc,EOD/CII,GOOG/NYSE_CII
+BHK,Blackrock Core Bond Trust,EOD/BHK,GOOG/NYSE_BHK
+HYT,"Blackrock Corporate High Yield Fund,EOD/HYT,GOOG/NYSE_HYT
+BTZ,BlackRock Credit Allocation Income Trust,EOD/BTZ,GOOG/NYSE_BTZ
+DSU,"Blackrock Debt Strategies Fund,EOD/DSU,GOOG/NYSE_DSU
+BHL,Blackrock Defined Opportunity Credit Trust,EOD/BHL,GOOG/NYSE_BHL
+BGR,BlackRock Energy and Resources Trust,EOD/BGR,GOOG/NYSE_BGR
+BDJ,Blackrock Enhanced Equity Dividend Trust,EOD/BDJ,GOOG/NYSE_BDJ
+EGF,"Blackrock Enhanced Government Fund,EOD/EGF,GOOG/NYSE_EGF
+FRA,Blackrock Floating Rate Income Strategies Fund Inc,EOD/FRA,GOOG/NYSE_FRA
+BFO,Blackrock Florida Municipal 2020 Term Trust,EOD/BFO,GOOG/NYSE_BFO
+BGT,Blackrock Global,EOD/BGT,GOOG/NYSE_BGT
+BOE,Blackrock Global,EOD/BOE,GOOG/NYSE_BOE
+BME,Blackrock Health Sciences Trust,EOD/BME,GOOG/NYSE_BME
+BAF,BlackRock Income Investment Quality Trust,EOD/BAF,GOOG/NYSE_BAF
+BKT,BlackRock Income Trust Inc. (The),EOD/BKT,GOOG/NYSE_BKT
+BGY,"BLACKROCK INTERNATIONAL,EOD/BGY,GOOG/NYSE_BGY
+BKN,BlackRock Investment Quality Municipal Trust Inc. (The),EOD/BKN,GOOG/NYSE_BKN
+BTA,BlackRock Long-Term Municipal Advantage Trust,EOD/BTA,GOOG/NYSE_BTA
+BIT,BlackRock Multi-Sector Income Trust,EOD/BIT,GOOG/NYSE_BIT
+MUI,Blackrock Muni Intermediate Duration Fund Inc,EOD/MUI,GOOG/NYSE_MUI
+MNE,Blackrock Muni New York Intermediate Duration Fund Inc,EOD/MNE,GOOG/NYSE_MNE
+MUA,"Blackrock MuniAssets Fund,EOD/MUA,GOOG/NYSE_MUA
+BPK,Blackrock Municipal 2018 Term Trust,EOD/BPK,GOOG/NYSE_BPK
+BKK,Blackrock Municipal 2020 Term Trust,EOD/BKK,GOOG/NYSE_BKK
+BIE,Blackrock Municipal Bond Investment Trust,EOD/BIE,GOOG/NYSE_BIE
+BBK,Blackrock Municipal Bond Trust,EOD/BBK,GOOG/NYSE_BBK
+BBF,BlackRock Municipal Income Investment Trust,EOD/BBF,GOOG/NYSE_BBF
+BYM,Blackrock Municipal Income Quality Trust,EOD/BYM,GOOG/NYSE_BYM
+BFK,BlackRock Municipal Income Trust,EOD/BFK,GOOG/NYSE_BFK
+BTT,BlackRock Municipal Target Term Trust Inc. (The),EOD/BTT,GOOG/NYSE_BTT
+MEN,"Blackrock MuniEnhanced Fund,EOD/MEN,GOOG/NYSE_MEN
+MUC,"Blackrock MuniHoldings California Quality Fund,EOD/MUC,GOOG/NYSE_MUC
+MUH,"Blackrock MuniHoldings Fund II,EOD/MUH,GOOG/NYSE_MUH
+MHD,"Blackrock MuniHoldings Fund,EOD/MHD,GOOG/NYSE_MHD
+MFL,Blackrock MuniHoldings Investment Quality Fund,EOD/MFL,GOOG/NYSE_MFL
+MUJ,"Blackrock MuniHoldings New Jersey Insured Fund,EOD/MUJ,GOOG/NYSE_MUJ
+MHN,"Blackrock MuniHoldings New York Quality Fund,EOD/MHN,GOOG/NYSE_MHN
+MUE,"Blackrock MuniHoldings Quality Fund II,EOD/MUE,GOOG/NYSE_MUE
+MUS,"Blackrock MuniHoldings Quality Fund,EOD/MUS,GOOG/NYSE_MUS
+MVT,"Blackrock MuniVest Fund II,EOD/MVT,GOOG/NYSE_MVT
+MYC,"Blackrock MuniYield California Fund,EOD/MYC,GOOG/NYSE_MYC
+MCA,"Blackrock MuniYield California Insured Fund,EOD/MCA,GOOG/NYSE_MCA
+MYD,"Blackrock MuniYield Fund,EOD/MYD,GOOG/NYSE_MYD
+MYF,Blackrock MuniYield Investment Fund,EOD/MYF,GOOG/NYSE_MYF
+MFT,Blackrock MuniYield Investment QualityFund,EOD/MFT,GOOG/NYSE_MFT
+MIY,"Blackrock MuniYield Michigan Quality Fund,EOD/MIY,GOOG/NYSE_MIY
+MYJ,"Blackrock MuniYield New Jersey Fund,EOD/MYJ,GOOG/NYSE_MYJ
+MYN,"Blackrock MuniYield New York Quality Fund,EOD/MYN,GOOG/NYSE_MYN
+MPA,Blackrock MuniYield Pennsylvania Quality Fund,EOD/MPA,GOOG/NYSE_MPA
+MQT,"Blackrock MuniYield Quality Fund II,EOD/MQT,GOOG/NYSE_MQT
+MYI,"Blackrock MuniYield Quality Fund III,EOD/MYI,GOOG/NYSE_MYI
+MQY,"Blackrock MuniYield Quality Fund,EOD/MQY,GOOG/NYSE_MQY
+BNJ,BlackRock New Jersey Municipal Income Trust,EOD/BNJ,GOOG/NYSE_BNJ
+BNY,BlackRock New York Investment Quality Municipal Trust Inc. (Th,EOD/BNY,GOOG/NYSE_BNY
+BLH,Blackrock New York Municipal 2018 Term Trust,EOD/BLH,GOOG/NYSE_BLH
+BQH,Blackrock New York Municipal Bond Trust,EOD/BQH,GOOG/NYSE_BQH
+BSE,Blackrock New York Municipal Income Quality Trust,EOD/BSE,GOOG/NYSE_BSE
+BCX,BlackRock Resources,EOD/BCX,GOOG/NYSE_BCX
+BST,BlackRock Science and Technology Trust,EOD/BST,
+BSD,BlackRock Strategic Municipal Trust Inc. (The),EOD/BSD,GOOG/NYSE_BSD
+BUI,BlackRock Utility and Infrastructure Trust,EOD/BUI,GOOG/NYSE_BUI
+BLK,"BlackRock,EOD/BLK,GOOG/NYSE_BLK
+BGB,Blackstone / GSO Strategic Credit Fund,EOD/BGB,GOOG/NYSE_BGB
+BGX,Blackstone GSO Long Short Credit Income Fund,EOD/BGX,GOOG/NYSE_BGX
+BSL,Blackstone GSO Senior Floating Rate Term Fund,EOD/BSL,GOOG/NYSE_BSL
+BLT,"Blount International,EOD/BLT,GOOG/NYSE_BLT
+BCRH,Blue Capital Reinsurance Holdings Ltd.,EOD/BCRH,GOOG/NYSE_BCRH
+BXC,BlueLinx Holdings Inc.,EOD/BXC,GOOG/NYSE_BXC
+BWP,Boardwalk Pipeline Partners L.P.,EOD/BWP,GOOG/NYSE_BWP
+BA,Boeing Company (The),EOD/BA,GOOG/NYSE_BA
+BCC,"Boise Cascade,EOD/BCC,GOOG/NYSE_BCC
+BCEI,"Bonanza Creek Energy,EOD/BCEI,GOOG/NYSE_BCEI
+BOOT,"Boot Barn Holdings,EOD/BOOT,
+BAH,Booz Allen Hamilton Holding Corporation,EOD/BAH,GOOG/NYSE_BAH
+BWA,BorgWarner Inc.,EOD/BWA,GOOG/NYSE_BWA
+SAM,"Boston Beer Company,EOD/SAM,GOOG/NYSE_SAM
+BXP,"Boston Properties,EOD/BXP,GOOG/NYSE_BXP
+BXP_B,"Boston Properties,,GOOG/NYSE_BXP_B
+BSX,Boston Scientific Corporation,EOD/BSX,GOOG/NYSE_BSX
+TEU,Box Ships Inc.,EOD/TEU,GOOG/NYSE_TEU
+TEU_C,Box Ships Inc.,,
+BOX,"Box,EOD/BOX,GOOG/NYSE_BOX
+BYD,Boyd Gaming Corporation,EOD/BYD,GOOG/NYSE_BYD
+BP,BP p.l.c.,EOD/BP,GOOG/NYSE_BP
+BPT,BP Prudhoe Bay Royalty Trust,EOD/BPT,GOOG/NYSE_BPT
+BERY,BPC Acquisition Corp,EOD/BERY,GOOG/NYSE_BERY
+BRC,Brady Corporation,EOD/BRC,GOOG/NYSE_BRC
+BDN_E,Brandywine Realty Tr,,GOOG/NYSE_BDN_E
+BDN,Brandywine Realty Trust,EOD/BDN,GOOG/NYSE_BDN
+LND,Brasilagro Cia Brasileira De Propriedades Agricolas,EOD/LND,GOOG/NYSE_LND
+BAK,Braskem S.A.,EOD/BAK,GOOG/NYSE_BAK
+BRFS,BRF S.A.,EOD/BRFS,GOOG/NYSE_BRFS
+BPI,"Bridgepoint Education,EOD/BPI,GOOG/NYSE_BPI
+BGG,Briggs & Stratton Corporation,EOD/BGG,GOOG/NYSE_BGG
+BFAM,Bright Horizons Family Solutions Inc.,EOD/BFAM,GOOG/NYSE_BFAM
+EAT,"Brinker International,EOD/EAT,GOOG/NYSE_EAT
+BCO,Brink&#39;s Company (The),EOD/BCO,GOOG/NYSE_BCO
+BMY,Bristol-Myers Squibb Company,EOD/BMY,GOOG/NYSE_BMY
+BRS,Bristow Group Inc,EOD/BRS,GOOG/NYSE_BRS
+BRX,Brixmor Property Group Inc.,EOD/BRX,GOOG/NYSE_BRX
+BR,"Broadridge Financial Solutions,EOD/BR,GOOG/NYSE_BR
+BKD,Brookdale Senior Living Inc.,EOD/BKD,GOOG/NYSE_BKD
+BAM,Brookfield Asset Management Inc,EOD/BAM,GOOG/NYSE_BAM
+BOXC,Brookfield Canada Office Properties,EOD/BOXC,GOOG/NYSE_BOXC
+DTLA_,Brookfield DTLA Inc.,,
+INF,Brookfield Global Listed Infrastructure Income Fund,EOD/INF,GOOG/NYSE_INF
+HHY,Brookfield High Income Fund Inc.,EOD/HHY,GOOG/NYSE_HHY
+BIP,Brookfield Infrastructure Partners LP,EOD/BIP,GOOG/NYSE_BIP
+BOI,Brookfield Mortgage Opportunity Income Fund Inc.,EOD/BOI,GOOG/NYSE_BOI
+BPY,Brookfield Property Partners L.P.,EOD/BPY,
+BEP,Brookfield Renewable Powerr Fund,EOD/BEP,GOOG/NYSE_BEP
+HTR,Brookfield Total Return Fund Inc.,EOD/HTR,GOOG/NYSE_HTR
+BRO,"Brown & Brown,EOD/BRO,GOOG/NYSE_BRO
+BF_A,Brown Forman Corporation,EOD/BF_A,GOOG/NYSE_BF_A
+BF_B,Brown Forman Corporation,EOD/BF_B,GOOG/NYSE_BF_B
+BRT,BRT Realty Trust,EOD/BRT,GOOG/NYSE_BRT
+BC,Brunswick Corporation,EOD/BC,GOOG/NYSE_BC
+BT,BT Group plc,EOD/BT,GOOG/NYSE_BT
+BPL,Buckeye Partners L.P.,EOD/BPL,GOOG/NYSE_BPL
+BKE,"Buckle,EOD/BKE,GOOG/NYSE_BKE
+BVN,Buenaventura Mining Company Inc.,EOD/BVN,GOOG/NYSE_BVN
+BBW,"Build-A-Bear Workshop,EOD/BBW,GOOG/NYSE_BBW
+BG,Bunge Limited,EOD/BG,GOOG/NYSE_BG
+BURL,"Burlington Stores,EOD/BURL,GOOG/NYSE_BURL
+BWXT,"BWX Technologies,EOD/BWXT,
+CJES,"C&J Energy Services,EOD/CJES,GOOG/NYSE_CJES
+BCR,"C.R. Bard,EOD/BCR,GOOG/NYSE_BCR
+BNK,"C1 Financial,EOD/BNK,
+GYB,CABCO Series 2004-101 Trust,EOD/GYB,GOOG/NYSE_GYB
+PFH,CABCO Series 2004-101 Trust,EOD/PFH,GOOG/NYSE_PFH
+CAB,Cabela&#39;s Inc,EOD/CAB,GOOG/NYSE_CAB
+CABO,"Cable One,EOD/CABO,
+CVC,Cablevision Systems Corporation,EOD/CVC,GOOG/NYSE_CVC
+CBT,Cabot Corporation,EOD/CBT,GOOG/NYSE_CBT
+COG,Cabot Oil & Gas Corporation,EOD/COG,GOOG/NYSE_COG
+CACI,"CACI International,EOD/CACI,GOOG/NYSE_CACI
+CAE,CAE Inc,EOD/CAE,GOOG/NYSE_CAE
+CAI,"CAI International,EOD/CAI,
+CAA,"CalAtlantic Group,EOD/CAA,
+CAL,"Caleres,EOD/CAL,
+CCC,Calgon Carbon Corporation,EOD/CCC,GOOG/NYSE_CCC
+CRC,California Resources Corporation,EOD/CRC,
+CWT,California Water  Service Group Holding,EOD/CWT,GOOG/NYSE_CWT
+CALX,"Calix,EOD/CALX,GOOG/NYSE_CALX
+ELY,Callaway Golf Company,EOD/ELY,GOOG/NYSE_ELY
+CPE,Callon Petroleum Company,EOD/CPE,GOOG/NYSE_CPE
+CPE_A,Callon Petroleum Company,,
+CPN,Calpine Corporation,EOD/CPN,GOOG/NYSE_CPN
+CBM,Cambrex Corporation,EOD/CBM,GOOG/NYSE_CBM
+CPT,Camden Property Trust,EOD/CPT,GOOG/NYSE_CPT
+CCJ,Cameco Corporation,EOD/CCJ,GOOG/NYSE_CCJ
+CAM,Cameron International Corporation,EOD/CAM,GOOG/NYSE_CAM
+CPB,Campbell Soup Company,EOD/CPB,GOOG/NYSE_CPB
+CCG,"Campus Crest Communities,EOD/CCG,GOOG/NYSE_CCG
+CCG_A,"Campus Crest Communities,,GOOG/NYSE_CCG_A
+CM,Canadian Imperial Bank of Commerce,EOD/CM,GOOG/NYSE_CM
+CNI,Canadian National Railway Company,EOD/CNI,GOOG/NYSE_CNI
+CNQ,Canadian Natural Resources Limited,EOD/CNQ,GOOG/NYSE_CNQ
+CP,Canadian Pacific Railway Limited,EOD/CP,GOOG/NYSE_CP
+CAJ,"Canon,EOD/CAJ,GOOG/NYSE_CAJ
+CMN,Cantel Medical Corp.,EOD/CMN,GOOG/NYSE_CMN
+COF,Capital One Financial Corporation,EOD/COF,GOOG/NYSE_COF
+COF_WS,Capital One Financial Corporation,EOD/COF_WS,
+COF_C,Capital One Financial Corporation,,
+COF_D,Capital One Financial Corporation,,
+COF_F,Capital One Financial Corporation,,
+COF_P,Capital One Financial Corporation,,GOOG/NYSE_COF_P
+CSU,Capital Senior Living Corporation,EOD/CSU,GOOG/NYSE_CSU
+BXMT,"Capital Trust,EOD/BXMT,
+CLA,Capitala Finance Corp.,EOD/CLA,
+CMO,Capstead Mortgage Corporation,EOD/CMO,GOOG/NYSE_CMO
+CMO_E,Capstead Mortgage Corporation,,
+CRR,"Carbo Ceramics,EOD/CRR,GOOG/NYSE_CRR
+CAH,"Cardinal Health,EOD/CAH,GOOG/NYSE_CAH
+CCP,"Care Capital Properties,EOD/CCP,
+CRCM,"Care.com,EOD/CRCM,
+CSL,Carlisle Companies Incorporated,EOD/CSL,GOOG/NYSE_CSL
+KMX,CarMax Inc,EOD/KMX,GOOG/NYSE_KMX
+CCL,Carnival Corporation,EOD/CCL,GOOG/NYSE_CCL
+CUK,Carnival Corporation,EOD/CUK,GOOG/NYSE_CUK
+CRS,Carpenter Technology Corporation,EOD/CRS,GOOG/NYSE_CRS
+CSV,"Carriage Services,EOD/CSV,GOOG/NYSE_CSV
+CRI,"Carter&#39;s,EOD/CRI,GOOG/NYSE_CRI
+CSH,"Cash America International,EOD/CSH,GOOG/NYSE_CSH
+CAS,Castle (A.M.) & Co.,EOD/CAS,GOOG/NYSE_CAS
+CSLT,"Castlight Health,EOD/CSLT,
+CTLT,"Catalent,EOD/CTLT,
+CTT,"CatchMark Timber Trust,EOD/CTT,
+CAT,"Caterpillar,EOD/CAT,GOOG/NYSE_CAT
+CATO,Cato Corporation (The),EOD/CATO,GOOG/NYSE_CATO
+CBZ,"CBIZ,EOD/CBZ,GOOG/NYSE_CBZ
+CBL,"CBL & Associates Properties,EOD/CBL,GOOG/NYSE_CBL
+CBL_D,"CBL & Associates Properties,,GOOG/NYSE_CBL_D
+CBL_E,"CBL & Associates Properties,,GOOG/NYSE_CBL_E
+CBO,CBO (Listing Market - NYSE - Networks A/E),,
+IGR,CBRE Clarion Global Real Estate Income Fund,EOD/IGR,GOOG/NYSE_IGR
+CBG,"CBRE Group,EOD/CBG,GOOG/NYSE_CBG
+CBS,CBS Corporation,EOD/CBS,GOOG/NYSE_CBS
+CBS_A,CBS Corporation,EOD/CBS_A,GOOG/NYSE_CBS_A
+CBX,CBX (Listing Market NYSE Networks AE,EOD/CBX,
+CDI,CDI Corporation,EOD/CDI,GOOG/NYSE_CDI
+CEB,CEB Inc.,EOD/CEB,GOOG/NYSE_CEB
+FUN,"Cedar Fair,EOD/FUN,GOOG/NYSE_FUN
+CDR,"Cedar Realty Trust,EOD/CDR,GOOG/NYSE_CDR
+CDR_B,"Cedar Realty Trust,,GOOG/NYSE_CDR_B
+CGI,"Celadon Group,EOD/CGI,GOOG/NYSE_CGI
+CE,Celanese Corporation,EOD/CE,GOOG/NYSE_CE
+CLS,"Celestica,EOD/CLS,GOOG/NYSE_CLS
+CEL,"Cellcom Israel,EOD/CEL,GOOG/NYSE_CEL
+CPAC,Cementos Pacasmayo S.A.A.,EOD/CPAC,GOOG/NYSE_CPAC
+CX,Cemex S.A.B. de C.V.,EOD/CX,GOOG/NYSE_CX
+CNCO,Cencosud S.A.,EOD/CNCO,GOOG/NYSE_CNCO
+CVE,Cenovus Energy Inc,EOD/CVE,GOOG/NYSE_CVE
+CNC,Centene Corporation,EOD/CNC,GOOG/NYSE_CNC
+CEN,Center Coast MLP & Infrastructure Fund,EOD/CEN,
+CNP,"CenterPoint Energy,EOD/CNP,GOOG/NYSE_CNP
+EBR,Centrais Electricas Brasileiras SA,EOD/EBR,GOOG/NYSE_EBR
+EBR_B,Centrais Electricas Brasileiras SA,EOD/EBR_B,GOOG/NYSE_EBR_B
+CEE,"Central Europe,EOD/CEE,GOOG/NYSE_CEE
+CCS,"Century Communities,EOD/CCS,GOOG/NYSE_CCS
+CTL,"CenturyLink,EOD/CTL,GOOG/NYSE_CTL
+CVO,Cenveo Inc,EOD/CVO,GOOG/NYSE_CVO
+CF,"CF Industries Holdings,EOD/CF,GOOG/NYSE_CF
+CGG,CGG,EOD/CGG,GOOG/NYSE_CGG
+GIB,"CGI Group,EOD/GIB,GOOG/NYSE_GIB
+CSG,Chambers Street Properties,EOD/CSG,
+ECOM          ,ChannelAdvisor Corporation,EOD/ECOM          ,GOOG/NYSE_ECOM          
+CRL,"Charles River Laboratories International,EOD/CRL,GOOG/NYSE_CRL
+CLDT,Chatham Lodging Trust (REIT),EOD/CLDT,GOOG/NYSE_CLDT
+HELI,CHC Group Ltd.,EOD/HELI,
+CKP,"Checkpoint Systms,EOD/CKP,GOOG/NYSE_CKP
+CMCM,Cheetah Mobile Inc.,EOD/CMCM,
+CHGG,"Chegg,EOD/CHGG,GOOG/NYSE_CHGG
+CHE,Chemed Corp.,EOD/CHE,GOOG/NYSE_CHE
+CC,Chemours Company (The),EOD/CC,
+CHMT,Chemtura Corp.,EOD/CHMT,GOOG/NYSE_CHMT
+CHMI,Cherry Hill Mortgage Investment Corporation,EOD/CHMI,GOOG/NYSE_CHMI
+CHK,Chesapeake Energy Corporation,EOD/CHK,GOOG/NYSE_CHK
+CHK_D,Chesapeake Energy Corporation,,GOOG/NYSE_CHK_D
+CHKR,Chesapeake Granite Wash Trust,EOD/CHKR,GOOG/NYSE_CHKR
+CHSP,Chesapeake Lodging Trust,EOD/CHSP,GOOG/NYSE_CHSP
+CHSP_A,Chesapeake Lodging Trust,,
+CPK,Chesapeake Utilities Corporation,EOD/CPK,GOOG/NYSE_CPK
+CVX,Chevron Corporation,EOD/CVX,GOOG/NYSE_CVX
+CBI,Chicago Bridge & Iron Company N.V.,EOD/CBI,GOOG/NYSE_CBI
+CHS,"Chico&#39;s FAS,EOD/CHS,GOOG/NYSE_CHS
+CIM,Chimera Investment Corporation,EOD/CIM,GOOG/NYSE_CIM
+CO,China Cord Blood Corporation,EOD/CO,GOOG/NYSE_CO
+STV,"China Digital TV Holding Co.,EOD/STV,GOOG/NYSE_STV
+DL,China Distance Education Holdings Limited,EOD/DL,GOOG/NYSE_DL
+CEA,China Eastern Airlines Corporation Ltd.,EOD/CEA,GOOG/NYSE_CEA
+CHN,"China Fund,EOD/CHN,GOOG/NYSE_CHN
+CGA,"China Green Agriculture,EOD/CGA,GOOG/NYSE_CGA
+LFC,China Life Insurance Company Limited,EOD/LFC,GOOG/NYSE_LFC
+MY,China Ming Yang Wind Power Group Limited,EOD/MY,GOOG/NYSE_MY
+CHL,China Mobile (Hong Kong) Ltd.,EOD/CHL,GOOG/NYSE_CHL
+NPD,China Nepstar Chain Drugstore Ltd,EOD/NPD,GOOG/NYSE_NPD
+BORN,China New Borun Corporation,EOD/BORN,GOOG/NYSE_BORN
+SNP,China Petroleum & Chemical Corporation,EOD/SNP,GOOG/NYSE_SNP
+ZNH,China Southern Airlines Company Limited,EOD/ZNH,GOOG/NYSE_ZNH
+CHA,China Telecom Corp Ltd,EOD/CHA,GOOG/NYSE_CHA
+CHU,China Unicom (Hong Kong) Ltd,EOD/CHU,GOOG/NYSE_CHU
+XNY,China Xiniya Fashion Limited,EOD/XNY,GOOG/NYSE_XNY
+CYD,China Yuchai International Limited,EOD/CYD,GOOG/NYSE_CYD
+ZX,China Zenix Auto International Limited,EOD/ZX,GOOG/NYSE_ZX
+CMG,"Chipotle Mexican Grill,EOD/CMG,GOOG/NYSE_CMG
+CHH,"Choice Hotels International,EOD/CHH,GOOG/NYSE_CHH
+CBK,Christopher & Banks Corporation,EOD/CBK,GOOG/NYSE_CBK
+CB,Chubb Corporation (The),EOD/CB,GOOG/NYSE_CB
+CHT,"Chunghwa Telecom Co.,EOD/CHT,GOOG/NYSE_CHT
+CHD,"Church & Dwight Company,EOD/CHD,GOOG/NYSE_CHD
+CBR,"Ciber,EOD/CBR,GOOG/NYSE_CBR
+CIEN,Ciena Corporation,EOD/CIEN,GOOG/NYSE_CIEN
+CI,Cigna Corporation,EOD/CI,GOOG/NYSE_CI
+XEC,Cimarex Energy Co,EOD/XEC,GOOG/NYSE_XEC
+CBB,Cincinnati Bell Inc,EOD/CBB,GOOG/NYSE_CBB
+CBB_B,Cincinnati Bell Inc,,GOOG/NYSE_CBB_B
+CNK,Cinemark Holdings Inc,EOD/CNK,GOOG/NYSE_CNK
+CINR,Ciner Resources LP,EOD/CINR,
+CIR,"CIRCOR International,EOD/CIR,GOOG/NYSE_CIR
+CIT,CIT Group Inc (DEL),EOD/CIT,GOOG/NYSE_CIT
+BLW,Citigroup Inc.,EOD/BLW,GOOG/NYSE_BLW
+C,Citigroup Inc.,EOD/C,GOOG/NYSE_C
+C_WS_A,Citigroup Inc.,EOD/C_WS_A,
+C_WS_B,Citigroup Inc.,EOD/C_WS_B,
+C_C,Citigroup Inc.,,
+C_J,Citigroup Inc.,,GOOG/NYSE_C_J
+C_K,Citigroup Inc.,,
+C_L,Citigroup Inc.,,
+C_N,Citigroup Inc.,,GOOG/NYSE_C_N
+C_P,Citigroup Inc.,,GOOG/NYSE_C_P
+CFG,"Citizens Financial Group,EOD/CFG,
+CIA,"Citizens,EOD/CIA,GOOG/NYSE_CIA
+CIO,"City Office REIT,EOD/CIO,
+CVEO,Civeo Corporation,EOD/CVEO,
+CIVI,"Civitas Solutions,EOD/CIVI,
+CLC,CLARCOR Inc.,EOD/CLC,GOOG/NYSE_CLC
+CWEI,"Clayton Williams Energy,EOD/CWEI,
+CLH,"Clean Harbors,EOD/CLH,GOOG/NYSE_CLH
+CCO,"Clear Channel Outdoor Holdings,EOD/CCO,GOOG/NYSE_CCO
+CBA           ,ClearBridge American Energy MLP Fund Inc.,EOD/CBA           ,
+CEM,ClearBridge Energy MLP Fund Inc.,EOD/CEM,GOOG/NYSE_CEM
+EMO,ClearBridge Energy MLP Opportunity Fund Inc.,EOD/EMO,GOOG/NYSE_EMO
+CTR,ClearBridge Energy MLP Total Return Fund Inc.,EOD/CTR,GOOG/NYSE_CTR
+CLW,Clearwater Paper Corporation,EOD/CLW,GOOG/NYSE_CLW
+CNL,Cleco Corporation,EOD/CNL,GOOG/NYSE_CNL
+CLF,Cliffs Natural Resources Inc.,EOD/CLF,GOOG/NYSE_CLF
+CLV,Cliffs Natural Resources Inc.,EOD/CLV,GOOG/NYSE_CLV
+CLX,Clorox Company (The),EOD/CLX,GOOG/NYSE_CLX
+CLD,Cloud Peak Energy Inc,EOD/CLD,GOOG/NYSE_CLD
+MYCC,"ClubCorp Holdings,EOD/MYCC,GOOG/NYSE_MYCC
+CMS,CMS Energy Corporation,EOD/CMS,GOOG/NYSE_CMS
+CMS_B,CMS Energy Corporation,,GOOG/NYSE_CMS_B
+CNA,CNA Financial Corporation,EOD/CNA,GOOG/NYSE_CNA
+CNHI,CNH Industrial N.V.,EOD/CNHI,
+CNO,"CNO Financial Group,EOD/CNO,GOOG/NYSE_CNO
+CEO,CNOOC Limited,EOD/CEO,GOOG/NYSE_CEO
+CNXC,CNX Coal Resources LP,EOD/CNXC,
+COH,"Coach,EOD/COH,GOOG/NYSE_COH
+CIE,"Cobalt International Energy,EOD/CIE,GOOG/NYSE_CIE
+KOF,Coca Cola Femsa S.A.B. de C.V.,EOD/KOF,GOOG/NYSE_KOF
+KO,Coca-Cola Company (The),EOD/KO,GOOG/NYSE_KO
+CCE,"Coca-Cola Enterprises,EOD/CCE,GOOG/NYSE_CCE
+CDE,"Coeur Mining,EOD/CDE,GOOG/NYSE_CDE
+FOF,"Cohen & Steers Closed-End Opportunity Fund,EOD/FOF,GOOG/NYSE_FOF
+INB,"Cohen & Steers Global Income Builder,EOD/INB,GOOG/NYSE_INB
+UTF,"Cohen & Steers Infrastructure Fund,EOD/UTF,GOOG/NYSE_UTF
+LDP,"Cohen & Steers Limited Duration Preferred and Income Fund,EOD/LDP,GOOG/NYSE_LDP
+MIE,"Cohen & Steers MLP Income and Energy Opportunity Fund,EOD/MIE,GOOG/NYSE_MIE
+RQI,Cohen & Steers Quality Income Realty Fund Inc,EOD/RQI,GOOG/NYSE_RQI
+RNP,Cohen & Steers Reit and Preferred Income Fund Inc,EOD/RNP,GOOG/NYSE_RNP
+PSF,"Cohen & Steers Select Preferred and Income Fund,EOD/PSF,GOOG/NYSE_PSF
+RFI,"Cohen & Steers Total Return Realty Fund,EOD/RFI,GOOG/NYSE_RFI
+CNS,Cohn & Steers Inc,EOD/CNS,GOOG/NYSE_CNS
+CFX,Colfax Corporation,EOD/CFX,GOOG/NYSE_CFX
+CL,Colgate-Palmolive Company,EOD/CL,GOOG/NYSE_CL
+CXE,Colonial High Income Municipal Trust,EOD/CXE,GOOG/NYSE_CXE
+CIF,Colonial Intermediate High Income Fund,EOD/CIF,GOOG/NYSE_CIF
+CXH,Colonial Investment Grade Municipal Trust,EOD/CXH,GOOG/NYSE_CXH
+CMU,Colonial Municipal Income Trust,EOD/CMU,GOOG/NYSE_CMU
+CLNY,"Colony Capital,EOD/CLNY,GOOG/NYSE_CLNY
+CLNY_A,"Colony Capital,,
+CLNY_B,"Colony Capital,,
+CLNY_C,"Colony Capital,,
+CPGX,"Columbia Pipeline Group,EOD/CPGX,
+CPPL,Columbia Pipeline Partners LP,EOD/CPPL,
+CXP,"Columbia Property Trust,EOD/CXP,
+STK,"Columbia Seligman Premium Technology Growth Fund,EOD/STK,GOOG/NYSE_STK
+CCV,Comcast Corporation,EOD/CCV,
+CCZ,Comcast Corporation,EOD/CCZ,GOOG/NYSE_CCZ
+CMA,Comerica Incorporated,EOD/CMA,GOOG/NYSE_CMA
+CMA_WS,Comerica Incorporated,EOD/CMA_WS,
+FIX,"Comfort Systems USA,EOD/FIX,GOOG/NYSE_FIX
+CMC,Commercial Metals Company,EOD/CMC,GOOG/NYSE_CMC
+CBU,"Community Bank System,EOD/CBU,GOOG/NYSE_CBU
+CYH,"Community Health Systems,EOD/CYH,GOOG/NYSE_CYH
+CHCT,Community Healthcare Trust Incorporated,EOD/CHCT,
+CIG,Comp En De Mn Cemig ADS,EOD/CIG,GOOG/NYSE_CIG
+CIG_C,Comp En De Mn Cemig ADS,EOD/CIG_C,GOOG/NYSE_CIG_C
+CBD,Companhia Brasileira de Distribuicao,EOD/CBD,GOOG/NYSE_CBD
+SBS,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp,EOD/SBS,GOOG/NYSE_SBS
+ELP,Companhia Paranaense de Energia (COPEL),EOD/ELP,GOOG/NYSE_ELP
+CCU,"Compania Cervecerias Unidas,EOD/CCU,GOOG/NYSE_CCU
+CODI,Compass Diversified Holdings,EOD/CODI,GOOG/NYSE_CODI
+CMP,"Compass Minerals International,EOD/CMP,GOOG/NYSE_CMP
+CSC,Computer Sciences Corporation,EOD/CSC,GOOG/NYSE_CSC
+CRK,"Comstock Resources,EOD/CRK,GOOG/NYSE_CRK
+CAG,"ConAgra Foods,EOD/CAG,GOOG/NYSE_CAG
+CXO,Concho Resources Inc.,EOD/CXO,GOOG/NYSE_CXO
+CCM,Concord Medical Services Holdings Limited,EOD/CCM,GOOG/NYSE_CCM
+CNNX,Cone Midstream Partners LP,EOD/CNNX,
+COP,ConocoPhillips,EOD/COP,GOOG/NYSE_COP
+CNX,CONSOL Energy Inc.,EOD/CNX,GOOG/NYSE_CNX
+ED,Consolidated Edison Inc,EOD/ED,GOOG/NYSE_ED
+STZ,Constellation Brands Inc,EOD/STZ,GOOG/NYSE_STZ
+STZ_B,Constellation Brands Inc,EOD/STZ_B,GOOG/NYSE_STZ_B
+CSTM,Constellium N.V.,EOD/CSTM,GOOG/NYSE_CSTM
+TCS,Container Store (The),EOD/TCS,GOOG/NYSE_TCS
+CBPX,"Continental Building Products,EOD/CBPX,
+CLR,"Continental Resources,EOD/CLR,GOOG/NYSE_CLR
+VLRS,"Controladora Vuela Compania de Aviacion,EOD/VLRS,GOOG/NYSE_VLRS
+CVG,Convergys Corporation,EOD/CVG,GOOG/NYSE_CVG
+COO,"Cooper Companies,EOD/COO,GOOG/NYSE_COO
+CTB,Cooper Tire & Rubber Company,EOD/CTB,GOOG/NYSE_CTB
+CPS,Cooper-Standard Holdings Inc.,EOD/CPS,
+CPA,"Copa Holdings,EOD/CPA,GOOG/NYSE_CPA
+CLB,Core Laboratories N.V.,EOD/CLB,GOOG/NYSE_CLB
+CLGX,"CoreLogic,EOD/CLGX,GOOG/NYSE_CLGX
+CORR,"CorEnergy Infrastructure Trust,EOD/CORR,GOOG/NYSE_CORR
+CORR_A,"CorEnergy Infrastructure Trust,,
+COR,CoreSite Realty Corporation,EOD/COR,GOOG/NYSE_COR
+COR_A,CoreSite Realty Corporation,,GOOG/NYSE_COR_A
+GLW,Corning Incorporated,EOD/GLW,GOOG/NYSE_GLW
+BCA,Corpbanca,EOD/BCA,GOOG/NYSE_BCA
+GYC,Corporate Asset Backed Corp CABCO,EOD/GYC,GOOG/NYSE_GYC
+OFC,Corporate Office Properties Trust,EOD/OFC,GOOG/NYSE_OFC
+OFC_L,Corporate Office Properties Trust,,GOOG/NYSE_OFC_L
+CXW,Corrections Corporation of America,EOD/CXW,GOOG/NYSE_CXW
+CZZ,Cosan Limited,EOD/CZZ,GOOG/NYSE_CZZ
+CMRE,Costamare Inc.,EOD/CMRE,GOOG/NYSE_CMRE
+CMRE_B,Costamare Inc.,,
+CMRE_C,Costamare Inc.,,
+CMRE_D,Costamare Inc.,,
+COT,Cott Corporation,EOD/COT,GOOG/NYSE_COT
+COTY,Coty Inc.,EOD/COTY,GOOG/NYSE_COTY
+CCSC,"Country Style Cooking Restaurant Chain Co.,EOD/CCSC,GOOG/NYSE_CCSC
+CFC_A,Countrywide Financial Corporation,,GOOG/NYSE_CFC_A
+CFC_B,Countrywide Financial Corporation,,GOOG/NYSE_CFC_B
+CUZ,Cousins Properties Incorporated,EOD/CUZ,GOOG/NYSE_CUZ
+CVA,Covanta Holding Corporation,EOD/CVA,GOOG/NYSE_CVA
+CPF,CPB Inc.,EOD/CPF,GOOG/NYSE_CPF
+CPL,CPFL Energia S.A.,EOD/CPL,GOOG/NYSE_CPL
+CR,Crane Company,EOD/CR,GOOG/NYSE_CR
+CRD_A,Crawford & Company,EOD/CRD_A,GOOG/NYSE_CRD_A
+CRD_B,Crawford & Company,EOD/CRD_B,GOOG/NYSE_CRD_B
+BAP,Credicorp Ltd.,EOD/BAP,GOOG/NYSE_BAP
+CS,Credit Suisse Group,EOD/CS,GOOG/NYSE_CS
+CPG,Crescent Point Energy Corporation,EOD/CPG,
+CEQP,Crestwood Equity Partners LP,EOD/CEQP,
+CRH,CRH PLC,EOD/CRH,GOOG/NYSE_CRH
+CRT,Cross Timbers Royalty Trust,EOD/CRT,GOOG/NYSE_CRT
+CAPL,CrossAmerica Partners LP,EOD/CAPL,
+CCI,Crown Castle International Corporation,EOD/CCI,GOOG/NYSE_CCI
+CCI_A,Crown Castle International Corporation,,
+CCK,"Crown Holdings,EOD/CCK,GOOG/NYSE_CCK
+CRY,"CryoLife,EOD/CRY,GOOG/NYSE_CRY
+CSS,"CSS Industries,EOD/CSS,GOOG/NYSE_CSS
+CST,"CST Brands,EOD/CST,
+CSX,CSX Corporation,EOD/CSX,GOOG/NYSE_CSX
+CTS,CTS Corporation,EOD/CTS,GOOG/NYSE_CTS
+CUBE,CubeSmart,EOD/CUBE,GOOG/NYSE_CUBE
+CUBE_A,CubeSmart,,
+CUB,Cubic Corporation,EOD/CUB,GOOG/NYSE_CUB
+CFR,"Cullen/Frost Bankers,EOD/CFR,GOOG/NYSE_CFR
+CFR_A,"Cullen/Frost Bankers,,GOOG/NYSE_CFR_A
+CFI,"Culp,EOD/CFI,GOOG/NYSE_CFI
+CMI,Cummins Inc.,EOD/CMI,GOOG/NYSE_CMI
+CW,Curtiss-Wright Corporation,EOD/CW,GOOG/NYSE_CW
+SRF,Cushing Energy Income Fund (The),EOD/SRF,GOOG/NYSE_SRF
+SZC,Cushing Renaissance Fund (The),EOD/SZC,GOOG/NYSE_SZC
+CUBI,"Customers Bancorp,EOD/CUBI,
+CUBI_C,"Customers Bancorp,,
+CUBS,"Customers Bancorp,EOD/CUBS,
+CSI,Cutwater Select Income Fund,EOD/CSI,
+CVT,"CVENT,EOD/CVT,GOOG/NYSE_CVT
+CVI,CVR Energy Inc.,EOD/CVI,GOOG/NYSE_CVI
+UAN,"CVR Partners,EOD/UAN,GOOG/NYSE_UAN
+CVRR,"CVR Refining,EOD/CVRR,GOOG/NYSE_CVRR
+CVS,CVS Health Corporation,EOD/CVS,GOOG/NYSE_CVS
+CELP,"Cypress Energy Partners,EOD/CELP,
+CYS,"CYS Investments,EOD/CYS,GOOG/NYSE_CYS
+CYS_A,"CYS Investments,,GOOG/NYSE_CYS_A
+CYS_B,"CYS Investments,,
+CYT,Cytec Industries Inc.,EOD/CYT,GOOG/NYSE_CYT
+DHI,"D.R. Horton,EOD/DHI,GOOG/NYSE_DHI
+DAN,Dana Holding Corporation,EOD/DAN,GOOG/NYSE_DAN
+DHR,Danaher Corporation,EOD/DHR,GOOG/NYSE_DHR
+DAC,Danaos Corporation,EOD/DAC,GOOG/NYSE_DAC
+DQ,DAQO New Energy Corp.,EOD/DQ,GOOG/NYSE_DQ
+DRI,"Darden Restaurants,EOD/DRI,GOOG/NYSE_DRI
+DAR,Darling Ingredients Inc.,EOD/DAR,GOOG/NYSE_DAR
+DVA,DaVita healthCare Partners Inc.,EOD/DVA,GOOG/NYSE_DVA
+DPM,"DCP Midstream Partners,EOD/DPM,GOOG/NYSE_DPM
+DCT,DCT Industrial Trust Inc,EOD/DCT,GOOG/NYSE_DCT
+DDR,DDR Corp.,EOD/DDR,GOOG/NYSE_DDR
+DDR_J,DDR Corp.,,GOOG/NYSE_DDR_J
+DDR_K,DDR Corp.,,
+DF,Dean Foods Company,EOD/DF,GOOG/NYSE_DF
+DECK,Deckers Outdoor Corporation,EOD/DECK,
+DE,Deere & Company,EOD/DE,GOOG/NYSE_DE
+DEX,Delaware Enhanced Global Dividend,EOD/DEX,GOOG/NYSE_DEX
+DDF,"Delaware Investments Dividend & Income Fund,EOD/DDF,GOOG/NYSE_DDF
+DKL,"Delek Logistics Partners,EOD/DKL,GOOG/NYSE_DKL
+DK,"Delek US Holdings,EOD/DK,GOOG/NYSE_DK
+DLPH,Delphi Automotive plc,EOD/DLPH,GOOG/NYSE_DLPH
+DAL,"Delta Air Lines,EOD/DAL,GOOG/NYSE_DAL
+DEL,Deltic Timber Corporation,EOD/DEL,GOOG/NYSE_DEL
+DLX,Deluxe Corporation,EOD/DLX,GOOG/NYSE_DLX
+DMD,Demand Media Inc.,EOD/DMD,GOOG/NYSE_DMD
+DWRE,"DEMANDWARE,EOD/DWRE,GOOG/NYSE_DWRE
+DNR,Denbury Resources Inc.,EOD/DNR,GOOG/NYSE_DNR
+DKT,Deutsch Bk Contingent Cap Tr V,EOD/DKT,GOOG/NYSE_DKT
+DB,Deutsche Bank AG,EOD/DB,GOOG/NYSE_DB
+DTK,Deutsche Bank AG,EOD/DTK,GOOG/NYSE_DTK
+DXB,Deutsche Bank AG,EOD/DXB,GOOG/NYSE_DXB
+DVN,Devon Energy Corporation,EOD/DVN,GOOG/NYSE_DVN
+DV,DeVry Education Group Inc.,EOD/DV,GOOG/NYSE_DV
+DHX,"DHI Group,EOD/DHX,GOOG/NYSE_DHX
+DHT,"DHT Holdings,EOD/DHT,GOOG/NYSE_DHT
+DEO,Diageo plc,EOD/DEO,GOOG/NYSE_DEO
+DO,"Diamond Offshore Drilling,EOD/DO,GOOG/NYSE_DO
+DRII,"Diamond Resorts International,EOD/DRII,GOOG/NYSE_DRII
+DRH,Diamondrock Hospitality Company,EOD/DRH,GOOG/NYSE_DRH
+DSX,Diana Shipping inc.,EOD/DSX,GOOG/NYSE_DSX
+DSX_B,Diana Shipping inc.,,
+DSXN,Diana Shipping inc.,EOD/DSXN,
+DKS,Dick&#39;s Sporting Goods Inc,EOD/DKS,GOOG/NYSE_DKS
+DBD,"Diebold,EOD/DBD,GOOG/NYSE_DBD
+DLR,"Digital Realty Trust,EOD/DLR,GOOG/NYSE_DLR
+DLR_E,"Digital Realty Trust,,GOOG/NYSE_DLR_E
+DLR_F,"Digital Realty Trust,,GOOG/NYSE_DLR_F
+DLR_G,"Digital Realty Trust,,
+DLR_H,"Digital Realty Trust,,
+DLR_I,"Digital Realty Trust,,
+DGI,"DigitalGlobe,EOD/DGI,GOOG/NYSE_DGI
+DDS,"Dillard&#39;s,EOD/DDS,GOOG/NYSE_DDS
+DDT,"Dillard&#39;s,EOD/DDT,GOOG/NYSE_DDT
+DIN,"DineEquity,EOD/DIN,GOOG/NYSE_DIN
+DPLO,"Diplomat Pharmacy,EOD/DPLO,
+DFS,Discover Financial Services,EOD/DFS,GOOG/NYSE_DFS
+DFS_B,Discover Financial Services,,GOOG/NYSE_DFS_B
+DRA,Diversified Real Asset Income Fund,EOD/DRA,
+DNI,Dividend and Income Fund,EOD/DNI,GOOG/NYSE_DNI
+DLB,Dolby Laboratories,EOD/DLB,GOOG/NYSE_DLB
+DG,Dollar General Corporation,EOD/DG,GOOG/NYSE_DG
+DDC,Dominion Diamond Corporation,EOD/DDC,GOOG/NYSE_DDC
+DM,"Dominion Midstream Partners,EOD/DM,GOOG/NYSE_DM
+DOM,Dominion Resources Black Warrior Trust,EOD/DOM,GOOG/NYSE_DOM
+D,"Dominion Resources,EOD/D,GOOG/NYSE_D
+DCUA,"Dominion Resources,EOD/DCUA,
+DCUB,"Dominion Resources,EOD/DCUB,
+DCUC,"Dominion Resources,EOD/DCUC,
+DPZ,Domino&#39;s Pizza Inc,EOD/DPZ,GOOG/NYSE_DPZ
+UFS,Domtar Corporation,EOD/UFS,GOOG/NYSE_UFS
+DCI,"Donaldson Company,EOD/DCI,GOOG/NYSE_DCI
+LPG,Dorian LPG Ltd.,EOD/LPG,
+DSL,DoubleLine Income Solutions Fund,EOD/DSL,
+DBL,DoubleLine Opportunistic Credit Fund,EOD/DBL,GOOG/NYSE_DBL
+PLOW,"Douglas Dynamics,EOD/PLOW,GOOG/NYSE_PLOW
+DEI,"Douglas Emmett,EOD/DEI,GOOG/NYSE_DEI
+DOV,Dover Corporation,EOD/DOV,GOOG/NYSE_DOV
+DDE,Dover Downs Gaming & Entertainment Inc,EOD/DDE,GOOG/NYSE_DDE
+DVD,"Dover Motorsports,EOD/DVD,GOOG/NYSE_DVD
+DOW,Dow Chemical Company (The),EOD/DOW,GOOG/NYSE_DOW
+DPS,"Dr Pepper Snapple Group,EOD/DPS,GOOG/NYSE_DPS
+RDY,Dr. Reddy&#39;s Laboratories Ltd,EOD/RDY,GOOG/NYSE_RDY
+DRD,DRDGOLD Limited,EOD/DRD,GOOG/NYSE_DRD
+DW,Drew Industries Incorporated,EOD/DW,GOOG/NYSE_DW
+DHF,Dreyfus High Yield Strategies Fund,EOD/DHF,GOOG/NYSE_DHF
+DMB,"Dreyfus Municipal Bond Infrastructure Fund,EOD/DMB,
+DSM,"Dreyfus Strategic Municipal Bond Fund,EOD/DSM,GOOG/NYSE_DSM
+LEO,"Dreyfus Strategic Municipals,EOD/LEO,GOOG/NYSE_LEO
+DRQ,"Dril-Quip,EOD/DRQ,GOOG/NYSE_DRQ
+DST,"DST Systems,EOD/DST,GOOG/NYSE_DST
+DSW,DSW Inc.,EOD/DSW,GOOG/NYSE_DSW
+DTE,DTE Energy Company,EOD/DTE,GOOG/NYSE_DTE
+DTQ,DTE Energy Company,EOD/DTQ,
+DTZ,DTE Energy Company,EOD/DTZ,
+DCO,Ducommun Incorporated,EOD/DCO,GOOG/NYSE_DCO
+DPG,Duff & Phelps Global Utility Income Fund Inc.,EOD/DPG,GOOG/NYSE_DPG
+DSE,Duff & Phelps Select Energy MLP Fund Inc.,EOD/DSE,
+DNP,"Duff & Phelps Utilities Income,EOD/DNP,GOOG/NYSE_DNP
+DTF,"Duff & Phelps Utilities Tax-Free Income,EOD/DTF,GOOG/NYSE_DTF
+DUC,"Duff & Phelps Utility & Corporate Bond Trust,EOD/DUC,GOOG/NYSE_DUC
+DUK,Duke Energy Corporation,EOD/DUK,GOOG/NYSE_DUK
+DUKH,Duke Energy Corporation,EOD/DUKH,
+DRE,Duke Realty Corporation,EOD/DRE,GOOG/NYSE_DRE
+DNB,Dun & Bradstreet Corporation (The),EOD/DNB,GOOG/NYSE_DNB
+DFT,"Dupont Fabros Technology,EOD/DFT,GOOG/NYSE_DFT
+DFT_A,"Dupont Fabros Technology,,GOOG/NYSE_DFT_A
+DFT_B,"Dupont Fabros Technology,,GOOG/NYSE_DFT_B
+DHG,"DWS High Income Opportunities Fund,EOD/DHG,GOOG/NYSE_DHG
+DY,"Dycom Industries,EOD/DY,GOOG/NYSE_DY
+DLNG,Dynagas LNG Partners LP,EOD/DLNG,
+DLNG_A,Dynagas LNG Partners LP,,
+DYN,Dynegy Inc.,EOD/DYN,GOOG/NYSE_DYN
+DYN_WS,Dynegy Inc.,EOD/DYN_WS,
+DYN_A,Dynegy Inc.,,
+DX,"Dynex Capital,EOD/DX,GOOG/NYSE_DX
+DX_A,"Dynex Capital,,GOOG/NYSE_DX_A
+DX_B,"Dynex Capital,,
+DD,E.I. du Pont de Nemours and Company,EOD/DD,GOOG/NYSE_DD
+DD_A,E.I. du Pont de Nemours and Company,,GOOG/NYSE_DD_A
+DD_B,E.I. du Pont de Nemours and Company,,GOOG/NYSE_DD_B
+SSP,E.W. Scripps Company (The),EOD/SSP,GOOG/NYSE_SSP
+EGIF,Eagle Growth and Income Opportunities Fund,EOD/EGIF,
+EXP,Eagle Materials Inc,EOD/EXP,GOOG/NYSE_EXP
+ECC           ,Eagle Point Credit Company Inc.,EOD/ECC           ,
+ECCA,Eagle Point Credit Company Inc.,EOD/ECCA,
+DEA,"Easterly Government Properties,EOD/DEA,
+EGP,"EastGroup Properties,EOD/EGP,GOOG/NYSE_EGP
+EMN,Eastman Chemical Company,EOD/EMN,GOOG/NYSE_EMN
+KODK,Eastman Kodak Company,EOD/KODK,
+KODK_WS,Eastman Kodak Company,EOD/KODK_WS,
+KODK_WS_A,Eastman Kodak Company,EOD/KODK_WS_A,
+ETN,"Eaton Corporation,EOD/ETN,GOOG/NYSE_ETN
+ETV,Eaton Vance Corporation,EOD/ETV,GOOG/NYSE_ETV
+ETW,Eaton Vance Corporation,EOD/ETW,GOOG/NYSE_ETW
+EV,Eaton Vance Corporation,EOD/EV,GOOG/NYSE_EV
+EOI,Eaton Vance Enhance Equity Income Fund,EOD/EOI,GOOG/NYSE_EOI
+EOS,Eaton Vance Enhanced Equity Income Fund II,EOD/EOS,GOOG/NYSE_EOS
+EFT,Eaton Vance Floating Rate Income Trust,EOD/EFT,GOOG/NYSE_EFT
+EFF,Eaton vance Floating-Rate Income Plus Fund,EOD/EFF,
+ETX           ,Eaton Vance Municipal Income 2028 Term Trust,EOD/ETX           ,GOOG/NYSE_ETX           
+EOT,Eaton Vance Municipal Income Trust,EOD/EOT,GOOG/NYSE_EOT
+EVN,Eaton Vance Municipal Income Trust,EOD/EVN,GOOG/NYSE_EVN
+ETJ,Eaton Vance Risk-Managed Diversified Equity Income Fund,EOD/ETJ,GOOG/NYSE_ETJ
+EFR,Eaton Vance Senior Floating-Rate Fund,EOD/EFR,GOOG/NYSE_EFR
+EVF,Eaton Vance Senior Income Trust,EOD/EVF,GOOG/NYSE_EVF
+EVG,Eaton Vance Short Diversified Income Fund,EOD/EVG,GOOG/NYSE_EVG
+EVT,Eaton Vance Tax Advantaged Dividend Income Fund,EOD/EVT,GOOG/NYSE_EVT
+ETO,Eaton Vance Tax-Advantage Global Dividend Opp,EOD/ETO,GOOG/NYSE_ETO
+EXD,Eaton Vance Tax-Advantaged Bond,EOD/EXD,GOOG/NYSE_EXD
+ETG,Eaton Vance Tax-Advantaged Global Dividend Income Fund,EOD/ETG,GOOG/NYSE_ETG
+ETB,Eaton Vance Tax-Managed Buy-Write Income Fund,EOD/ETB,GOOG/NYSE_ETB
+ETY,Eaton Vance Tax-Managed Diversified Equity Income Fund,EOD/ETY,GOOG/NYSE_ETY
+EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund,EOD/EXG,GOOG/NYSE_EXG
+ECT,ECA Marcellus Trust I,EOD/ECT,GOOG/NYSE_ECT
+ECR,Eclipse Resources Corporation,EOD/ECR,
+ECL,Ecolab Inc.,EOD/ECL,GOOG/NYSE_ECL
+DANG,E-Commerce China Dangdang Inc.,EOD/DANG,GOOG/NYSE_DANG
+EC,Ecopetrol S.A.,EOD/EC,GOOG/NYSE_EC
+EIX,Edison International,EOD/EIX,GOOG/NYSE_EIX
+EDR,Education Realty Trust Inc.,EOD/EDR,GOOG/NYSE_EDR
+EW,Edwards Lifesciences Corporation,EOD/EW,GOOG/NYSE_EW
+EHIC,eHi Car Services Limited,EOD/EHIC,
+EJ,E-House (China) Holdings Limited,EOD/EJ,GOOG/NYSE_EJ
+EP_C,El Paso Corporation,,GOOG/NYSE_EP_C
+EE,El Paso Electric Company,EOD/EE,GOOG/NYSE_EE
+EGO,Eldorado Gold Corporation,EOD/EGO,GOOG/NYSE_EGO
+LLY,Eli Lilly and Company,EOD/LLY,GOOG/NYSE_LLY
+ELLI,"Ellie Mae,EOD/ELLI,GOOG/NYSE_ELLI
+EFC,Ellington Financial LLC,EOD/EFC,GOOG/NYSE_EFC
+EARN,Ellington Residential Mortgage REIT,EOD/EARN,GOOG/NYSE_EARN
+AKO_A,Embotelladora Andina S.A.,EOD/AKO_A,GOOG/NYSE_AKO_A
+AKO_B,Embotelladora Andina S.A.,EOD/AKO_B,GOOG/NYSE_AKO_B
+ERJ,Embraer-Empresa Brasileira de Aeronautica,EOD/ERJ,GOOG/NYSE_ERJ
+EMC,EMC Corporation,EOD/EMC,GOOG/NYSE_EMC
+EME,"EMCOR Group,EOD/EME,GOOG/NYSE_EME
+EMES,Emerge Energy Services LP,EOD/EMES,GOOG/NYSE_EMES
+EBS,"Emergent Biosolutions,EOD/EBS,GOOG/NYSE_EBS
+EMG,"Emergent Capital,EOD/EMG,
+EMR,Emerson Electric Company,EOD/EMR,GOOG/NYSE_EMR
+EDE,Empire District Electric Company (The),EOD/EDE,GOOG/NYSE_EDE
+ESRT,"Empire State Realty Trust,EOD/ESRT,GOOG/NYSE_ESRT
+EIG,Employers Holdings Inc,EOD/EIG,GOOG/NYSE_EIG
+EDN,Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor),EOD/EDN,GOOG/NYSE_EDN
+EOC,Empresa Nacional de Electricidad S.A.,EOD/EOC,GOOG/NYSE_EOC
+ICA,Empresas Ica Soc Contrladora,EOD/ICA,GOOG/NYSE_ICA
+ENBL,"Enable Midstream Partners,EOD/ENBL,
+EEQ,Enbridge Energy Management LLC,EOD/EEQ,GOOG/NYSE_EEQ
+EEP,"Enbridge Energy,EOD/EEP,GOOG/NYSE_EEP
+ENB,Enbridge Inc,EOD/ENB,GOOG/NYSE_ENB
+ECA,Encana Corporation,EOD/ECA,GOOG/NYSE_ECA
+EXK,Endeavour Silver Corporation,EOD/EXK,GOOG/NYSE_EXK
+GI,"EndoChoice Holdings,EOD/GI,
+ENH,Endurance Specialty Holdings Ltd,EOD/ENH,GOOG/NYSE_ENH
+ENH_A,Endurance Specialty Holdings Ltd,,GOOG/NYSE_ENH_A
+ENH_B,Endurance Specialty Holdings Ltd,,GOOG/NYSE_ENH_B
+NDRO,Enduro Royalty Trust,EOD/NDRO,GOOG/NYSE_NDRO
+EGN,Energen Corporation,EOD/EGN,GOOG/NYSE_EGN
+ENR,"Energizer Holdings,EOD/ENR,GOOG/NYSE_ENR
+EPC,"Energizer Holdings,EOD/EPC,
+ETE,"Energy Transfer Equity,EOD/ETE,GOOG/NYSE_ETE
+ETP,ENERGY TRANSFER PARTNERS,EOD/ETP,GOOG/NYSE_ETP
+ERF,Enerplus Corporation,EOD/ERF,GOOG/NYSE_ERF
+ENI,Enersis S A,EOD/ENI,GOOG/NYSE_ENI
+ENS,Enersys,EOD/ENS,GOOG/NYSE_ENS
+EGL,"Engility Holdings,EOD/EGL,GOOG/NYSE_EGL
+E,ENI S.p.A.,EOD/E,GOOG/NYSE_E
+ENLK,"EnLink Midstream Partners,EOD/ENLK,
+ENLC,"EnLink Midstream,EOD/ENLC,
+EBF,"Ennis,EOD/EBF,GOOG/NYSE_EBF
+ENVA,"Enova International,EOD/ENVA,
+NPO,Enpro Industries,EOD/NPO,GOOG/NYSE_NPO
+ESV,ENSCO plc,EOD/ESV,GOOG/NYSE_ESV
+ETM,Entercom Communications Corporation,EOD/ETM,GOOG/NYSE_ETM
+EAA,"Entergy Arkansas,EOD/EAA,GOOG/NYSE_EAA
+EAB,"Entergy Arkansas,EOD/EAB,
+EAE,"Entergy Arkansas,EOD/EAE,
+ETR,Entergy Corporation,EOD/ETR,GOOG/NYSE_ETR
+ELA,"Entergy Louisiana,EOD/ELA,GOOG/NYSE_ELA
+ELB,"Entergy Louisiana,EOD/ELB,GOOG/NYSE_ELB
+ELJ,"Entergy Louisiana,EOD/ELJ,
+ELU,"Entergy Louisiana,EOD/ELU,
+EFM,"Entergy Mississippi,EOD/EFM,GOOG/NYSE_EFM
+EMQ,"Entergy Mississippi,EOD/EMQ,GOOG/NYSE_EMQ
+EMZ,"Entergy Mississippi,EOD/EMZ,GOOG/NYSE_EMZ
+ENJ,"Entergy New Orleans,EOD/ENJ,
+EZT,Entergy Texas Inc,EOD/EZT,
+EPD,Enterprise Products Partners L.P.,EOD/EPD,GOOG/NYSE_EPD
+EVC,Entravision Communications Corporation,EOD/EVC,GOOG/NYSE_EVC
+ENV,"Envestnet,EOD/ENV,GOOG/NYSE_ENV
+EVHC,"Envision Healthcare Holdings,EOD/EVHC,GOOG/NYSE_EVHC
+EVA,"Enviva Partners,EOD/EVA,
+ENZ,"Enzo Biochem,EOD/ENZ,GOOG/NYSE_ENZ
+EOG,"EOG Resources,EOD/EOG,GOOG/NYSE_EOG
+EPE,EP Energy Corporation,EOD/EPE,GOOG/NYSE_EPE
+EPAM,"EPAM Systems,EOD/EPAM,GOOG/NYSE_EPAM
+EPR,EPR Properties,EOD/EPR,GOOG/NYSE_EPR
+EPR_C,EPR Properties,,GOOG/NYSE_EPR_C
+EPR_E,EPR Properties,,GOOG/NYSE_EPR_E
+EPR_F,EPR Properties,,GOOG/NYSE_EPR_F
+EQT,EQT Corporation,EOD/EQT,GOOG/NYSE_EQT
+EQGP,"EQT GP Holdings,EOD/EQGP,
+EQM,"EQT Midstream Partners,EOD/EQM,GOOG/NYSE_EQM
+EFX,"Equifax,EOD/EFX,GOOG/NYSE_EFX
+EQC,Equity Commonwealth,EOD/EQC,
+EQC_D,Equity Commonwealth,,
+EQC_E,Equity Commonwealth,,
+EQCO,Equity Commonwealth,EOD/EQCO,
+ELS,"Equity Lifestyle Properties,EOD/ELS,GOOG/NYSE_ELS
+ELS_C,"Equity Lifestyle Properties,,GOOG/NYSE_ELS_C
+EQY,"Equity One,EOD/EQY,GOOG/NYSE_EQY
+EQR,Equity Residential,EOD/EQR,GOOG/NYSE_EQR
+EQS,"Equus Total Return,EOD/EQS,GOOG/NYSE_EQS
+ERA,"Era Group,EOD/ERA,GOOG/NYSE_ERA
+EROS,Eros International PLC,EOD/EROS,GOOG/NYSE_EROS
+ESE,ESCO Technologies Inc.,EOD/ESE,GOOG/NYSE_ESE
+ESNT,Essent Group Ltd.,EOD/ESNT,GOOG/NYSE_ESNT
+ESS,"Essex Property Trust,EOD/ESS,GOOG/NYSE_ESS
+ESS_H,"Essex Property Trust,,GOOG/NYSE_ESS_H
+EL,"Estee Lauder Companies,EOD/EL,GOOG/NYSE_EL
+ESL,Esterline Technologies Corporation,EOD/ESL,GOOG/NYSE_ESL
+DEG,Etablissements Delhaize Freres et Cie &quot;Le Lion&quot; S.A.,EOD/DEG,GOOG/NYSE_DEG
+ETH,Ethan Allen Interiors Inc.,EOD/ETH,GOOG/NYSE_ETH
+EURN,Euronav NV,EOD/EURN,
+EEA,"European Equity Fund,EOD/EEA,GOOG/NYSE_EEA
+EVER,EverBank Financial Corp.,EOD/EVER,GOOG/NYSE_EVER
+EVER_A,EverBank Financial Corp.,,
+EVR,Evercore Partners Inc,EOD/EVR,GOOG/NYSE_EVR
+RE,"Everest Re Group,EOD/RE,GOOG/NYSE_RE
+EVRI,Everi Holdings Inc.,EOD/EVRI,
+ES,Eversource Energy,EOD/ES,GOOG/NYSE_ES
+EVTC,"Evertec,EOD/EVTC,GOOG/NYSE_EVTC
+EVDY,"Everyday Health,EOD/EVDY,
+EVGN,Evogene Ltd.,EOD/EVGN,
+EVH,"Evolent Health,EOD/EVH,
+EXAM,"ExamWorks Group,EOD/EXAM,GOOG/NYSE_EXAM
+EXAR,Exar Corporation,EOD/EXAR,
+XCO,EXCO Resources NL,EOD/XCO,GOOG/NYSE_XCO
+EXC,Exelon Corporation,EOD/EXC,GOOG/NYSE_EXC
+EXCU,Exelon Corporation,EOD/EXCU,
+EXPR,"Express,EOD/EXPR,GOOG/NYSE_EXPR
+STAY,"Extended Stay America,EOD/STAY,GOOG/NYSE_STAY
+EXTN,Exterran Corporation,EOD/EXTN,
+EXR,Extra Space Storage Inc,EOD/EXR,GOOG/NYSE_EXR
+XOM,Exxon Mobil Corporation,EOD/XOM,GOOG/NYSE_XOM
+FNB,F.N.B. Corporation,EOD/FNB,GOOG/NYSE_FNB
+FNB_E,F.N.B. Corporation,,
+FN,Fabrinet,EOD/FN,GOOG/NYSE_FN
+FDS,FactSet Research Systems Inc.,EOD/FDS,GOOG/NYSE_FDS
+FICO,Fair Isaac Corporation,EOD/FICO,GOOG/NYSE_FICO
+FMSA,Fairmount Santrol Holdings Inc.,EOD/FMSA,
+FPI,Farmland Partners Inc.,EOD/FPI,
+FFG,"FBL Financial Group,EOD/FFG,GOOG/NYSE_FFG
+FCB,"FCB Financial Holdings,EOD/FCB,
+AGM,Federal Agricultural Mortgage Corporation,EOD/AGM,GOOG/NYSE_AGM
+AGM_A,Federal Agricultural Mortgage Corporation,EOD/AGM_A,GOOG/NYSE_AGM_A
+AGM_A,Federal Agricultural Mortgage Corporation,EOD/AGM_A,GOOG/NYSE_AGM_A
+AGM_B,Federal Agricultural Mortgage Corporation,,
+AGM_C,Federal Agricultural Mortgage Corporation,,
+FRT,Federal Realty Investment Trust,EOD/FRT,GOOG/NYSE_FRT
+FSS,Federal Signal Corporation,EOD/FSS,GOOG/NYSE_FSS
+FII,"Federated Investors,EOD/FII,GOOG/NYSE_FII
+FPT,Federated Premier Intermediate Municipal Income Fund,EOD/FPT,GOOG/NYSE_FPT
+FMN,Federated Premier Municipal Income Fund,EOD/FMN,GOOG/NYSE_FMN
+FDX,FedEx Corporation,EOD/FDX,GOOG/NYSE_FDX
+FCH,FelCor Lodging Trust Incorporated,EOD/FCH,GOOG/NYSE_FCH
+FCH_A,FelCor Lodging Trust Incorporated,,GOOG/NYSE_FCH_A
+RACE,Ferrari N.V.,EOD/RACE,
+FGP,"Ferrellgas Partners,EOD/FGP,GOOG/NYSE_FGP
+FOE,Ferro Corporation,EOD/FOE,GOOG/NYSE_FOE
+FCAM,Fiat Chrysler Automobiles N.V.,EOD/FCAM,
+FCAU,Fiat Chrysler Automobiles N.V.,EOD/FCAU,
+FBR,Fibria Celulose S.A.,EOD/FBR,GOOG/NYSE_FBR
+FGL,Fidelity and Guaranty Life,EOD/FGL,
+FNF,"Fidelity National Financial,EOD/FNF,GOOG/NYSE_FNF
+FNFV,"Fidelity National Financial,EOD/FNFV,
+FIS,"Fidelity National Information Services,EOD/FIS,GOOG/NYSE_FIS
+FMO,Fiduciary/Claymore MLP Opportunity Fund,EOD/FMO,GOOG/NYSE_FMO
+FSCE,Fifth Street Finance Corp.,EOD/FSCE,
+FAC,First Acceptance Corporation,EOD/FAC,GOOG/NYSE_FAC
+FAF,First American Corporation (The),EOD/FAF,GOOG/NYSE_FAF
+FBP,First BanCorp.,EOD/FBP,GOOG/NYSE_FBP
+FBS_A,"First Banks,,GOOG/NYSE_FBS_A
+FCF,First Commonwealth Financial Corporation,EOD/FCF,GOOG/NYSE_FCF
+FDC,First Data Corporation,EOD/FDC,
+FHN,First Horizon National Corporation,EOD/FHN,GOOG/NYSE_FHN
+FHN_A,First Horizon National Corporation,,GOOG/NYSE_FHN_A
+FR,"First Industrial Realty Trust,EOD/FR,GOOG/NYSE_FR
+AG,First Majestic Silver Corp.,EOD/AG,GOOG/NYSE_AG
+FMD,First Marblehead Corporation (The),EOD/FMD,GOOG/NYSE_FMD
+FNFG_B,First Niagara Financial Group Inc.,,
+FPO,First Potomac Realty Trust,EOD/FPO,GOOG/NYSE_FPO
+FPO_A,First Potomac Realty Trust,,GOOG/NYSE_FPO_A
+FRC,FIRST REPUBLIC BANK,EOD/FRC,GOOG/NYSE_FRC
+FRC_A,FIRST REPUBLIC BANK,,GOOG/NYSE_FRC_A
+FRC_B,FIRST REPUBLIC BANK,,GOOG/NYSE_FRC_B
+FRC_C,FIRST REPUBLIC BANK,,GOOG/NYSE_FRC_C
+FRC_D,FIRST REPUBLIC BANK,,
+FRC_E,FIRST REPUBLIC BANK,,
+FRC_F,FIRST REPUBLIC BANK,,
+FFA,First Trust,EOD/FFA,GOOG/NYSE_FFA
+FMY,First Trust,EOD/FMY,GOOG/NYSE_FMY
+FAV,First Trust Dividend and Income Fund,EOD/FAV,GOOG/NYSE_FAV
+FDEU,First Trust Dynamic Europe Equity Income Fund,EOD/FDEU,
+FIF,First Trust Energy Infrastructure Fund,EOD/FIF,GOOG/NYSE_FIF
+FSD,First Trust High Income Long Short Fund,EOD/FSD,GOOG/NYSE_FSD
+FPF,First Trust Intermediate Duration Preferred & Income Fund,EOD/FPF,
+FEI           ,First Trust MLP and Energy Income Fund,EOD/FEI           ,GOOG/NYSE_FEI           
+FPL,First Trust New Opportunities MLP & Energy Fund,EOD/FPL,
+FCT,First Trust Senior Floating Rate Income Fund II,EOD/FCT,GOOG/NYSE_FCT
+FGB,First Trust Specialty Finance and Financial Opportunities Fund,EOD/FGB,GOOG/NYSE_FGB
+FHY,First Trust Strategic High Income Fund II,EOD/FHY,GOOG/NYSE_FHY
+FEO,First Trust/Aberdeen Emerging Opportunity Fund,EOD/FEO,GOOG/NYSE_FEO
+FAM,First Trust/Aberdeen Global Opportunity Income Fund,EOD/FAM,GOOG/NYSE_FAM
+FE,FirstEnergy Corporation,EOD/FE,GOOG/NYSE_FE
+FMER_A,FirstMerit Corporation,,
+FIT,"Fitbit,EOD/FIT,
+OAKS,Five Oaks Investment Corp.,EOD/OAKS,GOOG/NYSE_OAKS
+OAKS_A,Five Oaks Investment Corp.,,
+FVE,"Five Star Quality Care,EOD/FVE,GOOG/NYSE_FVE
+FBC,"Flagstar Bancorp,EOD/FBC,GOOG/NYSE_FBC
+DFP,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc.,EOD/DFP,GOOG/NYSE_DFP
+PFD,Flaherty & Crumrine Preferred Income Fund Incorporated,EOD/PFD,GOOG/NYSE_PFD
+PFO,Flaherty & Crumrine Preferred Income Opportunity Fund Inc,EOD/PFO,GOOG/NYSE_PFO
+FFC,Flaherty & Crumrine Preferred Securities Income Fund Inc,EOD/FFC,GOOG/NYSE_FFC
+FLC,Flaherty & Crumrine Total Return Fund Inc,EOD/FLC,GOOG/NYSE_FLC
+FLT,"FleetCor Technologies,EOD/FLT,GOOG/NYSE_FLT
+FLTX,Fleetmatics Group PLC,EOD/FLTX,GOOG/NYSE_FLTX
+FTK,"Flotek Industries,EOD/FTK,GOOG/NYSE_FTK
+FLO,"Flowers Foods,EOD/FLO,GOOG/NYSE_FLO
+FLS,Flowserve Corporation,EOD/FLS,GOOG/NYSE_FLS
+FLR,Fluor Corporation,EOD/FLR,GOOG/NYSE_FLR
+FLY,Fly Leasing Limited,EOD/FLY,GOOG/NYSE_FLY
+FMC,FMC Corporation,EOD/FMC,GOOG/NYSE_FMC
+FTI,"FMC Technologies,EOD/FTI,GOOG/NYSE_FTI
+FMX,Fomento Economico Mexicano S.A.B. de C.V.,EOD/FMX,GOOG/NYSE_FMX
+FL,"Foot Locker,EOD/FL,GOOG/NYSE_FL
+F,Ford Motor Company,EOD/F,GOOG/NYSE_F
+FELP,Foresight Energy LP,EOD/FELP,
+FCE_A,Forest City Enterprises Inc,EOD/FCE_A,GOOG/NYSE_FCE_A
+FCE_B,Forest City Enterprises Inc,EOD/FCE_B,GOOG/NYSE_FCE_B
+FOR,Forestar Group Inc,EOD/FOR,GOOG/NYSE_FOR
+FDI,"Fort Dearborn Income Securities,EOD/FDI,GOOG/NYSE_FDI
+FIG,Fortress Investment Group LLC,EOD/FIG,GOOG/NYSE_FIG
+FTAI,Fortress Transportation and Infrastructure Investors LLC,EOD/FTAI,
+FSM,Fortuna Silver Mines Inc.,EOD/FSM,GOOG/NYSE_FSM
+FBHS,"Fortune Brands Home & Security,EOD/FBHS,GOOG/NYSE_FBHS
+FET,"Forum Energy Technologies,EOD/FET,GOOG/NYSE_FET
+FCPT,"Four Corners Property Trust,EOD/FCPT,
+FNV,Franco-Nevada Corporation,EOD/FNV,GOOG/NYSE_FNV
+FC,Franklin Covey Company,EOD/FC,GOOG/NYSE_FC
+FSB,"Franklin Financial Network,EOD/FSB,
+BEN,"Franklin Resources,EOD/BEN,GOOG/NYSE_BEN
+FT,Franklin Universal Trust,EOD/FT,GOOG/NYSE_FT
+FI,Frank&#39;s International N.V.,EOD/FI,GOOG/NYSE_FI
+FCX,"Freeport-McMoran,EOD/FCX,GOOG/NYSE_FCX
+FSL,"Freescale Semiconductor,EOD/FSL,GOOG/NYSE_FSL
+FMS,Fresenius Medical Care Corporation,EOD/FMS,GOOG/NYSE_FMS
+FDP,"Fresh Del Monte Produce,EOD/FDP,GOOG/NYSE_FDP
+FRO,Frontline Ltd.,EOD/FRO,GOOG/NYSE_FRO
+FSIC,FS Investment Corporation,EOD/FSIC,
+FCN,"FTI Consulting,EOD/FCN,GOOG/NYSE_FCN
+FRM,Furmanite Corporation,EOD/FRM,GOOG/NYSE_FRM
+FF,FutureFuel Corp.,EOD/FF,GOOG/NYSE_FF
+FXCM,FXCM Inc.,EOD/FXCM,GOOG/NYSE_FXCM
+GCV,"Gabelli Convertible and Income Securities Fund,EOD/GCV,GOOG/NYSE_GCV
+GCV_B,"Gabelli Convertible and Income Securities Fund,,GOOG/NYSE_GCV_B
+GDV,Gabelli Dividend,EOD/GDV,GOOG/NYSE_GDV
+GDV_A,Gabelli Dividend,,GOOG/NYSE_GDV_A
+GDV_D,Gabelli Dividend,,GOOG/NYSE_GDV_D
+GAB,"Gabelli Equity Trust,EOD/GAB,GOOG/NYSE_GAB
+GAB_D,"Gabelli Equity Trust,,GOOG/NYSE_GAB_D
+GAB_G,"Gabelli Equity Trust,,GOOG/NYSE_GAB_G
+GAB_H,"Gabelli Equity Trust,,GOOG/NYSE_GAB_H
+GGZ,Gabelli Global Small and Mid Cap Value Trust (The),EOD/GGZ,
+GGT,Gabelli Multi-Media Trust Inc. (The),EOD/GGT,GOOG/NYSE_GGT
+GGT_B,Gabelli Multi-Media Trust Inc. (The),,GOOG/NYSE_GGT_B
+GUT,Gabelli Utility Trust (The),EOD/GUT,GOOG/NYSE_GUT
+GUT_A,Gabelli Utility Trust (The),,GOOG/NYSE_GUT_A
+GFA,Gafisa SA,EOD/GFA,GOOG/NYSE_GFA
+GCAP,"GAIN Capital Holdings,EOD/GCAP,GOOG/NYSE_GCAP
+GBL,"Gamco Investors,EOD/GBL,GOOG/NYSE_GBL
+GNT,"GAMCO Natural Resources,EOD/GNT,GOOG/NYSE_GNT
+GME,Gamestop Corporation,EOD/GME,GOOG/NYSE_GME
+GPS,"Gap,EOD/GPS,GOOG/NYSE_GPS
+IT,"Gartner,EOD/IT,GOOG/NYSE_IT
+GLOG,GasLog LP.,EOD/GLOG,GOOG/NYSE_GLOG
+GLOG_A,GasLog LP.,,
+GLOP,GasLog Partners LP,EOD/GLOP,
+GMT,GATX Corporation,EOD/GMT,GOOG/NYSE_GMT
+GZT,Gazit-Globe Ltd.,EOD/GZT,GOOG/NYSE_GZT
+GNK,Genco Shipping & Trading Limited Warrants Expiring 12/31/2021 ,EOD/GNK,GOOG/NYSE_GNK
+GNRT,"Gener8 Maritime,EOD/GNRT,
+GNRC,Generac Holdlings Inc.,EOD/GNRC,GOOG/NYSE_GNRC
+GAM,"General American Investors,EOD/GAM,GOOG/NYSE_GAM
+GAM_B,"General American Investors,,GOOG/NYSE_GAM_B
+BGC,General Cable Corporation,EOD/BGC,GOOG/NYSE_BGC
+GD,General Dynamics Corporation,EOD/GD,GOOG/NYSE_GD
+GEH,General Electric Capital Corporation,EOD/GEH,
+GEK,General Electric Capital Corporation,EOD/GEK,
+GE,General Electric Company,EOD/GE,GOOG/NYSE_GE
+GEB,General Electric Company,EOD/GEB,
+GGP,"General Growth Properties,EOD/GGP,GOOG/NYSE_GGP
+GGP_A,"General Growth Properties,,GOOG/NYSE_GGP_A
+GIS,"General Mills,EOD/GIS,GOOG/NYSE_GIS
+GM,General Motors Company,EOD/GM,GOOG/NYSE_GM
+GM_WS_A,General Motors Company,EOD/GM_WS_A,
+GM_WS_B,General Motors Company,EOD/GM_WS_B,
+GM_WS_C,General Motors Company,EOD/GM_WS_C,
+GSI,"General Steel Holdings,EOD/GSI,GOOG/NYSE_GSI
+GCO,Genesco Inc.,EOD/GCO,GOOG/NYSE_GCO
+GWR,"Genesee & Wyoming,EOD/GWR,GOOG/NYSE_GWR
+GEL,"Genesis Energy,EOD/GEL,GOOG/NYSE_GEL
+GEN           ,"Genesis Healthcare,EOD/GEN           ,GOOG/NYSE_GEN           
+GNE,Genie Energy Ltd.,EOD/GNE,GOOG/NYSE_GNE
+GNE_A,Genie Energy Ltd.,,GOOG/NYSE_GNE_A
+G,Genpact Limited,EOD/G,GOOG/NYSE_G
+GPC,Genuine Parts Company,EOD/GPC,GOOG/NYSE_GPC
+GNW,Genworth Financial Inc,EOD/GNW,GOOG/NYSE_GNW
+GEO,Geo Group Inc (The),EOD/GEO,GOOG/NYSE_GEO
+GPRK,Geopark Ltd,EOD/GPRK,
+GPE_A,Georgia Power Company,,GOOG/NYSE_GPE_A
+GGB,Gerdau S.A.,EOD/GGB,GOOG/NYSE_GGB
+GTY,Getty Realty Corporation,EOD/GTY,GOOG/NYSE_GTY
+GIMO,Gigamon Inc.,EOD/GIMO,GOOG/NYSE_GIMO
+GIL,"Gildan Activewear,EOD/GIL,GOOG/NYSE_GIL
+GLT,Glatfelter,EOD/GLT,GOOG/NYSE_GLT
+GKOS,Glaukos Corporation,EOD/GKOS,
+GSK,GlaxoSmithKline PLC,EOD/GSK,GOOG/NYSE_GSK
+BRSS,"Global Brass and Copper Holdings,EOD/BRSS,GOOG/NYSE_BRSS
+GHI,"Global High Income Dollar Fund,EOD/GHI,GOOG/NYSE_GHI
+GNL,"Global Net Lease,EOD/GNL,
+GLP,Global Partners LP,EOD/GLP,GOOG/NYSE_GLP
+GPN,Global Payments Inc.,EOD/GPN,GOOG/NYSE_GPN
+GLPW,Global Power Equipment Group Inc,EOD/GLPW,
+GSL,"Global Ship Lease,EOD/GSL,GOOG/NYSE_GSL
+GSL_B,"Global Ship Lease,,
+GLOB,Globant S.A.,EOD/GLOB,
+GMED,"Globus Medical,EOD/GMED,GOOG/NYSE_GMED
+GNC,"GNC Holdings,EOD/GNC,GOOG/NYSE_GNC
+GDDY,GoDaddy Inc.,EOD/GDDY,
+GOL,Gol Linhas Aereas Inteligentes S.A.,EOD/GOL,GOOG/NYSE_GOL
+GFI,Gold Fields Limited,EOD/GFI,GOOG/NYSE_GFI
+GG,Goldcorp Inc.,EOD/GG,GOOG/NYSE_GG
+GSBD,"Goldman Sachs BDC,EOD/GSBD,
+GS,"Goldman Sachs Group,EOD/GS,GOOG/NYSE_GS
+GS_A,"Goldman Sachs Group,,GOOG/NYSE_GS_A
+GS_B,"Goldman Sachs Group,,GOOG/NYSE_GS_B
+GS_C,"Goldman Sachs Group,,GOOG/NYSE_GS_C
+GS_D,"Goldman Sachs Group,,GOOG/NYSE_GS_D
+GS_I,"Goldman Sachs Group,,GOOG/NYSE_GS_I
+GS_J,"Goldman Sachs Group,,
+GS_K,"Goldman Sachs Group,,
+GSJ,"Goldman Sachs Group,EOD/GSJ,GOOG/NYSE_GSJ
+TFG,"Goldman Sachs Group,EOD/TFG,GOOG/NYSE_TFG
+GER,Goldman Sachs MLP Energy Renaissance Fund,EOD/GER,GOOG/NYSE_GER
+GMZ,Goldman Sachs MLP Income Opportunities Fund,EOD/GMZ,
+GDP,Goodrich Petroleum Corporation,EOD/GDP,GOOG/NYSE_GDP
+GDP_C,Goodrich Petroleum Corporation,,
+GDP_D,Goodrich Petroleum Corporation,,
+GOV,Government Properties Income Trust,EOD/GOV,GOOG/NYSE_GOV
+GPX,GP Strategies Corporation,EOD/GPX,GOOG/NYSE_GPX
+GGG,Graco Inc.,EOD/GGG,GOOG/NYSE_GGG
+GHM,Graham Corporation,EOD/GHM,
+GHC,Graham Holdings Company,EOD/GHC,GOOG/NYSE_GHC
+GPT,Gramercy Property Trust Inc.,EOD/GPT,GOOG/NYSE_GPT
+GPT_B,Gramercy Property Trust Inc.,,
+GRAM,Grana y Montero S.A.A.,EOD/GRAM,GOOG/NYSE_GRAM
+GVA,Granite Construction Incorporated,EOD/GVA,GOOG/NYSE_GVA
+GRP_U,Granite Real Estate Inc.,EOD/GRP_U,
+GPK,Graphic Packaging Holding Company,EOD/GPK,GOOG/NYSE_GPK
+GTN,"Gray Television,EOD/GTN,GOOG/NYSE_GTN
+GTN_A,"Gray Television,EOD/GTN_A,GOOG/NYSE_GTN_A
+AJX,Great Ajax Corp.,EOD/AJX,
+GXP,Great Plains Energy Inc,EOD/GXP,GOOG/NYSE_GXP
+GXP_A,Great Plains Energy Inc,,GOOG/NYSE_GXP_A
+GXP_D,Great Plains Energy Inc,,GOOG/NYSE_GXP_D
+GXP_E,Great Plains Energy Inc,,GOOG/NYSE_GXP_E
+GWB,"Great Western Bancorp,EOD/GWB,
+GB,"Greatbatch,EOD/GB,GOOG/NYSE_GB
+GDOT,Green Dot Corporation,EOD/GDOT,GOOG/NYSE_GDOT
+GBX,"Greenbrier Companies,EOD/GBX,GOOG/NYSE_GBX
+GHL,"Greenhill & Co.,EOD/GHL,GOOG/NYSE_GHL
+GEF,Greif Bros. Corporation,EOD/GEF,GOOG/NYSE_GEF
+GEF_B,Greif Bros. Corporation,EOD/GEF_B,GOOG/NYSE_GEF_B
+GFF,Griffon Corporation,EOD/GFF,GOOG/NYSE_GFF
+GPI,"Group 1 Automotive,EOD/GPI,GOOG/NYSE_GPI
+GRUB,GrubHub Inc.,EOD/GRUB,
+PAC,"Grupo Aeroportuario Del Pacifico,EOD/PAC,GOOG/NYSE_PAC
+ASR,"Grupo Aeroportuario del Sureste,EOD/ASR,GOOG/NYSE_ASR
+AVAL,Grupo Aval Acciones y Valores S.A.,EOD/AVAL,
+BSMX,Grupo Financiero Santander Mexico S.A. B. de C.V.,EOD/BSMX,GOOG/NYSE_BSMX
+TV,Grupo Televisa S.A.,EOD/TV,GOOG/NYSE_TV
+GTT,"GTT Communications,EOD/GTT,
+GSH,Guangshen Railway Company Limited,EOD/GSH,GOOG/NYSE_GSH
+GES,"Guess?,EOD/GES,GOOG/NYSE_GES
+GBAB,Guggenheim Build America Bonds Managed Duration Trust,EOD/GBAB,GOOG/NYSE_GBAB
+GGM,Guggenheim Credit Allocation Fund,EOD/GGM,
+GPM,Guggenheim Enhanced Equity Income Fund,EOD/GPM,GOOG/NYSE_GPM
+GGE,Guggenheim Enhanced Equity Strategy Fund,EOD/GGE,GOOG/NYSE_GGE
+GEQ,Guggenheim Equal Weight Enhanced Equity Income Fund,EOD/GEQ,GOOG/NYSE_GEQ
+GOF,Guggenheim Strategic Opportunities Fund,EOD/GOF,GOOG/NYSE_GOF
+GWRE,"Guidewire Software,EOD/GWRE,GOOG/NYSE_GWRE
+GUA,Gulf Power Company,EOD/GUA,GOOG/NYSE_GUA
+GLF,"GulfMark Offshore,EOD/GLF,GOOG/NYSE_GLF
+HRB,"H&R Block,EOD/HRB,GOOG/NYSE_HRB
+FUL,H. B. Fuller Company,EOD/FUL,GOOG/NYSE_FUL
+HAE,Haemonetics Corporation,EOD/HAE,GOOG/NYSE_HAE
+HK,Halcon Resources Corporation,EOD/HK,GOOG/NYSE_HK
+HAL,Halliburton Company,EOD/HAL,GOOG/NYSE_HAL
+HYH,"Halyard Health,EOD/HYH,GOOG/NYSE_HYH
+HBI,Hanesbrands Inc.,EOD/HBI,GOOG/NYSE_HBI
+HGR,"Hanger,EOD/HGR,GOOG/NYSE_HGR
+HASI,"Hannon Armstrong Sustainable Infrastructure Capital,EOD/HASI,GOOG/NYSE_HASI
+HOG,"Harley-Davidson,EOD/HOG,GOOG/NYSE_HOG
+HAR,"Harman International Industries,EOD/HAR,GOOG/NYSE_HAR
+HMY,Harmony Gold Mining Company Limited,EOD/HMY,GOOG/NYSE_HMY
+HRS,Harris Corporation,EOD/HRS,GOOG/NYSE_HRS
+HSC,Harsco Corporation,EOD/HSC,GOOG/NYSE_HSC
+HHS,"Harte-Hanks,EOD/HHS,GOOG/NYSE_HHS
+HGH,"Hartford Financial Services Group,EOD/HGH,
+HIG,"Hartford Financial Services Group,EOD/HIG,GOOG/NYSE_HIG
+HIG_WS,"Hartford Financial Services Group,EOD/HIG_WS,
+HNR,Harvest Natural Resources Inc,EOD/HNR,GOOG/NYSE_HNR
+HTS,Hatteras Financial Corp,EOD/HTS,GOOG/NYSE_HTS
+HTS_A,Hatteras Financial Corp,,GOOG/NYSE_HTS_A
+HVT,"Haverty Furniture Companies,EOD/HVT,GOOG/NYSE_HVT
+HVT_A,"Haverty Furniture Companies,EOD/HVT_A,GOOG/NYSE_HVT_A
+HE,"Hawaiian Electric Industries,EOD/HE,GOOG/NYSE_HE
+HE_U,"Hawaiian Electric Industries,,GOOG/NYSE_HE_U
+HCA,"HCA Holdings,EOD/HCA,GOOG/NYSE_HCA
+HCI,"HCI Group,EOD/HCI,GOOG/NYSE_HCI
+HCJ,"HCI Group,EOD/HCJ,
+HCP,"HCP,EOD/HCP,GOOG/NYSE_HCP
+HDB,HDFC Bank Limited,EOD/HDB,GOOG/NYSE_HDB
+HW,Headwaters Incorporated,EOD/HW,GOOG/NYSE_HW
+HNT,Health Net Inc.,EOD/HNT,GOOG/NYSE_HNT
+HR,Healthcare Realty Trust Incorporated,EOD/HR,GOOG/NYSE_HR
+HTA,"Healthcare Trust of America,EOD/HTA,GOOG/NYSE_HTA
+HLS,HealthSouth Corporation,EOD/HLS,GOOG/NYSE_HLS
+HPY,"Heartland Payment Systems,EOD/HPY,GOOG/NYSE_HPY
+HL,Hecla Mining Company,EOD/HL,GOOG/NYSE_HL
+HL_B,Hecla Mining Company,,GOOG/NYSE_HL_B
+HEI,Heico Corporation,EOD/HEI,GOOG/NYSE_HEI
+HEI_A,Heico Corporation,EOD/HEI_A,GOOG/NYSE_HEI_A
+HLX,"Helix Energy Solutions Group,EOD/HLX,GOOG/NYSE_HLX
+HP,"Helmerich & Payne,EOD/HP,GOOG/NYSE_HP
+HLF,Herbalife LTD.,EOD/HLF,GOOG/NYSE_HLF
+HTGC,"Hercules Technology Growth Capital,EOD/HTGC,GOOG/NYSE_HTGC
+HTGX,"Hercules Technology Growth Capital,EOD/HTGX,
+HTGY,"Hercules Technology Growth Capital,EOD/HTGY,
+HTGZ,"Hercules Technology Growth Capital,EOD/HTGZ,GOOG/NYSE_HTGZ
+HRTG,"Heritage Insurance Holdings,EOD/HRTG,
+HT,Hersha Hospitality Trust,EOD/HT,GOOG/NYSE_HT
+HT_B,Hersha Hospitality Trust,,GOOG/NYSE_HT_B
+HT_C,Hersha Hospitality Trust,,GOOG/NYSE_HT_C
+HSY,Hershey Company (The),EOD/HSY,GOOG/NYSE_HSY
+HTZ,"Hertz Global Holdings,EOD/HTZ,GOOG/NYSE_HTZ
+HES,Hess Corporation,EOD/HES,GOOG/NYSE_HES
+HPE,Hewlett Packard Enterprise Company,EOD/HPE,
+HXL,Hexcel Corporation,EOD/HXL,GOOG/NYSE_HXL
+HF,"HFF,EOD/HF,GOOG/NYSE_HF
+HGG,"HHGregg,EOD/HGG,GOOG/NYSE_HGG
+HCLP,Hi-Crush Partners LP,EOD/HCLP,GOOG/NYSE_HCLP
+ONE           ,"Higher One Holdings,EOD/ONE           ,GOOG/NYSE_ONE           
+HIW,"Highwoods Properties,EOD/HIW,GOOG/NYSE_HIW
+HIL,"Hill International,EOD/HIL,GOOG/NYSE_HIL
+HI,Hillenbrand Inc,EOD/HI,GOOG/NYSE_HI
+HRC,Hill-Rom Holdings Inc,EOD/HRC,GOOG/NYSE_HRC
+HTH,Hilltop Holdings Inc.,EOD/HTH,GOOG/NYSE_HTH
+HLT,Hilton Worldwide Holdings Inc.,EOD/HLT,
+HNI,HNI Corporation,EOD/HNI,GOOG/NYSE_HNI
+HMLP,Hoegh LNG Partners LP,EOD/HMLP,
+HEP,"Holly Energy Partners,EOD/HEP,GOOG/NYSE_HEP
+HFC,HollyFrontier Corporation,EOD/HFC,GOOG/NYSE_HFC
+HD,"Home Depot,EOD/HD,GOOG/NYSE_HD
+HMC,"Honda Motor Company,EOD/HMC,GOOG/NYSE_HMC
+HON,Honeywell International Inc.,EOD/HON,GOOG/NYSE_HON
+HMN,Horace Mann Educators Corporation,EOD/HMN,GOOG/NYSE_HMN
+HZN,Horizon Global Corporation,EOD/HZN,
+HTF,Horizon Technology Finance Corporation,EOD/HTF,
+HRL,Hormel Foods Corporation,EOD/HRL,GOOG/NYSE_HRL
+HOS,Hornbeck Offshore Services,EOD/HOS,GOOG/NYSE_HOS
+HPT,Hospitality Properites Trust,EOD/HPT,GOOG/NYSE_HPT
+HPT_D,Hospitality Properites Trust,,GOOG/NYSE_HPT_D
+HST,"Host Hotels & Resorts,EOD/HST,GOOG/NYSE_HST
+HLI,"Houlihan Lokey,EOD/HLI,
+HSFC_B,Household Finance Corp,,
+HOV,Hovnanian Enterprises Inc,EOD/HOV,GOOG/NYSE_HOV
+HHC,Howard Hughes Corporation (The),EOD/HHC,GOOG/NYSE_HHC
+HPQ,HP Inc.,EOD/HPQ,GOOG/NYSE_HPQ
+HRG,"HRG Group,EOD/HRG,GOOG/NYSE_HRG
+HSBC,HSBC Holdings plc,EOD/HSBC,
+HSBC_A,HSBC Holdings plc,,
+HSEA,HSBC Holdings plc,EOD/HSEA,
+HSEB,HSBC Holdings plc,EOD/HSEB,
+HUSI_F,"HSBC USA,,
+HUSI_G,"HSBC USA,,
+HUSI_H,"HSBC USA,,
+HNP,"Huaneng Power International,EOD/HNP,GOOG/NYSE_HNP
+HUB_A,Hubbell Inc,EOD/HUB_A,GOOG/NYSE_HUB_A
+HUB_B,Hubbell Inc,EOD/HUB_B,GOOG/NYSE_HUB_B
+HUBS,"HubSpot,EOD/HUBS,
+HBM,HudBay Minerals Inc,EOD/HBM,GOOG/NYSE_HBM
+HBM_WS,HudBay Minerals Inc,EOD/HBM_WS,
+HPP,"Hudson Pacific Properties,EOD/HPP,GOOG/NYSE_HPP
+HPP_B_CL,"Hudson Pacific Properties,,
+HGT,Hugoton Royalty Trust,EOD/HGT,GOOG/NYSE_HGT
+HUM,Humana Inc.,EOD/HUM,GOOG/NYSE_HUM
+HII,"Huntington Ingalls Industries,EOD/HII,GOOG/NYSE_HII
+HUN,Huntsman Corporation,EOD/HUN,GOOG/NYSE_HUN
+H,Hyatt Hotels Corporation,EOD/H,GOOG/NYSE_H
+HY,"Hyster-Yale Materials Handling,EOD/HY,GOOG/NYSE_HY
+IAG,Iamgold Corporation,EOD/IAG,GOOG/NYSE_IAG
+IBN,ICICI Bank Limited,EOD/IBN,GOOG/NYSE_IBN
+IDA,"IDACORP,EOD/IDA,GOOG/NYSE_IDA
+IEX,IDEX Corporation,EOD/IEX,GOOG/NYSE_IEX
+IDT,IDT Corporation,EOD/IDT,GOOG/NYSE_IDT
+IHS,IHS Inc.,EOD/IHS,GOOG/NYSE_IHS
+ITW,Illinois Tool Works Inc.,EOD/ITW,GOOG/NYSE_ITW
+IMN,Imation Corporation,EOD/IMN,GOOG/NYSE_IMN
+IMAX,Imax Corporation,EOD/IMAX,GOOG/NYSE_IMAX
+IMPV,"Imperva,EOD/IMPV,GOOG/NYSE_IMPV
+IMPR,"Imprivata,EOD/IMPR,
+IMS,"IMS Health Holdings,EOD/IMS,GOOG/NYSE_IMS
+ICD,"Independence Contract Drilling,EOD/ICD,
+IHC,Independence Holding Company,EOD/IHC,GOOG/NYSE_IHC
+IFN,"India Fund,EOD/IFN,GOOG/NYSE_IFN
+IBA,"Industrias Bachoco,EOD/IBA,GOOG/NYSE_IBA
+BLOX,Infoblox Inc.,EOD/BLOX,GOOG/NYSE_BLOX
+INFY,Infosys Limited,EOD/INFY,GOOG/NYSE_INFY
+HIFR,"InfraREIT,EOD/HIFR,
+IND,"ING Group,EOD/IND,GOOG/NYSE_IND
+ING,"ING Group,EOD/ING,GOOG/NYSE_ING
+INZ,"ING Group,EOD/INZ,GOOG/NYSE_INZ
+ISF,"ING Group,EOD/ISF,GOOG/NYSE_ISF
+ISG,"ING Group,EOD/ISG,GOOG/NYSE_ISG
+ISP,"ING Group,EOD/ISP,GOOG/NYSE_ISP
+IR,Ingersoll-Rand plc (Ireland),EOD/IR,GOOG/NYSE_IR
+IM,Ingram Micro Inc.,EOD/IM,GOOG/NYSE_IM
+INGR,Ingredion Incorporated,EOD/INGR,GOOG/NYSE_INGR
+IRC,Inland Real Estate Corporation,EOD/IRC,GOOG/NYSE_IRC
+IRC_A,Inland Real Estate Corporation,,GOOG/NYSE_IRC_A
+IRC_B,Inland Real Estate Corporation,,
+IPHI,Inphi Corporation,EOD/IPHI,GOOG/NYSE_IPHI
+NSP,"Insperity,EOD/NSP,GOOG/NYSE_NSP
+IBP,"Installed Building Products,EOD/IBP,
+I,Intelsat S.A.,EOD/I,GOOG/NYSE_I
+I_A,Intelsat S.A.,,
+ICE,Intercontinental Exchange Inc.,EOD/ICE,GOOG/NYSE_ICE
+IHG,Intercontinental Hotels Group,EOD/IHG,GOOG/NYSE_IHG
+IFF,"Internationa Flavors & Fragrances,EOD/IFF,GOOG/NYSE_IFF
+IBM,International Business Machines Corporation,EOD/IBM,GOOG/NYSE_IBM
+IGT,International Game Technology,EOD/IGT,GOOG/NYSE_IGT
+IP,International Paper Company,EOD/IP,GOOG/NYSE_IP
+ISH,International Shipholding Corporation,EOD/ISH,GOOG/NYSE_ISH
+ISH_A,International Shipholding Corporation,,GOOG/NYSE_ISH_A
+ISH_B,International Shipholding Corporation,,
+IOC,InterOil Corporation,EOD/IOC,GOOG/NYSE_IOC
+IPG,"Interpublic Group of Companies,EOD/IPG,GOOG/NYSE_IPG
+IPL_D,Interstate Power and Light Company,,GOOG/NYSE_IPL_D
+INXN,InterXion Holding N.V.,EOD/INXN,GOOG/NYSE_INXN
+IL,"IntraLinks Holdings,EOD/IL,GOOG/NYSE_IL
+SNOW,"Intrawest Resorts Holdings,EOD/SNOW,
+IPI,"Intrepid Potash,EOD/IPI,GOOG/NYSE_IPI
+XON,Intrexon Corporation,EOD/XON,GOOG/NYSE_XON
+IVC,Invacare Corporation,EOD/IVC,GOOG/NYSE_IVC
+INVN,"InvenSense,EOD/INVN,GOOG/NYSE_INVN
+VBF,Invesco Bond Fund,EOD/VBF,GOOG/NYSE_VBF
+VCV,Invesco California Value Municipal Income Trust,EOD/VCV,GOOG/NYSE_VCV
+VTA,Invesco Credit Opportunities Fund,EOD/VTA,GOOG/NYSE_VTA
+VLT,Invesco High Income Trust II,EOD/VLT,GOOG/NYSE_VLT
+IVR,INVESCO MORTGAGE CAPITAL INC,EOD/IVR,GOOG/NYSE_IVR
+IVR_B,INVESCO MORTGAGE CAPITAL INC,,
+IVR_A,Invesco Mortgage Capital Inc.,,GOOG/NYSE_IVR_A
+OIA,Invesco Municipal Income Opportunities Trust,EOD/OIA,GOOG/NYSE_OIA
+VMO,Invesco Municipal Opportunity Trust,EOD/VMO,GOOG/NYSE_VMO
+VKQ,Invesco Municipal Trust,EOD/VKQ,GOOG/NYSE_VKQ
+VPV,Invesco Pennsylvania Value Municipal Income Trust,EOD/VPV,GOOG/NYSE_VPV
+IVZ,Invesco Plc,EOD/IVZ,GOOG/NYSE_IVZ
+IQI,Invesco Quality Municipal Income Trust,EOD/IQI,GOOG/NYSE_IQI
+VVR,Invesco Senior Income Trust,EOD/VVR,GOOG/NYSE_VVR
+VTN,Invesco Trust  for Investment Grade New York Municipal,EOD/VTN,GOOG/NYSE_VTN
+VGM,Invesco Trust for Investment Grade Municipals,EOD/VGM,GOOG/NYSE_VGM
+IIM,Invesco Value Municipal Income Trust,EOD/IIM,GOOG/NYSE_IIM
+ITG,"Investment Technology Group,EOD/ITG,GOOG/NYSE_ITG
+IRET,Investors Real Estate Trust,EOD/IRET,GOOG/NYSE_IRET
+IRET_,Investors Real Estate Trust,,
+IRET_B,Investors Real Estate Trust,,
+NVTA,Invitae Corporation,EOD/NVTA,
+IO,Ion Geophysical Corporation,EOD/IO,GOOG/NYSE_IO
+IRM,Iron Mountain Incorporated,EOD/IRM,GOOG/NYSE_IRM
+IRS,IRSA Inversiones Y Representaciones S.A.,EOD/IRS,GOOG/NYSE_IRS
+ICL,Israel Chemicals Shs,EOD/ICL,
+STAR          ,iStar Financial Inc.,EOD/STAR          ,
+STAR_D,iStar Financial Inc.,,
+STAR_E,iStar Financial Inc.,,
+STAR_F,iStar Financial Inc.,,
+STAR_G,iStar Financial Inc.,,
+STAR_I,iStar Financial Inc.,,
+ITUB,Itau Unibanco Banco Holding SA,EOD/ITUB,GOOG/NYSE_ITUB
+ITC,ITC Holdings Corp.,EOD/ITC,GOOG/NYSE_ITC
+ITT,ITT Corporation,EOD/ITT,GOOG/NYSE_ITT
+ESI,"ITT Educational Services,EOD/ESI,GOOG/NYSE_ESI
+IVH,Ivy High Income Opportunities Fund,EOD/IVH,
+JPM,J P Morgan Chase & Co,EOD/JPM,GOOG/NYSE_JPM
+JPM_WS,J P Morgan Chase & Co,EOD/JPM_WS,
+JPM_A,J P Morgan Chase & Co,,GOOG/NYSE_JPM_A
+JPM_B,J P Morgan Chase & Co,,GOOG/NYSE_JPM_B
+JPM_D,J P Morgan Chase & Co,,GOOG/NYSE_JPM_D
+JPM_E,J P Morgan Chase & Co,,
+JPM_F,J P Morgan Chase & Co,,
+JPM_G,J P Morgan Chase & Co,,
+JPM_H,J P Morgan Chase & Co,,
+JAX,"J. Alexander&#39;s Holdings,EOD/JAX,
+JCP,"J.C. Penney Company,EOD/JCP,GOOG/NYSE_JCP
+JGW,J.G. Wentworth Company (The),EOD/JGW,GOOG/NYSE_JGW
+SJM,J.M. Smucker Company (The),EOD/SJM,GOOG/NYSE_SJM
+JBL,"Jabil Circuit,EOD/JBL,GOOG/NYSE_JBL
+JEC,Jacobs Engineering Group Inc.,EOD/JEC,GOOG/NYSE_JEC
+JHX,James Hardie Industries plc.,EOD/JHX,GOOG/NYSE_JHX
+JNS,"Janus Capital Group,EOD/JNS,GOOG/NYSE_JNS
+JOF,Japan Smaller Capitalization Fund Inc,EOD/JOF,GOOG/NYSE_JOF
+JAH,Jarden Corporation,EOD/JAH,GOOG/NYSE_JAH
+JMI           ,Javelin Mortgage Investment Corp.,EOD/JMI           ,GOOG/NYSE_JMI           
+JCAP,"Jernigan Capital,EOD/JCAP,
+JKS,JinkoSolar Holding Company Limited,EOD/JKS,GOOG/NYSE_JKS
+JMP,JMP Group LLC,EOD/JMP,GOOG/NYSE_JMP
+JMPB,JMP Group LLC,EOD/JMPB,
+JMPC,JMP Group LLC,EOD/JMPC,
+JBT,John Bean Technologies Corporation,EOD/JBT,GOOG/NYSE_JBT
+BTO,John Hancock Financial Opportunities Fund,EOD/BTO,GOOG/NYSE_BTO
+HEQ,John Hancock Hedged Equity & Income Fund,EOD/HEQ,GOOG/NYSE_HEQ
+JHS,John Hancock Income Securities Trust,EOD/JHS,GOOG/NYSE_JHS
+JHI,John Hancock Investors Trust,EOD/JHI,GOOG/NYSE_JHI
+HPF,John Hancock Pfd Income Fund II,EOD/HPF,GOOG/NYSE_HPF
+HPI,John Hancock Preferred Income Fund,EOD/HPI,GOOG/NYSE_HPI
+HPS,John Hancock Preferred Income Fund III,EOD/HPS,GOOG/NYSE_HPS
+PDT,John Hancock Premium Dividend Fund,EOD/PDT,GOOG/NYSE_PDT
+HTD,John Hancock Tax Advantaged Dividend Income Fund,EOD/HTD,GOOG/NYSE_HTD
+HTY,John Hancock Tax-Advantaged Global Shareholder Yield Fund,EOD/HTY,GOOG/NYSE_HTY
+JW_A,"John Wiley & Sons,EOD/JW_A,GOOG/NYSE_JW_A
+JW_B,"John Wiley & Sons,EOD/JW_B,GOOG/NYSE_JW_B
+JNJ,Johnson & Johnson,EOD/JNJ,GOOG/NYSE_JNJ
+JCI,"Johnson Controls,EOD/JCI,GOOG/NYSE_JCI
+JONE,"Jones Energy,EOD/JONE,GOOG/NYSE_JONE
+JLL,Jones Lang LaSalle Incorporated,EOD/JLL,GOOG/NYSE_JLL
+JMG,"Journal Media Group,EOD/JMG,
+JOY,Joy Global Inc.,EOD/JOY,GOOG/NYSE_JOY
+JPEP,JP Energy Partners LP,EOD/JPEP,
+JFC,"JPMorgan China Region Fund,EOD/JFC,GOOG/NYSE_JFC
+JMEI,Jumei International Holding Limited,EOD/JMEI,
+JNPR,"Juniper Networks,EOD/JNPR,GOOG/NYSE_JNPR
+JP,Jupai Holdings Limited,EOD/JP,
+JE,"Just Energy Group,EOD/JE,GOOG/NYSE_JE
+LRN,K12 Inc,EOD/LRN,GOOG/NYSE_LRN
+KAI,Kadant Inc,EOD/KAI,GOOG/NYSE_KAI
+KAMN,Kaman Corporation,EOD/KAMN,GOOG/NYSE_KAMN
+KSU,Kansas City Southern,EOD/KSU,GOOG/NYSE_KSU
+KSU_,Kansas City Southern,,GOOG/NYSE_KSU_
+KS,KapStone Paper and Packaging Corporation,EOD/KS,GOOG/NYSE_KS
+KAR,"KAR Auction Services,EOD/KAR,GOOG/NYSE_KAR
+KATE,Kate Spade & Company,EOD/KATE,GOOG/NYSE_KATE
+KED,Kayne Anderson Energy Development Company,EOD/KED,GOOG/NYSE_KED
+KYE,"Kayne Anderson Energy Total Return Fund,EOD/KYE,GOOG/NYSE_KYE
+KMF,"Kayne Anderson Midstream Energy Fund,EOD/KMF,GOOG/NYSE_KMF
+KYN,Kayne Anderson MLP Investment Company,EOD/KYN,GOOG/NYSE_KYN
+KYN_E,Kayne Anderson MLP Investment Company,,GOOG/NYSE_KYN_E
+KYN_F,Kayne Anderson MLP Investment Company,,
+KYN_G,Kayne Anderson MLP Investment Company,,
+KB,KB Financial Group Inc,EOD/KB,GOOG/NYSE_KB
+KBH,KB Home,EOD/KBH,GOOG/NYSE_KBH
+KBR,"KBR,EOD/KBR,GOOG/NYSE_KBR
+KAP,"KCAP Financial,EOD/KAP,
+KCG,"KCG Holdings,EOD/KCG,GOOG/NYSE_KCG
+K,Kellogg Company,EOD/K,GOOG/NYSE_K
+KEM,Kemet Corporation,EOD/KEM,GOOG/NYSE_KEM
+KMPA,Kemper Corporation,EOD/KMPA,
+KMPR,Kemper Corporation,EOD/KMPR,GOOG/NYSE_KMPR
+KMT,Kennametal Inc.,EOD/KMT,GOOG/NYSE_KMT
+KW,Kennedy-Wilson Holdings Inc.,EOD/KW,GOOG/NYSE_KW
+KWN,Kennedy-Wilson Holdings Inc.,EOD/KWN,
+KEN,Kenon Holdings Ltd.,EOD/KEN,
+KEG,"Key Energy Services,EOD/KEG,GOOG/NYSE_KEG
+KEY,KeyCorp,EOD/KEY,GOOG/NYSE_KEY
+KEY_G,KeyCorp,,GOOG/NYSE_KEY_G
+KEYS,Keysight Technologies Inc.,EOD/KEYS,
+KRC,Kilroy Realty Corporation,EOD/KRC,GOOG/NYSE_KRC
+KRC_G,Kilroy Realty Corporation,,GOOG/NYSE_KRC_G
+KRC_H,Kilroy Realty Corporation,,GOOG/NYSE_KRC_H
+KMB,Kimberly-Clark Corporation,EOD/KMB,GOOG/NYSE_KMB
+KIM,Kimco Realty Corporation,EOD/KIM,GOOG/NYSE_KIM
+KIM_H_CL,Kimco Realty Corporation,,
+KIM_I,Kimco Realty Corporation,,GOOG/NYSE_KIM_I
+KIM_J,Kimco Realty Corporation,,GOOG/NYSE_KIM_J
+KIM_K,Kimco Realty Corporation,,GOOG/NYSE_KIM_K
+KMI,"Kinder Morgan,EOD/KMI,GOOG/NYSE_KMI
+KMI_WS,"Kinder Morgan,EOD/KMI_WS,
+KMI_A,"Kinder Morgan,,
+KND,"Kindred Healthcare,EOD/KND,GOOG/NYSE_KND
+KING,King Digital Entertainment plc,EOD/KING,
+KFS,"Kingsway Financial Services,EOD/KFS,GOOG/NYSE_KFS
+KGC,Kinross Gold Corporation,EOD/KGC,GOOG/NYSE_KGC
+KEX,Kirby Corporation,EOD/KEX,GOOG/NYSE_KEX
+KRG,Kite Realty Group Trust,EOD/KRG,GOOG/NYSE_KRG
+KRG_A_CL,Kite Realty Group Trust,,
+KKR,KKR & Co. L.P.,EOD/KKR,GOOG/NYSE_KKR
+KFH,KKR Financial Holdings LLC,EOD/KFH,GOOG/NYSE_KFH
+KFI,KKR Financial Holdings LLC,EOD/KFI,
+KFN_,KKR Financial Holdings LLC,,GOOG/NYSE_KFN_
+KIO,KKR Income Opportunities Fund,EOD/KIO,
+KMG,"KMG Chemicals,EOD/KMG,GOOG/NYSE_KMG
+KNX,"Knight Transportation,EOD/KNX,GOOG/NYSE_KNX
+KNL,"Knoll,EOD/KNL,GOOG/NYSE_KNL
+KNOP,KNOT Offshore Partners LP,EOD/KNOP,GOOG/NYSE_KNOP
+KN,Knowles Corporation,EOD/KN,
+KSS,Kohl&#39;s Corporation,EOD/KSS,GOOG/NYSE_KSS
+PHG,Koninklijke Philips N.V.,EOD/PHG,GOOG/NYSE_PHG
+KOP,Koppers Holdings Inc.,EOD/KOP,GOOG/NYSE_KOP
+KEP,Korea Electric Power Corporation,EOD/KEP,GOOG/NYSE_KEP
+KEF,"Korea Equity Fund,EOD/KEF,GOOG/NYSE_KEF
+KF,"Korea Fund,EOD/KF,GOOG/NYSE_KF
+KFY,Korn/Ferry International,EOD/KFY,GOOG/NYSE_KFY
+KOS,Kosmos Energy Ltd.,EOD/KOS,GOOG/NYSE_KOS
+KRA,"Kraton Performance Polymers,EOD/KRA,GOOG/NYSE_KRA
+KKD,"Krispy Kreme Doughnuts,EOD/KKD,GOOG/NYSE_KKD
+KR,Kroger Company (The),EOD/KR,GOOG/NYSE_KR
+KRO,Kronos Worldwide Inc,EOD/KRO,GOOG/NYSE_KRO
+KT,KT Corporation,EOD/KT,GOOG/NYSE_KT
+KYO,Kyocera Corporation,EOD/KYO,GOOG/NYSE_KYO
+LB,"L Brands,EOD/LB,GOOG/NYSE_LB
+SCX,L.S. Starrett Company (The),EOD/SCX,GOOG/NYSE_SCX
+LLL,"L-3 Communications Holdings,EOD/LLL,GOOG/NYSE_LLL
+LQ,La Quinta Holdings Inc.,EOD/LQ,
+LH,Laboratory Corporation of America Holdings,EOD/LH,GOOG/NYSE_LH
+LG,"Laclede Group,EOD/LG,GOOG/NYSE_LG
+LADR,Ladder Capital Corp,EOD/LADR,
+LDR,"Landauer,EOD/LDR,GOOG/NYSE_LDR
+LCI,Lannett Co Inc,EOD/LCI,
+LPI,"Laredo Petroleum,EOD/LPI,GOOG/NYSE_LPI
+LVS,Las Vegas Sands Corp.,EOD/LVS,GOOG/NYSE_LVS
+LHO,LaSalle Hotel Properties,EOD/LHO,GOOG/NYSE_LHO
+LHO_H,LaSalle Hotel Properties,,GOOG/NYSE_LHO_H
+LHO_I,LaSalle Hotel Properties,,GOOG/NYSE_LHO_I
+LFL,LATAM Airlines Group S.A.,EOD/LFL,GOOG/NYSE_LFL
+LDF,"Latin American Discovery Fund,EOD/LDF,GOOG/NYSE_LDF
+LGI,Lazard Global Total Return and Income Fund,EOD/LGI,GOOG/NYSE_LGI
+LAZ,Lazard Ltd.,EOD/LAZ,GOOG/NYSE_LAZ
+LOR,"Lazard World Dividend & Income Fund,EOD/LOR,GOOG/NYSE_LOR
+LZB,La-Z-Boy Incorporated,EOD/LZB,GOOG/NYSE_LZB
+LF,Leapfrog Enterprises Inc,EOD/LF,GOOG/NYSE_LF
+LEA,Lear Corporation,EOD/LEA,GOOG/NYSE_LEA
+LEE,"Lee Enterprises,EOD/LEE,GOOG/NYSE_LEE
+BWG,Legg Mason BW Global Income Opportunities Fund Inc.,EOD/BWG,GOOG/NYSE_BWG
+LM,"Legg Mason,EOD/LM,GOOG/NYSE_LM
+LEG,"Leggett & Platt,EOD/LEG,GOOG/NYSE_LEG
+CVB,Lehman ABS Corporation,EOD/CVB,GOOG/NYSE_CVB
+JBK,Lehman ABS Corporation,EOD/JBK,GOOG/NYSE_JBK
+KCC,Lehman ABS Corporation,EOD/KCC,GOOG/NYSE_KCC
+KTH,Lehman ABS Corporation,EOD/KTH,GOOG/NYSE_KTH
+KTN,Lehman ABS Corporation,EOD/KTN,GOOG/NYSE_KTN
+KTP,Lehman ABS Corporation,EOD/KTP,GOOG/NYSE_KTP
+XKE,Lehman ABS Corporation,EOD/XKE,GOOG/NYSE_XKE
+LDOS,"Leidos Holdings,EOD/LDOS,
+LEJU,Leju Holdings Limited,EOD/LEJU,
+LC,LendingClub Corporation,EOD/LC,
+LEN,Lennar Corporation,EOD/LEN,GOOG/NYSE_LEN
+LEN_B,Lennar Corporation,EOD/LEN_B,GOOG/NYSE_LEN_B
+LII,"Lennox International,EOD/LII,GOOG/NYSE_LII
+LUK,Leucadia National Corporation,EOD/LUK,GOOG/NYSE_LUK
+LVLT,"Level 3 Communications,EOD/LVLT,GOOG/NYSE_LVLT
+LXP,Lexington Realty Trust,EOD/LXP,GOOG/NYSE_LXP
+LXP_C,Lexington Realty Trust,,GOOG/NYSE_LXP_C
+LXK,"Lexmark International,EOD/LXK,GOOG/NYSE_LXK
+LPL,"LG Display Co.,EOD/LPL,GOOG/NYSE_LPL
+USA,Liberty All-Star Equity Fund,EOD/USA,GOOG/NYSE_USA
+ASG,"Liberty All-Star Growth Fund,EOD/ASG,GOOG/NYSE_ASG
+LPT,Liberty Property Trust,EOD/LPT,
+LOCK,"LifeLock,EOD/LOCK,GOOG/NYSE_LOCK
+LITB,"LightInTheBox Holding Co.,EOD/LITB,GOOG/NYSE_LITB
+LNC,Lincoln National Corporation,EOD/LNC,GOOG/NYSE_LNC
+LNC_WS,Lincoln National Corporation,EOD/LNC_WS,
+LNN,Lindsay Corporation,EOD/LNN,GOOG/NYSE_LNN
+LNKD,LinkedIn Corporation,EOD/LNKD,GOOG/NYSE_LNKD
+LGF,Lions Gate Entertainment Corporation,EOD/LGF,GOOG/NYSE_LGF
+LAD,"Lithia Motors,EOD/LAD,GOOG/NYSE_LAD
+LYV,"Live Nation Entertainment,EOD/LYV,GOOG/NYSE_LYV
+LYG,Lloyds Banking Group Plc,EOD/LYG,GOOG/NYSE_LYG
+SCD,LMP Capital and Income Fund Inc.,EOD/SCD,GOOG/NYSE_SCD
+TLI,LMP Corporate Loan Fund Inc,EOD/TLI,GOOG/NYSE_TLI
+RIT,LMP Real Estate Income Fund Inc,EOD/RIT,GOOG/NYSE_RIT
+LMT,Lockheed Martin Corporation,EOD/LMT,GOOG/NYSE_LMT
+L,Loews Corporation,EOD/L,GOOG/NYSE_L
+LPX,Louisiana-Pacific Corporation,EOD/LPX,GOOG/NYSE_LPX
+LOW,"Lowe&#39;s Companies,EOD/LOW,GOOG/NYSE_LOW
+LXU,Lsb Industries Inc.,EOD/LXU,GOOG/NYSE_LXU
+LTC,"LTC Properties,EOD/LTC,GOOG/NYSE_LTC
+LUB,"Luby&#39;s,EOD/LUB,GOOG/NYSE_LUB
+LL,"Lumber Liquidators Holdings,EOD/LL,GOOG/NYSE_LL
+LXFR,Luxfer Holdings PLC,EOD/LXFR,GOOG/NYSE_LXFR
+LXFT,"Luxoft Holding,EOD/LXFT,GOOG/NYSE_LXFT
+LUX,"Luxottica Group,EOD/LUX,GOOG/NYSE_LUX
+LDL,"Lydall,EOD/LDL,GOOG/NYSE_LDL
+WLH,Lyon William Homes,EOD/WLH,GOOG/NYSE_WLH
+LYB,LyondellBasell Industries NV,EOD/LYB,GOOG/NYSE_LYB
+MTB,M&T Bank Corporation,EOD/MTB,GOOG/NYSE_MTB
+MTB_WS,M&T Bank Corporation,EOD/MTB_WS,
+MTB_,M&T Bank Corporation,,GOOG/NYSE_MTB_
+MTB_C,M&T Bank Corporation,,GOOG/NYSE_MTB_C
+MDC,"M.D.C. Holdings,EOD/MDC,GOOG/NYSE_MDC
+MHO,"M/I Homes,EOD/MHO,GOOG/NYSE_MHO
+MHO_A,"M/I Homes,,GOOG/NYSE_MHO_A
+MAC,Macerich Company (The),EOD/MAC,GOOG/NYSE_MAC
+CLI,Mack-Cali Realty Corporation,EOD/CLI,GOOG/NYSE_CLI
+MGU,Macquarie Global Infrastructure Total Return Fund Inc.,EOD/MGU,GOOG/NYSE_MGU
+MIC,Macquarie Infrastructure Company,EOD/MIC,GOOG/NYSE_MIC
+MFD,Macquarie/First Trust Global,EOD/MFD,GOOG/NYSE_MFD
+BMA,Macro Bank Inc.,EOD/BMA,GOOG/NYSE_BMA
+M,Macy&#39;s Inc,EOD/M,GOOG/NYSE_M
+MCN,Madison Covered Call & Equity Strategy Fund,EOD/MCN,GOOG/NYSE_MCN
+MSP,Madison Strategic Sector Premium Fund,EOD/MSP,GOOG/NYSE_MSP
+MMP,Magellan Midstream Partners L.P.,EOD/MMP,GOOG/NYSE_MMP
+MGA,"Magna International,EOD/MGA,GOOG/NYSE_MGA
+MX,MagnaChip Semiconductor Corporation,EOD/MX,GOOG/NYSE_MX
+MH_A,"Maiden Holdings,,GOOG/NYSE_MH_A
+MHNA,"Maiden Holdings,EOD/MHNA,GOOG/NYSE_MHNA
+MHNB,"Maiden Holdings,EOD/MHNB,
+MHNC,"Maiden Holdings,EOD/MHNC,
+MAIN,Main Street Capital Corporation,EOD/MAIN,GOOG/NYSE_MAIN
+MSCA,Main Street Capital Corporation,EOD/MSCA,
+MMD,MainStay DefinedTerm Municipal Opportunities Fund,EOD/MMD,GOOG/NYSE_MMD
+MNK,Mallinckrodt plc,EOD/MNK,
+MZF,Managed Duration Investment Grade Municipal Fund,EOD/MZF,GOOG/NYSE_MZF
+HYF,"Managed High Yield Plus Fund,EOD/HYF,GOOG/NYSE_HYF
+MANU,Manchester United Ltd.,EOD/MANU,GOOG/NYSE_MANU
+MTW,"Manitowoc Company,EOD/MTW,GOOG/NYSE_MTW
+MN,"Manning & Napier,EOD/MN,GOOG/NYSE_MN
+MAN,ManpowerGroup,EOD/MAN,GOOG/NYSE_MAN
+MFC,Manulife Financial Corp,EOD/MFC,GOOG/NYSE_MFC
+MRO,Marathon Oil Corporation,EOD/MRO,GOOG/NYSE_MRO
+MPC,Marathon Petroleum Corporation,EOD/MPC,GOOG/NYSE_MPC
+MMI,"Marcus & Millichap,EOD/MMI,GOOG/NYSE_MMI
+MCS,Marcus Corporation (The),EOD/MCS,GOOG/NYSE_MCS
+MRIN,Marin Software Incorporated,EOD/MRIN,GOOG/NYSE_MRIN
+MHG,Marine Harvest ASA,EOD/MHG,
+MPX,Marine Products Corporation,EOD/MPX,GOOG/NYSE_MPX
+HZO,"MarineMax,EOD/HZO,GOOG/NYSE_HZO
+MKL,Markel Corporation,EOD/MKL,GOOG/NYSE_MKL
+MWE,"MarkWest Energy Partners,EOD/MWE,GOOG/NYSE_MWE
+VAC,Marriot Vacations Worldwide Corporation,EOD/VAC,GOOG/NYSE_VAC
+MMC,"Marsh & McLennan Companies,EOD/MMC,GOOG/NYSE_MMC
+MSO,"Martha Stewart Living Omnimedia,EOD/MSO,GOOG/NYSE_MSO
+MLM,"Martin Marietta Materials,EOD/MLM,GOOG/NYSE_MLM
+MAS,Masco Corporation,EOD/MAS,GOOG/NYSE_MAS
+DOOR,Masonite International Corporation,EOD/DOOR,
+MTZ,"MasTec,EOD/MTZ,GOOG/NYSE_MTZ
+MA,Mastercard Incorporated,EOD/MA,GOOG/NYSE_MA
+MTDR,Matador Resources Company,EOD/MTDR,GOOG/NYSE_MTDR
+MTRN,Materion Corporation,EOD/MTRN,GOOG/NYSE_MTRN
+MATX,"Matson,EOD/MATX,GOOG/NYSE_MATX
+MLP,"Maui Land & Pineapple Company,EOD/MLP,GOOG/NYSE_MLP
+MMS,"Maximus,EOD/MMS,GOOG/NYSE_MMS
+MXL,"MaxLinear,EOD/MXL,GOOG/NYSE_MXL
+MXPT,"MaxPoint Interactive,EOD/MXPT,
+MBI,"MBIA,EOD/MBI,GOOG/NYSE_MBI
+MNI,McClatchy Company (The),EOD/MNI,GOOG/NYSE_MNI
+MKC,"McCormick & Company,EOD/MKC,GOOG/NYSE_MKC
+MKC_V,"McCormick & Company,EOD/MKC_V,GOOG/NYSE_MKC_V
+MDR,"McDermott International,EOD/MDR,GOOG/NYSE_MDR
+MCD,McDonald&#39;s Corporation,EOD/MCD,GOOG/NYSE_MCD
+MUX,McEwen Mining Inc.,EOD/MUX,GOOG/NYSE_MUX
+MHFI,"McGraw Hill Financial,EOD/MHFI,GOOG/NYSE_MHFI
+MCK,McKesson Corporation,EOD/MCK,GOOG/NYSE_MCK
+MDU,"MDU Resources Group,EOD/MDU,GOOG/NYSE_MDU
+MJN,Mead Johnson Nutrition Company,EOD/MJN,GOOG/NYSE_MJN
+MTL,Mechel OAO,EOD/MTL,GOOG/NYSE_MTL
+MTL_,Mechel OAO,,GOOG/NYSE_MTL_
+MEG,"Media General,EOD/MEG,GOOG/NYSE_MEG
+MPW,"Medical Properties Trust,EOD/MPW,GOOG/NYSE_MPW
+MED,MEDIFAST INC,EOD/MED,GOOG/NYSE_MED
+MCC,Medley Capital Corporation,EOD/MCC,GOOG/NYSE_MCC
+MCQ,Medley Capital Corporation,EOD/MCQ,
+MCV,Medley Capital Corporation,EOD/MCV,
+MDLY,Medley Management Inc.,EOD/MDLY,
+MD,"Mednax,EOD/MD,GOOG/NYSE_MD
+MDT,Medtronic plc,EOD/MDT,GOOG/NYSE_MDT
+MW,"Men&#39;s Wearhouse,EOD/MW,GOOG/NYSE_MW
+MRK,"Merck & Company,EOD/MRK,GOOG/NYSE_MRK
+MCY,Mercury General Corporation,EOD/MCY,GOOG/NYSE_MCY
+MDP,Meredith Corporation,EOD/MDP,GOOG/NYSE_MDP
+MTH,Meritage Corporation,EOD/MTH,GOOG/NYSE_MTH
+MTOR,"Meritor,EOD/MTOR,GOOG/NYSE_MTOR
+MER_D,"Merrill Lynch & Co.,,GOOG/NYSE_MER_D
+MER_E,"Merrill Lynch & Co.,,GOOG/NYSE_MER_E
+MER_F,"Merrill Lynch & Co.,,GOOG/NYSE_MER_F
+MER_K,"Merrill Lynch & Co.,,GOOG/NYSE_MER_K
+MER_M,"Merrill Lynch & Co.,,GOOG/NYSE_MER_M
+MER_P,"Merrill Lynch & Co.,,GOOG/NYSE_MER_P
+PIY,"Merrill Lynch Depositor,EOD/PIY,GOOG/NYSE_PIY
+MTR,Mesa Royalty Trust,EOD/MTR,GOOG/NYSE_MTR
+MSB,Mesabi Trust,EOD/MSB,GOOG/NYSE_MSB
+MPG,Metaldyne Performance Group Inc.,EOD/MPG,GOOG/NYSE_MPG
+MEI,"Methode Electronics,EOD/MEI,GOOG/NYSE_MEI
+MET,"MetLife,EOD/MET,GOOG/NYSE_MET
+MET_A,"MetLife,,GOOG/NYSE_MET_A
+MTD,"Mettler-Toledo International,EOD/MTD,GOOG/NYSE_MTD
+MXE,"Mexico Equity and Income Fund,EOD/MXE,GOOG/NYSE_MXE
+MXF,"Mexico Fund,EOD/MXF,GOOG/NYSE_MXF
+MFA,"MFA Financial,EOD/MFA,GOOG/NYSE_MFA
+MFA_B,"MFA Financial,,
+MFO,"MFA Financial,EOD/MFO,
+MIL,MFC Industrial Ltd.,EOD/MIL,GOOG/NYSE_MIL
+MCR,MFS Charter Income Trust,EOD/MCR,GOOG/NYSE_MCR
+MGF,MFS Government Markets Income Trust,EOD/MGF,GOOG/NYSE_MGF
+MIN,MFS Intermediate Income Trust,EOD/MIN,GOOG/NYSE_MIN
+MMT,MFS Multimarket Income Trust,EOD/MMT,GOOG/NYSE_MMT
+MFM,MFS Municipal Income Trust,EOD/MFM,GOOG/NYSE_MFM
+MFV,MFS Special Value Trust,EOD/MFV,GOOG/NYSE_MFV
+MTG,MGIC Investment Corporation,EOD/MTG,GOOG/NYSE_MTG
+MGM,MGM Resorts International,EOD/MGM,GOOG/NYSE_MGM
+KORS,Michael Kors Holdings Limited,EOD/KORS,GOOG/NYSE_KORS
+MAA,"Mid-America Apartment Communities,EOD/MAA,GOOG/NYSE_MAA
+MEP,"Midcoast Energy Partners,EOD/MEP,GOOG/NYSE_MEP
+MSL,MidSouth Bancorp,EOD/MSL,
+MPO,"Midstates Petroleum Company,EOD/MPO,GOOG/NYSE_MPO
+MCRN,Milacron Holdings Corp.,EOD/MCRN,
+MLR,"Miller Industries,EOD/MLR,GOOG/NYSE_MLR
+HIE,Miller/Howard High Income Equity Fund,EOD/HIE,
+MR,Mindray Medical International Limited,EOD/MR,GOOG/NYSE_MR
+MTX,Minerals Technologies Inc.,EOD/MTX,GOOG/NYSE_MTX
+MP_D,Mississippi Power Company,,GOOG/NYSE_MP_D
+MG,Mistras Group Inc,EOD/MG,GOOG/NYSE_MG
+MTU,Mitsubishi UFJ Financial Group Inc,EOD/MTU,GOOG/NYSE_MTU
+MIXT,MiX Telematics Limited,EOD/MIXT,GOOG/NYSE_MIXT
+MFG,"Mizuho Financial Group,EOD/MFG,GOOG/NYSE_MFG
+MBT,Mobile TeleSystems OJSC,EOD/MBT,GOOG/NYSE_MBT
+MBLY,Mobileye N.V.,EOD/MBLY,
+MODN,"Model N,EOD/MODN,GOOG/NYSE_MODN
+MOD,Modine Manufacturing Company,EOD/MOD,GOOG/NYSE_MOD
+MC,Moelis & Company,EOD/MC,
+MHK,"Mohawk Industries,EOD/MHK,GOOG/NYSE_MHK
+MOH,Molina Healthcare Inc,EOD/MOH,GOOG/NYSE_MOH
+TAP,Molson Coors Brewing  Company,EOD/TAP,GOOG/NYSE_TAP
+TAP_A,Molson Coors Brewing  Company,EOD/TAP_A,GOOG/NYSE_TAP_A
+MNR,Monmouth Real Estate Investment Corporation,EOD/MNR,GOOG/NYSE_MNR
+MNR_A,Monmouth Real Estate Investment Corporation,,GOOG/NYSE_MNR_A
+MNR_B,Monmouth Real Estate Investment Corporation,,GOOG/NYSE_MNR_B
+MORE          ,"Monogram Residential Trust,EOD/MORE          ,
+MON,Monsanto Company,EOD/MON,GOOG/NYSE_MON
+MWW,"Monster Worldwide,EOD/MWW,GOOG/NYSE_MWW
+MTS,"Montgomery Street Income Securities,EOD/MTS,GOOG/NYSE_MTS
+MCO,Moody&#39;s Corporation,EOD/MCO,GOOG/NYSE_MCO
+MOG_A,Moog Inc.,EOD/MOG_A,GOOG/NYSE_MOG_A
+MOG_B,Moog Inc.,EOD/MOG_B,GOOG/NYSE_MOG_B
+MS,Morgan Stanley,EOD/MS,GOOG/NYSE_MS
+MS_A,Morgan Stanley,,GOOG/NYSE_MS_A
+MS_E,Morgan Stanley,,
+MS_F,Morgan Stanley,,
+MS_G,Morgan Stanley,,
+MS_I,Morgan Stanley,,
+MSK,Morgan Stanley,EOD/MSK,GOOG/NYSE_MSK
+MWG,Morgan Stanley,EOD/MWG,GOOG/NYSE_MWG
+MWO,Morgan Stanley,EOD/MWO,GOOG/NYSE_MWO
+MWR,Morgan Stanley,EOD/MWR,GOOG/NYSE_MWR
+APF,"Morgan Stanley Asia-Pacific Fund,EOD/APF,GOOG/NYSE_APF
+CAF,Morgan Stanley China A Share Fund Inc.,EOD/CAF,GOOG/NYSE_CAF
+MSD,"Morgan Stanley Emerging Markets Debt Fund,EOD/MSD,GOOG/NYSE_MSD
+EDD,"Morgan Stanley Emerging Markets Domestic Debt Fund,EOD/EDD,GOOG/NYSE_EDD
+MSF,"Morgan Stanley Emerging Markets Fund,EOD/MSF,GOOG/NYSE_MSF
+IIF,"Morgan Stanley India Investment Fund,EOD/IIF,GOOG/NYSE_IIF
+MOS,Mosaic Company (The),EOD/MOS,GOOG/NYSE_MOS
+MSI,"Motorola Solutions,EOD/MSI,GOOG/NYSE_MSI
+MOV,Movado Group Inc.,EOD/MOV,GOOG/NYSE_MOV
+MPLX,MPLX LP,EOD/MPLX,GOOG/NYSE_MPLX
+MRC,MRC Global Inc.,EOD/MRC,GOOG/NYSE_MRC
+ICB,"MS Income Securities,EOD/ICB,GOOG/NYSE_ICB
+HJV,MS Structured Asset Corp Saturns GE Cap Corp Series 2002-14,EOD/HJV,GOOG/NYSE_HJV
+MSA,MSA Safety Incorporporated,EOD/MSA,GOOG/NYSE_MSA
+MSM,"MSC Industrial Direct Company,EOD/MSM,GOOG/NYSE_MSM
+MSCI,MSCI Inc,EOD/MSCI,GOOG/NYSE_MSCI
+MSG,MSG Networks Inc.,EOD/MSG,
+MSGN,MSG Networks Inc.,EOD/MSGN,
+MLI,"Mueller Industries,EOD/MLI,GOOG/NYSE_MLI
+MWA,MUELLER WATER PRODUCTS,EOD/MWA,GOOG/NYSE_MWA
+MPSX,Multi Packaging Solutions International Limited,EOD/MPSX,
+MUR,Murphy Oil Corporation,EOD/MUR,GOOG/NYSE_MUR
+MUSA,Murphy USA Inc.,EOD/MUSA,GOOG/NYSE_MUSA
+MVO,MV Oil Trust,EOD/MVO,GOOG/NYSE_MVO
+MVC,"MVC Capital,EOD/MVC,GOOG/NYSE_MVC
+MVCB,"MVC Capital,EOD/MVCB,
+MYE,"Myers Industries,EOD/MYE,GOOG/NYSE_MYE
+NBR,Nabors Industries Ltd.,EOD/NBR,GOOG/NYSE_NBR
+NC,"NACCO Industries,EOD/NC,GOOG/NYSE_NC
+NTP,Nam Tai Property Inc.,EOD/NTP,
+NBHC,National Bank Holdings Corporation,EOD/NBHC,GOOG/NYSE_NBHC
+NBG,National Bank of Greece SA,EOD/NBG,GOOG/NYSE_NBG
+NBG_A,National Bank of Greece SA,,GOOG/NYSE_NBG_A
+NFG,National Fuel Gas Company,EOD/NFG,GOOG/NYSE_NFG
+NGG,"National Grid Transco,EOD/NGG,GOOG/NYSE_NGG
+NHI,"National Health Investors,EOD/NHI,GOOG/NYSE_NHI
+NOV,"National Oilwell Varco,EOD/NOV,GOOG/NYSE_NOV
+NPK,"National Presto Industries,EOD/NPK,GOOG/NYSE_NPK
+NNN,National Retail Properties,EOD/NNN,GOOG/NYSE_NNN
+NNN_D,National Retail Properties,,GOOG/NYSE_NNN_D
+NNN_E,National Retail Properties,,
+SID,National Steel Company,EOD/SID,GOOG/NYSE_SID
+NSA,National Storage Affiliates Trust,EOD/NSA,
+NSM,Nationstar Mortgage Holdings Inc.,EOD/NSM,GOOG/NYSE_NSM
+NW_C,Natl Westminster Pfd,,GOOG/NYSE_NW_C
+NGS,"Natural Gas Services Group,EOD/NGS,GOOG/NYSE_NGS
+NGVC,"Natural Grocers by Vitamin Cottage,EOD/NGVC,GOOG/NYSE_NGVC
+NRP,Natural Resource Partners LP,EOD/NRP,GOOG/NYSE_NRP
+NTZ,"Natuzzi,EOD/NTZ,GOOG/NYSE_NTZ
+NLS,"Nautilus Group,EOD/NLS,GOOG/NYSE_NLS
+NCI,"Navigant Consulting,EOD/NCI,GOOG/NYSE_NCI
+NVGS,Navigator Holdings Ltd.,EOD/NVGS,
+NNA,Navios Maritime Acquisition Corporation,EOD/NNA,GOOG/NYSE_NNA
+NM,Navios Maritime Holdings Inc.,EOD/NM,GOOG/NYSE_NM
+NM_G,Navios Maritime Holdings Inc.,,
+NM_H,Navios Maritime Holdings Inc.,,
+NAP,Navios Maritime Midstream Partners LP,EOD/NAP,
+NMM,Navios Maritime Partners LP,EOD/NMM,GOOG/NYSE_NMM
+NAV,Navistar International Corporation,EOD/NAV,GOOG/NYSE_NAV
+NAV_D,Navistar International Corporation,,GOOG/NYSE_NAV_D
+NCS,"NCI Building Systems,EOD/NCS,GOOG/NYSE_NCS
+NCR,NCR Corporation,EOD/NCR,GOOG/NYSE_NCR
+NP,"Neenah Paper,EOD/NP,GOOG/NYSE_NP
+NEFF,Neff Corporation,EOD/NEFF,
+NNI,"Nelnet,EOD/NNI,GOOG/NYSE_NNI
+NPTN,NeoPhotonics Corporation,EOD/NPTN,GOOG/NYSE_NPTN
+N,Netsuite Inc,EOD/N,GOOG/NYSE_N
+NSR,"Neustar,EOD/NSR,GOOG/NYSE_NSR
+NVRO,Nevro Corp.,EOD/NVRO,
+HYB,"New America High Income Fund,EOD/HYB,GOOG/NYSE_HYB
+GF,"New Germany Fund,EOD/GF,GOOG/NYSE_GF
+NWHM,New Home Company Inc. (The),EOD/NWHM,
+IRL,"New Ireland Fund,EOD/IRL,GOOG/NYSE_IRL
+NEWM,New Media Investment Group Inc.,EOD/NEWM,
+NMFC,New Mountain Finance Corporation,EOD/NMFC,GOOG/NYSE_NMFC
+EDU,"New Oriental Education & Technology Group,EOD/EDU,GOOG/NYSE_EDU
+NEWR,"New Relic,EOD/NEWR,
+NRZ,New Residential Investment Corp.,EOD/NRZ,
+SNR,New Senior Investment Group Inc.,EOD/SNR,
+NSLP_A,New Source Energy Partners L.P.,,
+NWY,"New York & Company,EOD/NWY,GOOG/NYSE_NWY
+NYCB,"New York Community Bancorp,EOD/NYCB,GOOG/NYSE_NYCB
+NYCB_U,"New York Community Bancorp,,
+NYRT,"New York REIT,EOD/NYRT,
+NYT,New York Times Company (The),EOD/NYT,GOOG/NYSE_NYT
+NCT,Newcastle Investment Corporation,EOD/NCT,GOOG/NYSE_NCT
+NCT_B,Newcastle Investment Corporation,,GOOG/NYSE_NCT_B
+NCT_C,Newcastle Investment Corporation,,GOOG/NYSE_NCT_C
+NCT_D,Newcastle Investment Corporation,,GOOG/NYSE_NCT_D
+NWL,Newell Rubbermaid Inc.,EOD/NWL,GOOG/NYSE_NWL
+NFX,Newfield Exploration Company,EOD/NFX,GOOG/NYSE_NFX
+NJR,NewJersey Resources Corporation,EOD/NJR,GOOG/NYSE_NJR
+NEU,NewMarket Corporation,EOD/NEU,GOOG/NYSE_NEU
+NEM,Newmont Mining Corporation,EOD/NEM,GOOG/NYSE_NEM
+NR,"Newpark Resources,EOD/NR,GOOG/NYSE_NR
+NHF,NexPoint Credit Stategies Fund,EOD/NHF,GOOG/NYSE_NHF
+NXRT,"NexPoint Residential Trust,EOD/NXRT,
+NEP,"NextEra Energy Partners,EOD/NEP,
+NEE,"NextEra Energy,EOD/NEE,GOOG/NYSE_NEE
+NEE_C,"NextEra Energy,,GOOG/NYSE_NEE_C
+NEE_G,"NextEra Energy,,
+NEE_H,"NextEra Energy,,
+NEE_I,"NextEra Energy,,
+NEE_J,"NextEra Energy,,
+NEE_P,"NextEra Energy,,
+NEE_Q,"NextEra Energy,,
+NGL,NGL ENERGY PARTNERS LP,EOD/NGL,GOOG/NYSE_NGL
+NMK_B,"Niagara Mohawk Holdings,,GOOG/NYSE_NMK_B
+NMK_C,"Niagara Mohawk Holdings,,GOOG/NYSE_NMK_C
+NJ,Nidec Corporation (Nihon Densan Kabushiki Kaisha),EOD/NJ,GOOG/NYSE_NJ
+NLSN,Nielsen N.V.,EOD/NLSN,GOOG/NYSE_NLSN
+NKE,"Nike,EOD/NKE,GOOG/NYSE_NKE
+NMBL,"Nimble Storage,EOD/NMBL,
+NTT,Nippon Telegraph and Telephone Corporation,EOD/NTT,GOOG/NYSE_NTT
+NKA,Niska Gas Storage Partners LLC,EOD/NKA,GOOG/NYSE_NKA
+NI,"NiSource,EOD/NI,GOOG/NYSE_NI
+NL,"NL Industries,EOD/NL,GOOG/NYSE_NL
+NOAH,Noah Holdings Ltd.,EOD/NOAH,GOOG/NYSE_NOAH
+NE,Noble Corporation,EOD/NE,GOOG/NYSE_NE
+NBL,Noble Energy Inc.,EOD/NBL,GOOG/NYSE_NBL
+NOK,Nokia Corporation,EOD/NOK,GOOG/NYSE_NOK
+NMR,Nomura Holdings Inc ADR,EOD/NMR,GOOG/NYSE_NMR
+NOR,Noranda Aluminum Holding Corporation,EOD/NOR,GOOG/NYSE_NOR
+NORD,"Nord Anglia Education,EOD/NORD,
+NAO,Nordic American Offshore Ltd,EOD/NAO,
+NAT,Nordic American Tankers Limited,EOD/NAT,GOOG/NYSE_NAT
+JWN,"Nordstrom,EOD/JWN,GOOG/NYSE_JWN
+NSC,Norfolk Souther Corporation,EOD/NSC,GOOG/NYSE_NSC
+NTL,Nortel Inversora SA,EOD/NTL,GOOG/NYSE_NTL
+NOA,"North American Energy Partners,EOD/NOA,GOOG/NYSE_NOA
+NADL,North Atlantic Drilling Ltd.,EOD/NADL,
+NRT,North European Oil Royality Trust,EOD/NRT,GOOG/NYSE_NRT
+NTI,Northern Tier Energy LP,EOD/NTI,GOOG/NYSE_NTI
+NOC,Northrop Grumman Corporation,EOD/NOC,GOOG/NYSE_NOC
+NSAM,"NorthStar Asset Management Group,EOD/NSAM,
+NRE,NorthStar Realty Europe Corp.,EOD/NRE,
+NRF,Northstar Realty Finance Corp.,EOD/NRF,GOOG/NYSE_NRF
+NRF_A,Northstar Realty Finance Corp.,,GOOG/NYSE_NRF_A
+NRF_B,Northstar Realty Finance Corp.,,GOOG/NYSE_NRF_B
+NRF_C,Northstar Realty Finance Corp.,,GOOG/NYSE_NRF_C
+NRF_D,Northstar Realty Finance Corp.,,
+NRF_E,Northstar Realty Finance Corp.,,
+NWN,Northwest Natural Gas Company,EOD/NWN,GOOG/NYSE_NWN
+NWE,NorthWestern Corporation,EOD/NWE,GOOG/NYSE_NWE
+NVS,Novartis AG,EOD/NVS,GOOG/NYSE_NVS
+NVO,Novo Nordisk A/S,EOD/NVO,GOOG/NYSE_NVO
+DNOW,NOW Inc.,EOD/DNOW,
+NQ,NQ Mobile Inc.,EOD/NQ,GOOG/NYSE_NQ
+NRG,"NRG Energy,EOD/NRG,GOOG/NYSE_NRG
+NYLD,"NRG Yield,EOD/NYLD,GOOG/NYSE_NYLD
+NYLD_A,"NRG Yield,EOD/NYLD_A,
+DCM,"NTT DOCOMO,EOD/DCM,GOOG/NYSE_DCM
+NUS,"Nu Skin Enterprises,EOD/NUS,GOOG/NYSE_NUS
+NUE,Nucor Corporation,EOD/NUE,GOOG/NYSE_NUE
+NS,Nustar Energy L.P.,EOD/NS,GOOG/NYSE_NS
+NSH,"Nustar GP Holdings,EOD/NSH,GOOG/NYSE_NSH
+NSS,"NuStar Logistics,EOD/NSS,
+JMLP,Nuveen All Cap Energy MLP Opportunities Fund,EOD/JMLP,
+NEA,Nuveen AMT-Free Municipal Income Fund,EOD/NEA,
+NUV,Nuveen AMT-Free Municipal Value Fund,EOD/NUV,GOOG/NYSE_NUV
+NUW,Nuveen AMT-Free Municipal Value Fund,EOD/NUW,GOOG/NYSE_NUW
+NAZ,Nuveen Arizona Premium Income Municipal Fund,EOD/NAZ,GOOG/NYSE_NAZ
+NBB,Nuveen Build America Bond Fund,EOD/NBB,GOOG/NYSE_NBB
+NBD,Nuveen Build America Bond Opportunity Fund,EOD/NBD,GOOG/NYSE_NBD
+NKX,Nuveen California AMT-Free Municipal Income Fund,EOD/NKX,
+NAC,Nuveen California Dividend Advantage Municipal Fund,EOD/NAC,GOOG/NYSE_NAC
+NCA,"Nuveen California Municipal Value Fund,EOD/NCA,GOOG/NYSE_NCA
+NTC,Nuveen Connecticut Premium Income Municipal Fund,EOD/NTC,GOOG/NYSE_NTC
+JCE,Nuveen Core Equity Alpha Fund,EOD/JCE,GOOG/NYSE_JCE
+JQC,Nuveen Credit Strategies Income Fund,EOD/JQC,GOOG/NYSE_JQC
+JDD,Nuveen Diversified Dividend and Income Fund,EOD/JDD,GOOG/NYSE_JDD
+NAD,Nuveen Dividend Advantage Municipal Fund,EOD/NAD,GOOG/NYSE_NAD
+DIAX,Nuveen Dow 30SM Dynamic Overwrite Fund,EOD/DIAX,
+JMF,Nuveen Energy MLP Total Return Fund,EOD/JMF,GOOG/NYSE_JMF
+NEV,Nuveen Enhanced Municipal Value Fund,EOD/NEV,GOOG/NYSE_NEV
+JPW,Nuveen Flexible Investment Income Fund,EOD/JPW,
+JFR,Nuveen Floating Rate Income Fund,EOD/JFR,GOOG/NYSE_JFR
+JRO,Nuveen Floating Rate Income Opportuntiy Fund,EOD/JRO,GOOG/NYSE_JRO
+NKG,Nuveen Georgia Dividend Advantage Municipal Fund 2,EOD/NKG,
+JGV,Nuveen Global Equity Income Fund ,EOD/JGV,GOOG/NYSE_JGV
+JGH,Nuveen Global High Income Fund,EOD/JGH,
+JHY,Nuveen High Income 2020 Target Term Fund,EOD/JHY,
+NXC,Nuveen Insured California Select Tax-Free Income Portfolio,EOD/NXC,GOOG/NYSE_NXC
+NXN,Nuveen Insured New York Select Tax-Free Income Portfolio,EOD/NXN,GOOG/NYSE_NXN
+NID,Nuveen Intermediate Duration Municipal Term Fund,EOD/NID,GOOG/NYSE_NID
+NQM,"Nuveen Investment Quality Municipal Fund,EOD/NQM,GOOG/NYSE_NQM
+NMY,Nuveen Maryland Premium Income Municipal Fund,EOD/NMY,GOOG/NYSE_NMY
+NMT,Nuveen Massachusetts Premium Income Municipal Fund,EOD/NMT,GOOG/NYSE_NMT
+NUM,Nuveen Michigan Quality Income Municipal Fund,EOD/NUM,GOOG/NYSE_NUM
+NMS,Nuveen Minnesota Municipal Income Fund,EOD/NMS,
+JLS,Nuveen Mortgage Opportunity Term Fund,EOD/JLS,GOOG/NYSE_JLS
+JMM,Nuveen Multi-Market Income Fund,EOD/JMM,
+NMA,"Nuveen Municipal Advantage Fund,EOD/NMA,GOOG/NYSE_NMA
+NMI,"Nuveen Municipal Income Fund,EOD/NMI,GOOG/NYSE_NMI
+NMO,"Nuveen Municipal Market Opportunity Fund,EOD/NMO,GOOG/NYSE_NMO
+NIO,"Nuveen Municipal Opportunity Fund,EOD/NIO,GOOG/NYSE_NIO
+NXJ,Nuveen New Jersey Dividend Advantage Municipal Fund,EOD/NXJ,
+NRK,Nuveen New York AMT-Free Municipal Income Fund,EOD/NRK,
+NAN,Nuveen New York Dividend Advantage Municipal Fund,EOD/NAN,GOOG/NYSE_NAN
+NNY,"Nuveen New York Municipal Value Fund,EOD/NNY,GOOG/NYSE_NNY
+NNC,Nuveen North Carolina Premium Income Municipal Fund,EOD/NNC,GOOG/NYSE_NNC
+NUO,Nuveen Ohio Quality Income Municipal Fund,EOD/NUO,GOOG/NYSE_NUO
+NQP,"Nuveen Pennsylvania Investment Quality Municipal Fund,EOD/NQP,GOOG/NYSE_NQP
+NPP,"Nuveen Performance Plus Municipal Fund,EOD/NPP,GOOG/NYSE_NPP
+JPI,Nuveen Preferred and Income Term Fund,EOD/JPI,GOOG/NYSE_JPI
+JPC,Nuveen Preferred Income Opportunites Fund,EOD/JPC,GOOG/NYSE_JPC
+NPF,"Nuveen Premier Municipal Income Fund,EOD/NPF,GOOG/NYSE_NPF
+NPM,"Nuveen Premium Income Municipal Fund II,EOD/NPM,GOOG/NYSE_NPM
+NPT,"Nuveen Premium Income Municipal Fund IV,EOD/NPT,GOOG/NYSE_NPT
+NPI,"Nuveen Premium Income Municipal Fund,EOD/NPI,GOOG/NYSE_NPI
+NQU,"Nuveen Quality Income Municipal Fund,EOD/NQU,GOOG/NYSE_NQU
+NQI,"Nuveen Quality Municipal Fund,EOD/NQI,GOOG/NYSE_NQI
+JTP,Nuveen Quality Preferred Income Fund,EOD/JTP,GOOG/NYSE_JTP
+JPS,Nuveen Quality Preferred Income Fund 2,EOD/JPS,GOOG/NYSE_JPS
+JHP,Nuveen Quality Preferred Income Fund 3,EOD/JHP,GOOG/NYSE_JHP
+JRI,Nuveen Real Asset Income and Growth Fund,EOD/JRI,GOOG/NYSE_JRI
+BXMX,Nuveen S&P 500 Buy-Write Income Fund,EOD/BXMX,
+SPXX,Nuveen S&P 500 Dynamic Overwrite Fund,EOD/SPXX,
+NIM,Nuveen Select Maturities Municipal Fund,EOD/NIM,GOOG/NYSE_NIM
+NQS,"Nuveen Select Quality Municipal Fund,EOD/NQS,GOOG/NYSE_NQS
+NXP,Nuveen Select Tax Free Income Portfolio,EOD/NXP,GOOG/NYSE_NXP
+NXQ,Nuveen Select Tax Free Income Portfolio II,EOD/NXQ,GOOG/NYSE_NXQ
+NXR,Nuveen Select Tax Free Income Portfolio III,EOD/NXR,GOOG/NYSE_NXR
+NSL,Nuveen Senior Income Fund,EOD/NSL,GOOG/NYSE_NSL
+JSD,Nuveen Short Duration Credit Opportunities Fund,EOD/JSD,GOOG/NYSE_JSD
+JTD,Nuveen Tax-Advantaged Dividend Growth Fund,EOD/JTD,GOOG/NYSE_JTD
+JTA,Nuveen Tax-Advantaged Total Return Strategy Fund,EOD/JTA,GOOG/NYSE_JTA
+NTX,Nuveen Texas Quality Income Municipal Fund,EOD/NTX,GOOG/NYSE_NTX
+NPV,Nuveen Virginia Premium Income Municipal Fund,EOD/NPV,GOOG/NYSE_NPV
+NIQ,Nuveenn Intermediate Duration Quality Municipal Term Fund,EOD/NIQ,GOOG/NYSE_NIQ
+JMT,Nuven Mortgage Opportunity Term Fund 2,EOD/JMT,GOOG/NYSE_JMT
+NES,"Nuverra Environmental Solutions,EOD/NES,GOOG/NYSE_NES
+NVR,"NVR,EOD/NVR,GOOG/NYSE_NVR
+OAK,"Oaktree Capital Group,EOD/OAK,GOOG/NYSE_OAK
+OAS,Oasis Petroleum Inc.,EOD/OAS,GOOG/NYSE_OAS
+OXY,Occidental Petroleum Corporation,EOD/OXY,GOOG/NYSE_OXY
+OII,"Oceaneering International,EOD/OII,GOOG/NYSE_OII
+OZM,Och-Ziff Capital Management Group LLC,EOD/OZM,GOOG/NYSE_OZM
+OCIP,OCI Partners LP,EOD/OCIP,GOOG/NYSE_OCIP
+OCN,Ocwen Financial Corporation,EOD/OCN,GOOG/NYSE_OCN
+OFG,OFG Bancorp,EOD/OFG,GOOG/NYSE_OFG
+OFG_A,OFG Bancorp,,GOOG/NYSE_OFG_A
+OFG_B,OFG Bancorp,,GOOG/NYSE_OFG_B
+OFG_D,OFG Bancorp,,GOOG/NYSE_OFG_D
+OGE,OGE Energy Corporation,EOD/OGE,GOOG/NYSE_OGE
+OIBR,Oi S.A.,EOD/OIBR,GOOG/NYSE_OIBR
+OIBR_C,Oi S.A.,EOD/OIBR_C,
+OIS,"Oil States International,EOD/OIS,GOOG/NYSE_OIS
+ODC,Oil-Dri Corporation Of America,EOD/ODC,GOOG/NYSE_ODC
+ORI,Old Republic International Corporation,EOD/ORI,GOOG/NYSE_ORI
+OLN,Olin Corporation,EOD/OLN,GOOG/NYSE_OLN
+OMAM,OM Asset Management plc,EOD/OMAM,
+OHI,"Omega Healthcare Investors,EOD/OHI,GOOG/NYSE_OHI
+OME,Omega Protein Corporation,EOD/OME,GOOG/NYSE_OME
+OMC,Omnicom Group Inc.,EOD/OMC,GOOG/NYSE_OMC
+OMN,OMNOVA Solutions Inc.,EOD/OMN,GOOG/NYSE_OMN
+ASGN,"On Assignment,EOD/ASGN,GOOG/NYSE_ASGN
+ONDK,"On Deck Capital,EOD/ONDK,
+OGS,"ONE Gas,EOD/OGS,
+OLP,"One Liberty Properties,EOD/OLP,GOOG/NYSE_OLP
+OB,"OneBeacon Insurance Group,EOD/OB,GOOG/NYSE_OB
+OKS,"ONEOK Partners,EOD/OKS,GOOG/NYSE_OKS
+OKE,"ONEOK,EOD/OKE,GOOG/NYSE_OKE
+OOMA,"Ooma,EOD/OOMA,
+OPK,Opko Health Inc,EOD/OPK,GOOG/NYSE_OPK
+OPWR,"Opower,EOD/OPWR,
+OPY,"Oppenheimer Holdings,EOD/OPY,GOOG/NYSE_OPY
+ORCL,Oracle Corporation,EOD/ORCL,GOOG/NYSE_ORCL
+ORAN,Orange,EOD/ORAN,
+OA,"Orbital ATK,EOD/OA,
+ORC,"Orchid Island Capital,EOD/ORC,
+OEC,Orion Engineered Carbons S.A,EOD/OEC,
+ORN,Orion Marine Group Inc,EOD/ORN,GOOG/NYSE_ORN
+IX,Orix Corp Ads,EOD/IX,GOOG/NYSE_IX
+ORA,"Ormat Technologies,EOD/ORA,GOOG/NYSE_ORA
+OSK,Oshkosh Corporation,EOD/OSK,GOOG/NYSE_OSK
+OUT,OUTFRONT Media Inc.,EOD/OUT,
+OMI,"Owens & Minor,EOD/OMI,GOOG/NYSE_OMI
+OC,Owens Corning Inc,EOD/OC,GOOG/NYSE_OC
+OI,"Owens-Illinois,EOD/OI,GOOG/NYSE_OI
+OXM,"Oxford Industries,EOD/OXM,GOOG/NYSE_OXM
+PAI,"Pacific American Income Shares,EOD/PAI,GOOG/NYSE_PAI
+ROYT,Pacific Coast Oil Trust,EOD/ROYT,GOOG/NYSE_ROYT
+PACD,Pacific Drilling S.A.,EOD/PACD,GOOG/NYSE_PACD
+PCG,Pacific Gas & Electric Co.,EOD/PCG,GOOG/NYSE_PCG
+PKG,Packaging Corporation of America,EOD/PKG,GOOG/NYSE_PKG
+PANW,"Palo Alto Networks,EOD/PANW,GOOG/NYSE_PANW
+PAM,Pampa Energia S.A.,EOD/PAM,GOOG/NYSE_PAM
+P,"Pandora Media,EOD/P,GOOG/NYSE_P
+PHX,Panhandle Royalty Company,EOD/PHX,GOOG/NYSE_PHX
+PAR,PAR Technology Corporation,EOD/PAR,GOOG/NYSE_PAR
+PGN,Paragon Offshore plc,EOD/PGN,
+PGRE,"Paramount Group,EOD/PGRE,
+PKE,Park Electrochemical Corporation,EOD/PKE,GOOG/NYSE_PKE
+PKD,Parker Drilling Company,EOD/PKD,GOOG/NYSE_PKD
+PH,Parker-Hannifin Corporation,EOD/PH,GOOG/NYSE_PH
+PKY,"Parkway Properties,EOD/PKY,GOOG/NYSE_PKY
+PE,"Parsley Energy,EOD/PE,
+PRE,PartnerRe Ltd.,EOD/PRE,GOOG/NYSE_PRE
+PRE_D,PartnerRe Ltd.,,GOOG/NYSE_PRE_D
+PRE_E,PartnerRe Ltd.,,GOOG/NYSE_PRE_E
+PRE_F,PartnerRe Ltd.,,GOOG/NYSE_PRE_F
+PRTY,Party City Holdco Inc.,EOD/PRTY,
+PN,"Patriot National,EOD/PN,
+PAYC,"Paycom Software,EOD/PAYC,
+PBF,PBF Energy Inc.,EOD/PBF,GOOG/NYSE_PBF
+PBFX,PBF Logistics LP,EOD/PBFX,
+BTU,Peabody Energy Corporation,EOD/BTU,GOOG/NYSE_BTU
+PSO,"Pearson,EOD/PSO,GOOG/NYSE_PSO
+PEB,Pebblebrook Hotel Trust,EOD/PEB,GOOG/NYSE_PEB
+PEB_A,Pebblebrook Hotel Trust,,GOOG/NYSE_PEB_A
+PEB_B,Pebblebrook Hotel Trust,,GOOG/NYSE_PEB_B
+PEB_C,Pebblebrook Hotel Trust,,GOOG/NYSE_PEB_C
+PBA,Pembina Pipeline Corp.,EOD/PBA,GOOG/NYSE_PBA
+PGH,Pengrowth Energy Corporation,EOD/PGH,GOOG/NYSE_PGH
+PVA,Penn Virginia Corporation,EOD/PVA,GOOG/NYSE_PVA
+PWE,Penn West Petroleum Ltd,EOD/PWE,GOOG/NYSE_PWE
+PNTA,PennantPark Investment Corporation,EOD/PNTA,
+PEI,Pennsylvania Real Estate Investment Trust,EOD/PEI,GOOG/NYSE_PEI
+PEI_A,Pennsylvania Real Estate Investment Trust,,GOOG/NYSE_PEI_A
+PEI_B,Pennsylvania Real Estate Investment Trust,,GOOG/NYSE_PEI_B
+PFSI,"PennyMac Financial Services,EOD/PFSI,GOOG/NYSE_PFSI
+PMT,PennyMac Mortgage Investment Trust,EOD/PMT,GOOG/NYSE_PMT
+PAG,"Penske Automotive Group,EOD/PAG,GOOG/NYSE_PAG
+PNR,Pentair plc.,EOD/PNR,GOOG/NYSE_PNR
+PEN,"Penumbra,EOD/PEN,
+PBY,"Pep Boys-Manny,EOD/PBY,GOOG/NYSE_PBY
+POM,"PEPCO Holdings,EOD/POM,GOOG/NYSE_POM
+PEP,"Pepsico,EOD/PEP,GOOG/NYSE_PEP
+PFGC,Performance Food Group Company,EOD/PFGC,
+PSG,Performance Sports Group Ltd,EOD/PSG,
+PKI,"PerkinElmer,EOD/PKI,GOOG/NYSE_PKI
+PBT,Permian Basin Royalty Trust,EOD/PBT,GOOG/NYSE_PBT
+PRGO,Perrigo Company,EOD/PRGO,GOOG/NYSE_PRGO
+PZE,Petrobras Argentina S.A.,EOD/PZE,GOOG/NYSE_PZE
+PTR,PetroChina Company Limited,EOD/PTR,GOOG/NYSE_PTR
+PBR,Petroleo Brasileiro S.A.- Petrobras,EOD/PBR,GOOG/NYSE_PBR
+PBR_A,Petroleo Brasileiro S.A.- Petrobras,EOD/PBR_A,GOOG/NYSE_PBR_A
+PQ,Petroquest Energy Inc,EOD/PQ,GOOG/NYSE_PQ
+PFE,"Pfizer,EOD/PFE,GOOG/NYSE_PFE
+PMC,Pharmerica Corporation,EOD/PMC,GOOG/NYSE_PMC
+PHH,PHH Corp,EOD/PHH,GOOG/NYSE_PHH
+PM,Philip Morris International Inc,EOD/PM,GOOG/NYSE_PM
+PHI,Philippine Long Distance Telephone Company,EOD/PHI,GOOG/NYSE_PHI
+PSX,Phillips 66,EOD/PSX,GOOG/NYSE_PSX
+PSXP,Phillips 66 Partners LP,EOD/PSXP,GOOG/NYSE_PSXP
+PFX,"Phoenix Companies,EOD/PFX,GOOG/NYSE_PFX
+PNX,"Phoenix Companies,EOD/PNX,GOOG/NYSE_PNX
+FENG,Phoenix New Media Limited,EOD/FENG,GOOG/NYSE_FENG
+DOC,Physicians Realty Trust,EOD/DOC,GOOG/NYSE_DOC
+PNY,"Piedmont Natural Gas Company,EOD/PNY,GOOG/NYSE_PNY
+PDM,"Piedmont Office Realty Trust,EOD/PDM,GOOG/NYSE_PDM
+PIR,"Pier 1 Imports,EOD/PIR,GOOG/NYSE_PIR
+PCQ,PIMCO California Municipal Income Fund,EOD/PCQ,GOOG/NYSE_PCQ
+PCK,Pimco California Municipal Income Fund II,EOD/PCK,GOOG/NYSE_PCK
+PZC,PIMCO California Municipal Income Fund III,EOD/PZC,GOOG/NYSE_PZC
+PCM,"PIMCO Commercial Mortgage Securities Trust,EOD/PCM,GOOG/NYSE_PCM
+PTY,Pimco Corporate & Income Opportunity Fund,EOD/PTY,GOOG/NYSE_PTY
+PCN,Pimco Corporate & Income Stategy Fund,EOD/PCN,GOOG/NYSE_PCN
+PCI,PIMCO Dynamic Credit Income Fund,EOD/PCI,GOOG/NYSE_PCI
+PDI,PIMCO Dynamic Income Fund,EOD/PDI,GOOG/NYSE_PDI
+PGP,Pimco Global Stocksplus & Income Fund,EOD/PGP,GOOG/NYSE_PGP
+PHK,Pimco High Income Fund,EOD/PHK,GOOG/NYSE_PHK
+PKO,Pimco Income Opportunity Fund,EOD/PKO,GOOG/NYSE_PKO
+PFL,PIMCO Income Strategy Fund,EOD/PFL,GOOG/NYSE_PFL
+PFN,PIMCO Income Strategy Fund II,EOD/PFN,GOOG/NYSE_PFN
+PMF,PIMCO Municipal Income Fund,EOD/PMF,GOOG/NYSE_PMF
+PML,Pimco Municipal Income Fund II,EOD/PML,GOOG/NYSE_PML
+PMX,PIMCO Municipal Income Fund III,EOD/PMX,GOOG/NYSE_PMX
+PNF,PIMCO New York Municipal Income Fund,EOD/PNF,GOOG/NYSE_PNF
+PNI,Pimco New York Municipal Income Fund II,EOD/PNI,GOOG/NYSE_PNI
+PYN,PIMCO New York Municipal Income Fund III,EOD/PYN,GOOG/NYSE_PYN
+RCS,"PIMCO Strategic Income Fund,EOD/RCS,GOOG/NYSE_RCS
+PNK,"Pinnacle Entertainment,EOD/PNK,GOOG/NYSE_PNK
+PF,"Pinnacle Foods,EOD/PF,GOOG/NYSE_PF
+PNW,Pinnacle West Capital Corporation,EOD/PNW,GOOG/NYSE_PNW
+PES,Pioneer Energy Services Corp.,EOD/PES,GOOG/NYSE_PES
+PHD,Pioneer Floating Rate Trust,EOD/PHD,GOOG/NYSE_PHD
+PHT,Pioneer High Income Trust,EOD/PHT,GOOG/NYSE_PHT
+MAV,Pioneer Municipal High Income Advantage Trust,EOD/MAV,GOOG/NYSE_MAV
+MHI,Pioneer Municipal High Income Trust,EOD/MHI,GOOG/NYSE_MHI
+PXD,Pioneer Natural Resources Company,EOD/PXD,GOOG/NYSE_PXD
+PJC,Piper Jaffray Companies,EOD/PJC,GOOG/NYSE_PJC
+PBI,Pitney Bowes Inc.,EOD/PBI,GOOG/NYSE_PBI
+PBI_A_CL,Pitney Bowes Inc.,,
+PBI_B,Pitney Bowes Inc.,,
+PJT,PJT Partners Inc.,EOD/PJT,
+PAA,"Plains All American Pipeline,EOD/PAA,GOOG/NYSE_PAA
+PAGP,"Plains Group Holdings,EOD/PAGP,GOOG/NYSE_PAGP
+PLNT,"Planet Fitness,EOD/PLNT,
+PLT,"Plantronics,EOD/PLT,GOOG/NYSE_PLT
+PAH,Platform Specialty Products Corporation,EOD/PAH,
+PCL,"Plum Creek Timber Company,EOD/PCL,GOOG/NYSE_PCL
+PGEM,"Ply Gem Holdings,EOD/PGEM,GOOG/NYSE_PGEM
+PNC,"PNC Financial Services Group,EOD/PNC,GOOG/NYSE_PNC
+PNC_WS,"PNC Financial Services Group,EOD/PNC_WS,
+PNC_P,"PNC Financial Services Group,,GOOG/NYSE_PNC_P
+PNC_Q,"PNC Financial Services Group,,GOOG/NYSE_PNC_Q
+PNM,"PNM Resources,EOD/PNM,GOOG/NYSE_PNM
+PII,Polaris Industries Inc.,EOD/PII,GOOG/NYSE_PII
+POL,PolyOne Corporation,EOD/POL,GOOG/NYSE_POL
+POR,Portland General Electric Company,EOD/POR,GOOG/NYSE_POR
+PKX,POSCO,EOD/PKX,GOOG/NYSE_PKX
+POST,"Post Holdings,EOD/POST,GOOG/NYSE_POST
+PPS,"Post Properties,EOD/PPS,GOOG/NYSE_PPS
+PPS_A,"Post Properties,,GOOG/NYSE_PPS_A
+POT,Potash Corporation of Saskatchewan Inc.,EOD/POT,GOOG/NYSE_POT
+POWR,"PowerSecure International,EOD/POWR,
+PPG,"PPG Industries,EOD/PPG,GOOG/NYSE_PPG
+PPX,"PPL Capital Funding,EOD/PPX,
+PPL,PPL Corporation,EOD/PPL,GOOG/NYSE_PPL
+PYS,PPlus Trust,EOD/PYS,GOOG/NYSE_PYS
+PYT,PPlus Trust,EOD/PYT,GOOG/NYSE_PYT
+PX,"Praxair,EOD/PX,GOOG/NYSE_PX
+PCP,Precision Castparts Corporation,EOD/PCP,GOOG/NYSE_PCP
+PDS,Precision Drilling Corporation,EOD/PDS,GOOG/NYSE_PDS
+APTS,"Preferred Apartment Communities,EOD/APTS,
+PJS,Preferred Plus Trust Ser QWS 2 Tr Ctf,EOD/PJS,GOOG/NYSE_PJS
+PGI,"Premiere Global Services,EOD/PGI,GOOG/NYSE_PGI
+PGND,"Press Ganey Holdings,EOD/PGND,
+PBH,"Prestige Brand Holdings,EOD/PBH,GOOG/NYSE_PBH
+PVG,"Pretium Resources,EOD/PVG,GOOG/NYSE_PVG
+PRI,"Primerica,EOD/PRI,GOOG/NYSE_PRI
+PPP,Primero Mining Corp,EOD/PPP,GOOG/NYSE_PPP
+PFG,Principal Financial Group Inc,EOD/PFG,GOOG/NYSE_PFG
+PGZ,Principal Real Estate Income Fund,EOD/PGZ,
+PVTD,"PrivateBancorp,EOD/PVTD,
+PRA,ProAssurance Corporation,EOD/PRA,GOOG/NYSE_PRA
+PG,Procter & Gamble Company (The),EOD/PG,GOOG/NYSE_PG
+PGR,Progressive Corporation (The),EOD/PGR,GOOG/NYSE_PGR
+BIN,Progressive Waste Solutions Ltd.,EOD/BIN,GOOG/NYSE_BIN
+PLD,"ProLogis,EOD/PLD,GOOG/NYSE_PLD
+PRO,"PROS Holdings,EOD/PRO,GOOG/NYSE_PRO
+PB,"Prosperity Bancshares,EOD/PB,GOOG/NYSE_PB
+PL_C,Protective Life Corporation,,
+PL_E,Protective Life Corporation,,
+PRLB,"Proto Labs,EOD/PRLB,GOOG/NYSE_PRLB
+PSTG,PROTOSTAR I LTD,EOD/PSTG,
+PFS,"Provident Financial Services,EOD/PFS,GOOG/NYSE_PFS
+PFK,"Prudential Financial,EOD/PFK,GOOG/NYSE_PFK
+PJH,"Prudential Financial,EOD/PJH,
+PRH,"Prudential Financial,EOD/PRH,
+PRU,"Prudential Financial,EOD/PRU,GOOG/NYSE_PRU
+GHY,"Prudential Global Short Duration High Yield Fund,EOD/GHY,GOOG/NYSE_GHY
+PUK,Prudential Public Limited Company,EOD/PUK,GOOG/NYSE_PUK
+PUK_,Prudential Public Limited Company,,GOOG/NYSE_PUK_
+PUK_A,Prudential Public Limited Company,,GOOG/NYSE_PUK_A
+ISD,"Prudential Short Duration High Yield Fund,EOD/ISD,GOOG/NYSE_ISD
+PSB,"PS Business Parks,EOD/PSB,GOOG/NYSE_PSB
+PSB_S,"PS Business Parks,,GOOG/NYSE_PSB_S
+PSB_T,"PS Business Parks,,GOOG/NYSE_PSB_T
+PSB_U,"PS Business Parks,,GOOG/NYSE_PSB_U
+PSB_V,"PS Business Parks,,GOOG/NYSE_PSB_V
+TLK,"PT Telekomunikasi Indonesia,EOD/TLK,GOOG/NYSE_TLK
+PEG,Public Service Enterprise Group Incorporated,EOD/PEG,GOOG/NYSE_PEG
+PSA,Public Storage,EOD/PSA,GOOG/NYSE_PSA
+PSA_A,Public Storage,,GOOG/NYSE_PSA_A
+PSA_Q,Public Storage,,GOOG/NYSE_PSA_Q
+PSA_R,Public Storage,,GOOG/NYSE_PSA_R
+PSA_S,Public Storage,,GOOG/NYSE_PSA_S
+PSA_T,Public Storage,,GOOG/NYSE_PSA_T
+PSA_U,Public Storage,,GOOG/NYSE_PSA_U
+PSA_V,Public Storage,,GOOG/NYSE_PSA_V
+PSA_W,Public Storage,,GOOG/NYSE_PSA_W
+PSA_X,Public Storage,,GOOG/NYSE_PSA_X
+PSA_Y,Public Storage,,
+PSA_Z,Public Storage,,GOOG/NYSE_PSA_Z
+PHM,"PulteGroup,EOD/PHM,GOOG/NYSE_PHM
+PBYI,Puma Biotechnology Inc,EOD/PBYI,GOOG/NYSE_PBYI
+PCF,Putnam High Income Bond Fund,EOD/PCF,GOOG/NYSE_PCF
+PMM,Putnam Managed Municipal Income Trust,EOD/PMM,GOOG/NYSE_PMM
+PIM,Putnam Master Intermediate Income Trust,EOD/PIM,GOOG/NYSE_PIM
+PMO,Putnam Municipal Opportunities Trust,EOD/PMO,GOOG/NYSE_PMO
+PPT,Putnam Premier Income Trust,EOD/PPT,GOOG/NYSE_PPT
+PVH,PVH Corp.,EOD/PVH,GOOG/NYSE_PVH
+PZN,Pzena Investment Management Inc,EOD/PZN,GOOG/NYSE_PZN
+QTWO,"Q2 Holdings,EOD/QTWO,
+QEP,"QEP Resources,EOD/QEP,GOOG/NYSE_QEP
+QIHU,Qihoo 360 Technology Co. Ltd.,EOD/QIHU,GOOG/NYSE_QIHU
+QTS,"QTS Realty Trust,EOD/QTS,GOOG/NYSE_QTS
+QUAD,"Quad Graphics,EOD/QUAD,GOOG/NYSE_QUAD
+KWR,Quaker Chemical Corporation,EOD/KWR,GOOG/NYSE_KWR
+NX,Quanex Building Products Corporation,EOD/NX,GOOG/NYSE_NX
+PWR,"Quanta Services,EOD/PWR,GOOG/NYSE_PWR
+QTM,Quantum Corporation,EOD/QTM,GOOG/NYSE_QTM
+DGX,Quest Diagnostics Incorporated,EOD/DGX,GOOG/NYSE_DGX
+STR,Questar Corporation,EOD/STR,GOOG/NYSE_STR
+Q,Quintiles Transitional Holdings Inc.,EOD/Q,GOOG/NYSE_Q
+QUOT,Quotient Technology Inc.,EOD/QUOT,
+CTQ,Qwest Corporation,EOD/CTQ,GOOG/NYSE_CTQ
+CTU,Qwest Corporation,EOD/CTU,
+CTV,Qwest Corporation,EOD/CTV,
+CTW,Qwest Corporation,EOD/CTW,GOOG/NYSE_CTW
+CTX,Qwest Corporation,EOD/CTX,
+CTY,Qwest Corporation,EOD/CTY,
+CTZ,Qwest Corporation,EOD/CTZ,
+RAX,"Rackspace Hosting,EOD/RAX,GOOG/NYSE_RAX
+RDN,Radian Group Inc.,EOD/RDN,GOOG/NYSE_RDN
+RAS,RAIT Financial Trust,EOD/RAS,GOOG/NYSE_RAS
+RAS_A,RAIT Financial Trust,,GOOG/NYSE_RAS_A
+RAS_B,RAIT Financial Trust,,GOOG/NYSE_RAS_B
+RAS_C,RAIT Financial Trust,,GOOG/NYSE_RAS_C
+RFT,RAIT Financial Trust,EOD/RFT,
+RFTA,RAIT Financial Trust,EOD/RFTA,
+RL,Ralph Lauren Corporation,EOD/RL,GOOG/NYSE_RL
+RPT,Ramco-Gershenson Properties Trust,EOD/RPT,GOOG/NYSE_RPT
+RPT_D,Ramco-Gershenson Properties Trust,,GOOG/NYSE_RPT_D
+RRC,Range Resources Corporation,EOD/RRC,GOOG/NYSE_RRC
+RJD,"Raymond James Financial,EOD/RJD,
+RJF,"Raymond James Financial,EOD/RJF,GOOG/NYSE_RJF
+RYAM,Rayonier Advanced Materials Inc.,EOD/RYAM,
+RYN,Rayonier Inc.,EOD/RYN,GOOG/NYSE_RYN
+RTN,Raytheon Company,EOD/RTN,GOOG/NYSE_RTN
+RCAP,RCS CAPITAL CORPORATION,EOD/RCAP,GOOG/NYSE_RCAP
+RMAX,"RE/MAX Holdings,EOD/RMAX,GOOG/NYSE_RMAX
+RLD,RealD Inc,EOD/RLD,GOOG/NYSE_RLD
+RLGY,Realogy Holdings Corp.,EOD/RLGY,GOOG/NYSE_RLGY
+O,Realty Income Corporation,EOD/O,GOOG/NYSE_O
+O_F,Realty Income Corporation,,GOOG/NYSE_O_F
+RHT,"Red Hat,EOD/RHT,GOOG/NYSE_RHT
+RLH,Red Lion Hotels Corporation,EOD/RLH,GOOG/NYSE_RLH
+RWT,"Redwood Trust,EOD/RWT,GOOG/NYSE_RWT
+RBC,Regal Beloit Corporation,EOD/RBC,GOOG/NYSE_RBC
+RGC,Regal Entertainment Group,EOD/RGC,GOOG/NYSE_RGC
+REG,Regency Centers Corporation,EOD/REG,GOOG/NYSE_REG
+REG_F,Regency Centers Corporation,,GOOG/NYSE_REG_F
+REG_G,Regency Centers Corporation,,GOOG/NYSE_REG_G
+RM,Regional Management Corp.,EOD/RM,GOOG/NYSE_RM
+RF,Regions Financial Corporation,EOD/RF,GOOG/NYSE_RF
+RF_A,Regions Financial Corporation,,GOOG/NYSE_RF_A
+RF_B,Regions Financial Corporation,,
+RGS,Regis Corporation,EOD/RGS,GOOG/NYSE_RGS
+RGA,"Reinsurance Group of America,EOD/RGA,GOOG/NYSE_RGA
+RZA,"Reinsurance Group of America,EOD/RZA,
+RS,Reliance Steel & Aluminum Co.,EOD/RS,GOOG/NYSE_RS
+RENX,RELX N.V.,EOD/RENX,
+RELX,RELX PLC,EOD/RELX,
+RNR,RenaissanceRe Holdings Ltd.,EOD/RNR,GOOG/NYSE_RNR
+RNR_C,RenaissanceRe Holdings Ltd.,,GOOG/NYSE_RNR_C
+RNR_E,RenaissanceRe Holdings Ltd.,,
+SOL,Renesola Ltd.,EOD/SOL,GOOG/NYSE_SOL
+RENN,Renren Inc.,EOD/RENN,GOOG/NYSE_RENN
+RNF,"Rentech Nitrogen Partners,EOD/RNF,GOOG/NYSE_RNF
+RSG,"Republic Services,EOD/RSG,GOOG/NYSE_RSG
+RMD,ResMed Inc.,EOD/RMD,GOOG/NYSE_RMD
+REN           ,Resolute Energy Corporation,EOD/REN           ,GOOG/NYSE_REN           
+RFP,Resolute Forest Products Inc.,EOD/RFP,GOOG/NYSE_RFP
+RSO,Resource Capital Corp.,EOD/RSO,GOOG/NYSE_RSO
+RSO_A,Resource Capital Corp.,,GOOG/NYSE_RSO_A
+RSO_B,Resource Capital Corp.,,GOOG/NYSE_RSO_B
+RSO_C,Resource Capital Corp.,,
+QSR,Restaurant Brands International Inc.,EOD/QSR,
+RH,Restoration Hardware Holdings Inc.,EOD/RH,GOOG/NYSE_RH
+RPAI,"Retail Properties of America,EOD/RPAI,GOOG/NYSE_RPAI
+RPAI_A,"Retail Properties of America,,
+REV,"Revlon,EOD/REV,GOOG/NYSE_REV
+REX,REX American Resources Corporation,EOD/REX,GOOG/NYSE_REX
+REXR,"Rexford Industrial Realty,EOD/REXR,GOOG/NYSE_REXR
+RXN,Rexnord Corporation,EOD/RXN,GOOG/NYSE_RXN
+RAI,Reynolds American Inc,EOD/RAI,GOOG/NYSE_RAI
+RNO,Rhino Resource Partners LP,EOD/RNO,GOOG/NYSE_RNO
+RICE,Rice Energy Inc.,EOD/RICE,
+RMP,Rice Midstream Partners LP,EOD/RMP,
+RNG,"Ringcentral,EOD/RNG,GOOG/NYSE_RNG
+RIO,Rio Tinto Plc,EOD/RIO,GOOG/NYSE_RIO
+RBA,Ritchie Bros. Auctioneers Incorporated,EOD/RBA,GOOG/NYSE_RBA
+RAD,Rite Aid Corporation,EOD/RAD,GOOG/NYSE_RAD
+RLI,RLI Corp.,EOD/RLI,GOOG/NYSE_RLI
+RLJ,RLJ Lodging Trust,EOD/RLJ,GOOG/NYSE_RLJ
+RRTS,"Roadrunner Transportation Systems,EOD/RRTS,GOOG/NYSE_RRTS
+RHI,Robert Half International Inc.,EOD/RHI,GOOG/NYSE_RHI
+ROK,"Rockwell Automation,EOD/ROK,GOOG/NYSE_ROK
+COL,"Rockwell Collins,EOD/COL,GOOG/NYSE_COL
+RCI,"Rogers Communication,EOD/RCI,GOOG/NYSE_RCI
+ROG,Rogers Corporation,EOD/ROG,GOOG/NYSE_ROG
+ROL,"Rollins,EOD/ROL,GOOG/NYSE_ROL
+ROP,"Roper Technologies,EOD/ROP,GOOG/NYSE_ROP
+RRMS,"Rose Rock Midstream,EOD/RRMS,GOOG/NYSE_RRMS
+RST,Rosetta Stone,EOD/RST,GOOG/NYSE_RST
+RNDY,"Roundy&#39;s,EOD/RNDY,GOOG/NYSE_RNDY
+RSE,"Rouse Properties,EOD/RSE,GOOG/NYSE_RSE
+RDC,Rowan Companies plc,EOD/RDC,GOOG/NYSE_RDC
+RY,Royal Bank Of Canada,EOD/RY,GOOG/NYSE_RY
+RY_S,Royal Bank Of Canada,,
+RY_T,Royal Bank Of Canada,,
+RBS,Royal Bank Scotland plc (The),EOD/RBS,GOOG/NYSE_RBS
+RBS_E,Royal Bank Scotland plc (The),,GOOG/NYSE_RBS_E
+RBS_F,Royal Bank Scotland plc (The),,GOOG/NYSE_RBS_F
+RBS_G,Royal Bank Scotland plc (The),,GOOG/NYSE_RBS_G
+RBS_H,Royal Bank Scotland plc (The),,GOOG/NYSE_RBS_H
+RBS_I,Royal Bank Scotland plc (The),,GOOG/NYSE_RBS_I
+RBS_L,Royal Bank Scotland plc (The),,GOOG/NYSE_RBS_L
+RBS_R,Royal Bank Scotland plc (The),,GOOG/NYSE_RBS_R
+RBS_S,Royal Bank Scotland plc (The),,GOOG/NYSE_RBS_S
+RBS_T,Royal Bank Scotland plc (The),,GOOG/NYSE_RBS_T
+RCL,Royal Caribbean Cruises Ltd.,EOD/RCL,GOOG/NYSE_RCL
+RDS_A,Royal Dutch Shell PLC,EOD/RDS_A,GOOG/NYSE_RDS_A
+RDS_B,Royal Dutch Shell PLC,EOD/RDS_B,GOOG/NYSE_RDS_B
+RGT,"Royce Global Value Trust,EOD/RGT,
+RMT,"Royce Micro-Cap Trust,EOD/RMT,GOOG/NYSE_RMT
+RVT,"Royce Value Trust,EOD/RVT,GOOG/NYSE_RVT
+RES,"RPC,EOD/RES,GOOG/NYSE_RES
+RPM,RPM International Inc.,EOD/RPM,GOOG/NYSE_RPM
+RSPP,"RSP Permian,EOD/RSPP,
+RT,"Ruby Tuesday,EOD/RT,GOOG/NYSE_RT
+RKUS,"Ruckus Wireless,EOD/RKUS,GOOG/NYSE_RKUS
+RTEC,"Rudolph Technologies,EOD/RTEC,
+R,"Ryder System,EOD/R,GOOG/NYSE_R
+RYI,Ryerson Holding Corporation,EOD/RYI,
+RHP,"Ryman Hospitality Properties,EOD/RHP,GOOG/NYSE_RHP
+SBR,Sabine Royalty Trust,EOD/SBR,GOOG/NYSE_SBR
+SB,"Safe Bulkers,EOD/SB,GOOG/NYSE_SB
+SB_B,"Safe Bulkers,,
+SB_C,"Safe Bulkers,,
+SB_D,"Safe Bulkers,,
+SFE,"Safeguard Scientifics,EOD/SFE,GOOG/NYSE_SFE
+CRM,Salesforce.com Inc,EOD/CRM,GOOG/NYSE_CRM
+SMM,Salient Midstream & MLP Fund,EOD/SMM,GOOG/NYSE_SMM
+SBH,"Sally Beauty Holdings,EOD/SBH,GOOG/NYSE_SBH
+SJT,San Juan Basin Royalty Trust,EOD/SJT,GOOG/NYSE_SJT
+SN,Sanchez Energy Corporation,EOD/SN,GOOG/NYSE_SN
+SD,Sandridge Energy Inc.,EOD/SD,GOOG/NYSE_SD
+SDT,SandRidge Mississippian Trust I,EOD/SDT,GOOG/NYSE_SDT
+SDR,SandRidge Mississippian Trust II,EOD/SDR,GOOG/NYSE_SDR
+PER,SandRidge Permian Trust,EOD/PER,GOOG/NYSE_PER
+SNY,Sanofi,EOD/SNY,GOOG/NYSE_SNY
+SC,Santander Consumer USA Holdings Inc.,EOD/SC,
+SOV_C,"Santander Holdings USA,,GOOG/NYSE_SOV_C
+SAP,SAP SE,EOD/SAP,GOOG/NYSE_SAP
+SAQ,Saratoga Investment Corp,EOD/SAQ,
+SAR,Saratoga Investment Corp,EOD/SAR,GOOG/NYSE_SAR
+SSL,Sasol Ltd.,EOD/SSL,GOOG/NYSE_SSL
+BFS,"Saul Centers,EOD/BFS,GOOG/NYSE_BFS
+BFS_C,"Saul Centers,,GOOG/NYSE_BFS_C
+SCG,Scana Corporation,EOD/SCG,GOOG/NYSE_SCG
+SLB,Schlumberger N.V.,EOD/SLB,GOOG/NYSE_SLB
+SWM,"Schweitzer-Mauduit International,EOD/SWM,GOOG/NYSE_SWM
+SAIC,SCIENCE APPLICATIONS INTERNATIONAL CORPORATION,EOD/SAIC,GOOG/NYSE_SAIC
+SALT,Scorpio Bulkers Inc.,EOD/SALT,
+SLTB,Scorpio Bulkers Inc.,EOD/SLTB,
+SBNA,Scorpio Tankers Inc.,EOD/SBNA,
+SBNB,Scorpio Tankers Inc.,EOD/SBNB,
+STNG,Scorpio Tankers Inc.,EOD/STNG,GOOG/NYSE_STNG
+SMG,Scotts Miracle-Gro Company (The),EOD/SMG,GOOG/NYSE_SMG
+SNI,"Scripps Networks Interactive,EOD/SNI,GOOG/NYSE_SNI
+LBF,"Scudder Global High Income Fund,EOD/LBF,GOOG/NYSE_LBF
+KHI,Scudder High Income Trust,EOD/KHI,GOOG/NYSE_KHI
+KMM,Scudder Multi-Market Income Trust,EOD/KMM,GOOG/NYSE_KMM
+KTF,Scudder Municiple Income Trust,EOD/KTF,GOOG/NYSE_KTF
+KST,Scudder Strategic Income Trust,EOD/KST,GOOG/NYSE_KST
+KSM,Scudder Strategic Municiple Income Trust,EOD/KSM,GOOG/NYSE_KSM
+SA,"Seabridge Gold,EOD/SA,GOOG/NYSE_SA
+CKH,"SEACOR Holdings,EOD/CKH,GOOG/NYSE_CKH
+SDRL,Seadrill Limited,EOD/SDRL,GOOG/NYSE_SDRL
+SDLP,Seadrill Partners LLC,EOD/SDLP,GOOG/NYSE_SDLP
+SEE,Sealed Air Corporation,EOD/SEE,GOOG/NYSE_SEE
+SSW,Seaspan Corporation,EOD/SSW,GOOG/NYSE_SSW
+SSW_C,Seaspan Corporation,,GOOG/NYSE_SSW_C
+SSW_D,Seaspan Corporation,,GOOG/NYSE_SSW_D
+SSW_E,Seaspan Corporation,,
+SSWN,Seaspan Corporation,EOD/SSWN,
+SEAS,"SeaWorld Entertainment,EOD/SEAS,GOOG/NYSE_SEAS
+JBN,Select Asset Inc.,EOD/JBN,GOOG/NYSE_JBN
+JBR,Select Asset Inc.,EOD/JBR,GOOG/NYSE_JBR
+SIR,Select Income REIT,EOD/SIR,GOOG/NYSE_SIR
+SEM,Select Medical Holdings Corporation,EOD/SEM,GOOG/NYSE_SEM
+SGZA,"Selective Insurance Group,EOD/SGZA,
+SEMG,Semgroup Corporation,EOD/SEMG,GOOG/NYSE_SEMG
+SMI,Semiconductor  Manufacturing International Corporation,EOD/SMI,GOOG/NYSE_SMI
+SRE,Sempra Energy,EOD/SRE,GOOG/NYSE_SRE
+SNH,Senior Housing Properties Trust,EOD/SNH,GOOG/NYSE_SNH
+SNHN,Senior Housing Properties Trust,EOD/SNHN,
+ST,Sensata Technologies Holding N.V.,EOD/ST,GOOG/NYSE_ST
+SXT,Sensient Technologies Corporation,EOD/SXT,GOOG/NYSE_SXT
+SQNS,Sequans Communications S.A.,EOD/SQNS,GOOG/NYSE_SQNS
+SRG,Seritage Growth Properties,EOD/SRG,
+SCI,Service Corporation International,EOD/SCI,GOOG/NYSE_SCI
+SERV,"ServiceMaster Global Holdings,EOD/SERV,
+NOW,"ServiceNow,EOD/NOW,GOOG/NYSE_NOW
+SSE,Seventy Seven Energy Inc.,EOD/SSE,
+SHAK,"Shake Shack,EOD/SHAK,
+SJR,Shaw Communications Inc.,EOD/SJR,GOOG/NYSE_SJR
+SHLX,"Shell Midstream Partners,EOD/SHLX,
+SHW,Sherwin-Williams Company (The),EOD/SHW,GOOG/NYSE_SHW
+SHG,Shinhan Financial Group Co Ltd,EOD/SHG,GOOG/NYSE_SHG
+SFL,Ship Finance International Limited,EOD/SFL,GOOG/NYSE_SFL
+SHOP,Shopify Inc.,EOD/SHOP,
+SSTK,"Shutterstock,EOD/SSTK,GOOG/NYSE_SSTK
+SBGL,Sibanye Gold Limited,EOD/SBGL,GOOG/NYSE_SBGL
+SIG,Signet Jewelers Limited,EOD/SIG,GOOG/NYSE_SIG
+SBY,Silver Bay Realty Trust Corp.,EOD/SBY,GOOG/NYSE_SBY
+SSNI,"Silver Spring Networks,EOD/SSNI,GOOG/NYSE_SSNI
+SLW,Silver Wheaton Corp,EOD/SLW,GOOG/NYSE_SLW
+SPG,"Simon Property Group,EOD/SPG,GOOG/NYSE_SPG
+SPG_J,"Simon Property Group,,GOOG/NYSE_SPG_J
+SSD,"Simpson Manufacturing Company,EOD/SSD,GOOG/NYSE_SSD
+SHI,"SINOPEC Shangai Petrochemical Company,EOD/SHI,GOOG/NYSE_SHI
+SIX,Six Flags Entertainment Corporation New,EOD/SIX,GOOG/NYSE_SIX
+SJW,SJW Corporation,EOD/SJW,GOOG/NYSE_SJW
+SKM,"SK Telecom Co.,EOD/SKM,GOOG/NYSE_SKM
+SKX,"Skechers U.S.A.,EOD/SKX,GOOG/NYSE_SKX
+SLG,SL Green Realty Corporation,EOD/SLG,GOOG/NYSE_SLG
+SLG_I,SL Green Realty Corporation,,GOOG/NYSE_SLG_I
+SM,SM Energy Company,EOD/SM,GOOG/NYSE_SM
+SFS,Smart,EOD/SFS,
+SNN,"Smith & Nephew SNATS,EOD/SNN,GOOG/NYSE_SNN
+AOS,Smith (A.O.) Corporation,EOD/AOS,GOOG/NYSE_AOS
+SNA,Snap-On Incorporated,EOD/SNA,GOOG/NYSE_SNA
+SQM,Sociedad Quimica y Minera S.A.,EOD/SQM,GOOG/NYSE_SQM
+SLRA,Solar Capital Ltd.,EOD/SLRA,
+SWI,"Solarwinds,EOD/SWI,GOOG/NYSE_SWI
+SLH,"Solera Holdings,EOD/SLH,GOOG/NYSE_SLH
+SAH,"Sonic Automotive,EOD/SAH,GOOG/NYSE_SAH
+SON,Sonoco Products Company,EOD/SON,GOOG/NYSE_SON
+SNE,Sony Corp Ord,EOD/SNE,GOOG/NYSE_SNE
+BID,Sotheby&#39;s,EOD/BID,GOOG/NYSE_BID
+SFUN,SouFun Holdings Limited,EOD/SFUN,GOOG/NYSE_SFUN
+SOR,"Source Capital,EOD/SOR,GOOG/NYSE_SOR
+SJI,"South Jersey Industries,EOD/SJI,GOOG/NYSE_SJI
+SXE,"Southcross Energy Partners,EOD/SXE,GOOG/NYSE_SXE
+SCE_F,Southern California Edison Company,,GOOG/NYSE_SCE_F
+SCE_G,Southern California Edison Company,,GOOG/NYSE_SCE_G
+SCE_H,Southern California Edison Company,,
+SCE_J,Southern California Edison Company,,
+SO,Southern Company (The),EOD/SO,GOOG/NYSE_SO
+SOJA,Southern Company (The),EOD/SOJA,
+SCCO,Southern Copper Corporation,EOD/SCCO,GOOG/NYSE_SCCO
+LUV,Southwest Airlines Company,EOD/LUV,GOOG/NYSE_LUV
+SWX,Southwest Gas Corporation,EOD/SWX,GOOG/NYSE_SWX
+SWN,Southwestern Energy Company,EOD/SWN,GOOG/NYSE_SWN
+SWNC,Southwestern Energy Company,EOD/SWNC,
+SSS,"Sovran Self Storage,EOD/SSS,GOOG/NYSE_SSS
+SPA,Sparton Corporation,EOD/SPA,GOOG/NYSE_SPA
+SPE,Special Opportunities Fund Inc.,EOD/SPE,GOOG/NYSE_SPE
+SE,Spectra Energy Corp,EOD/SE,GOOG/NYSE_SE
+SEP,"Spectra Energy Partners,EOD/SEP,GOOG/NYSE_SEP
+SPB           ,"Spectrum Brands Holdings,EOD/SPB           ,GOOG/NYSE_SPB           
+TRK,"Speedway Motorsports,EOD/TRK,GOOG/NYSE_TRK
+SPR,"Spirit Aerosystems Holdings,EOD/SPR,GOOG/NYSE_SPR
+SRC,"Spirit Realty Capital,EOD/SRC,GOOG/NYSE_SRC
+SRLP,Sprague Resources LP,EOD/SRLP,GOOG/NYSE_SRLP
+LEAF,"Springleaf Holdings,EOD/LEAF,GOOG/NYSE_LEAF
+S,Sprint Corporation,EOD/S,GOOG/NYSE_S
+SPXC,SPX Corporation,EOD/SPXC,
+FLOW,"SPX FLOW,EOD/FLOW,
+JOE,St. Joe Company (The),EOD/JOE,GOOG/NYSE_JOE
+STJ,"St. Jude Medical,EOD/STJ,GOOG/NYSE_STJ
+STAG,"Stag Industrial,EOD/STAG,GOOG/NYSE_STAG
+STAG_A,"Stag Industrial,,
+STAG_B,"Stag Industrial,,
+SSI,"Stage Stores,EOD/SSI,GOOG/NYSE_SSI
+SFG,"StanCorp Financial Group,EOD/SFG,GOOG/NYSE_SFG
+SMP,"Standard Motor Products,EOD/SMP,GOOG/NYSE_SMP
+SXI,Standex International Corporation,EOD/SXI,GOOG/NYSE_SXI
+SWH,"Stanley Black & Decker,EOD/SWH,
+SWJ,"Stanley Black & Decker,EOD/SWJ,
+SWK,"Stanley Black & Decker,EOD/SWK,GOOG/NYSE_SWK
+SWU,"Stanley Black & Decker,EOD/SWU,GOOG/NYSE_SWU
+STN,Stantec Inc,EOD/STN,GOOG/NYSE_STN
+SGU,"Star Gas Partners,EOD/SGU,GOOG/NYSE_SGU
+SRT,"StarTek,EOD/SRT,GOOG/NYSE_SRT
+HOT,"Starwood Hotels & Resorts Worldwide,EOD/HOT,GOOG/NYSE_HOT
+STWD,"STARWOOD PROPERTY TRUST,EOD/STWD,GOOG/NYSE_STWD
+SWAY,Starwood Waypoint Residential Trust,EOD/SWAY,
+STT,State Street Corporation,EOD/STT,GOOG/NYSE_STT
+STT_C,State Street Corporation,,GOOG/NYSE_STT_C
+STT_D,State Street Corporation,,
+STT_E,State Street Corporation,,
+STO,Statoil ASA,EOD/STO,GOOG/NYSE_STO
+SPLP,Steel Partners Holdings LP,EOD/SPLP,GOOG/NYSE_SPLP
+SCS,Steelcase Inc.,EOD/SCS,GOOG/NYSE_SCS
+SCM,Stellus Capital Investment Corporation,EOD/SCM,GOOG/NYSE_SCM
+SCQ,Stellus Capital Investment Corporation,EOD/SCQ,
+SCL,Stepan Company,EOD/SCL,GOOG/NYSE_SCL
+STE,STERIS plc,EOD/STE,GOOG/NYSE_STE
+STL,Sterling Bancorp,EOD/STL,GOOG/NYSE_STL
+STC,Stewart Information Services Corporation,EOD/STC,GOOG/NYSE_STC
+SF,Stifel Financial Corporation,EOD/SF,GOOG/NYSE_SF
+SFN,Stifel Financial Corporation,EOD/SFN,
+SWC,Stillwater Mining Company,EOD/SWC,GOOG/NYSE_SWC
+STM,STMicroelectronics N.V.,EOD/STM,GOOG/NYSE_STM
+SGY,Stone Energy Corporation,EOD/SGY,GOOG/NYSE_SGY
+EDF,Stone Harbor Emerging Markets Income Fund,EOD/EDF,GOOG/NYSE_EDF
+EDI,Stone Harbor Emerging Markets Total Income Fund,EOD/EDI,GOOG/NYSE_EDI
+SGM,Stonegate Mortgage Corporation,EOD/SGM,GOOG/NYSE_SGM
+STON,StoneMor Partners L.P.,EOD/STON,GOOG/NYSE_STON
+SRI,"Stoneridge,EOD/SRI,GOOG/NYSE_SRI
+STOR,STORE Capital Corporation,EOD/STOR,
+SGL,"Strategic Global Income Fund,EOD/SGL,GOOG/NYSE_SGL
+BEE,Strategic Hotels & Resorts Inc,EOD/BEE,GOOG/NYSE_BEE
+SYK,Stryker Corporation,EOD/SYK,GOOG/NYSE_SYK
+RGR,"Sturm,EOD/RGR,GOOG/NYSE_RGR
+SPH,"Suburban Propane Partners,EOD/SPH,GOOG/NYSE_SPH
+SMFG,Sumitomo Mitsui Financial Group Inc,EOD/SMFG,GOOG/NYSE_SMFG
+INN,"Summit Hotel Properties,EOD/INN,GOOG/NYSE_INN
+INN_A,"Summit Hotel Properties,,GOOG/NYSE_INN_A
+INN_B,"Summit Hotel Properties,,GOOG/NYSE_INN_B
+INN_C,"Summit Hotel Properties,,GOOG/NYSE_INN_C
+SUM,"Summit Materials,EOD/SUM,
+SMLP,"Summit Midstream Partners,EOD/SMLP,GOOG/NYSE_SMLP
+SUI,"Sun Communities,EOD/SUI,GOOG/NYSE_SUI
+SUI_A,"Sun Communities,,GOOG/NYSE_SUI_A
+SLF,Sun Life Financial Inc.,EOD/SLF,GOOG/NYSE_SLF
+SXCP,"SunCoke Energy Partners,EOD/SXCP,GOOG/NYSE_SXCP
+SXC,"SunCoke Energy,EOD/SXC,GOOG/NYSE_SXC
+SU,Suncor Energy  Inc.,EOD/SU,GOOG/NYSE_SU
+SUNE,"SunEdison,EOD/SUNE,GOOG/NYSE_SUNE
+SXL,Sunoco Logistics Partners LP,EOD/SXL,GOOG/NYSE_SXL
+SUN,Sunoco LP,EOD/SUN,GOOG/NYSE_SUN
+SHO,"Sunstone Hotel Investors,EOD/SHO,GOOG/NYSE_SHO
+SHO_D,"Sunstone Hotel Investors,,GOOG/NYSE_SHO_D
+STI,"SunTrust Banks,EOD/STI,GOOG/NYSE_STI
+STI_WS_A,"SunTrust Banks,EOD/STI_WS_A,
+STI_WS_B,"SunTrust Banks,EOD/STI_WS_B,
+STI_A,"SunTrust Banks,,GOOG/NYSE_STI_A
+STI_E,"SunTrust Banks,,GOOG/NYSE_STI_E
+SPN,"Superior Energy Services,EOD/SPN,GOOG/NYSE_SPN
+SUP,"Superior Industries International,EOD/SUP,GOOG/NYSE_SUP
+SVU,SuperValu Inc.,EOD/SVU,GOOG/NYSE_SVU
+SFY,Swift Energy Company,EOD/SFY,GOOG/NYSE_SFY
+SWFT,Swift Transportation Company,EOD/SWFT,GOOG/NYSE_SWFT
+SWZ,"Swiss Helvetia Fund,EOD/SWZ,GOOG/NYSE_SWZ
+SYA,Symetra Financial Corporation,EOD/SYA,GOOG/NYSE_SYA
+SYF,Synchrony Financial,EOD/SYF,
+SYT,Syngenta AG,EOD/SYT,GOOG/NYSE_SYT
+SNX,Synnex Corporation,EOD/SNX,GOOG/NYSE_SNX
+SNV,Synovus Financial Corp.,EOD/SNV,GOOG/NYSE_SNV
+SNV_C,Synovus Financial Corp.,,
+GJH,SYNTHETIC FIXED INCOME SECURITIES INC,EOD/GJH,GOOG/NYSE_GJH
+GJO,SYNTHETIC FIXED INCOME SECURITIES INC,EOD/GJO,GOOG/NYSE_GJO
+GJS,SYNTHETIC FIXED INCOME SECURITIES INC,EOD/GJS,GOOG/NYSE_GJS
+GJP,"Synthetic Fixed-Income Securities,EOD/GJP,GOOG/NYSE_GJP
+GJR,"Synthetic Fixed-Income Securities,EOD/GJR,GOOG/NYSE_GJR
+GJT,"Synthetic Fixed-Income Securities,EOD/GJT,GOOG/NYSE_GJT
+GJV,"Synthetic Fixed-Income Securities,EOD/GJV,GOOG/NYSE_GJV
+SYY,Sysco Corporation,EOD/SYY,GOOG/NYSE_SYY
+SYX,Systemax Inc.,EOD/SYX,GOOG/NYSE_SYX
+DATA,"Tableau Software,EOD/DATA,GOOG/NYSE_DATA
+TAHO,"Tahoe Resources,EOD/TAHO,GOOG/NYSE_TAHO
+TWN,"Taiwan Fund,EOD/TWN,GOOG/NYSE_TWN
+TSM,Taiwan Semiconductor Manufacturing Company Ltd.,EOD/TSM,GOOG/NYSE_TSM
+XRS,TAL Education Group,EOD/XRS,GOOG/NYSE_XRS
+TAL,"TAL International Group,EOD/TAL,GOOG/NYSE_TAL
+TLN,Talen Energy Corporation,EOD/TLN,
+TEGP,"Tallgrass Energy GP,EOD/TEGP,
+TEP,"Tallgrass Energy Partners,EOD/TEP,GOOG/NYSE_TEP
+SKT,"Tanger Factory Outlet Centers,EOD/SKT,GOOG/NYSE_SKT
+TAOM,Taomee Holdings Limited,EOD/TAOM,GOOG/NYSE_TAOM
+NGLS,Targa Resources Partners LP,EOD/NGLS,GOOG/NYSE_NGLS
+NGLS_A,Targa Resources Partners LP,,
+TRGP,"Targa Resources,EOD/TRGP,GOOG/NYSE_TRGP
+TGT,Target Corporation,EOD/TGT,GOOG/NYSE_TGT
+TARO,Taro Pharmaceutical Industries Ltd.,EOD/TARO,GOOG/NYSE_TARO
+TTM,Tata Motors Ltd,EOD/TTM,GOOG/NYSE_TTM
+TCO,"Taubman Centers,EOD/TCO,GOOG/NYSE_TCO
+TCO_J,"Taubman Centers,,GOOG/NYSE_TCO_J
+TCO_K,"Taubman Centers,,GOOG/NYSE_TCO_K
+TMHC,Taylor Morrison Home Corporation,EOD/TMHC,GOOG/NYSE_TMHC
+TCP,"TC PipeLines,EOD/TCP,GOOG/NYSE_TCP
+TCB,TCF Financial Corporation,EOD/TCB,GOOG/NYSE_TCB
+TCB_WS,TCF Financial Corporation,EOD/TCB_WS,
+TCB_B,TCF Financial Corporation,,GOOG/NYSE_TCB_B
+TCB_C,TCF Financial Corporation,,GOOG/NYSE_TCB_C
+TCPI,TCP International Holdings Ltd.,EOD/TCPI,
+TSI,"TCW Strategic Income Fund,EOD/TSI,GOOG/NYSE_TSI
+AMTD,TD Ameritrade Holding Corporation,EOD/AMTD,GOOG/NYSE_AMTD
+TEL,TE Connectivity Ltd.,EOD/TEL,GOOG/NYSE_TEL
+TMH,"Team Health Holdings,EOD/TMH,GOOG/NYSE_TMH
+TISI,"Team,EOD/TISI,GOOG/NYSE_TISI
+TCK,Teck Resources Ltd,EOD/TCK,GOOG/NYSE_TCK
+TE,"TECO Energy,EOD/TE,GOOG/NYSE_TE
+TK,Teekay Corporation,EOD/TK,GOOG/NYSE_TK
+TGP,Teekay LNG Partners L.P.,EOD/TGP,GOOG/NYSE_TGP
+TOO,Teekay Offshore Partners L.P.,EOD/TOO,GOOG/NYSE_TOO
+TOO_A,Teekay Offshore Partners L.P.,,
+TOO_B,Teekay Offshore Partners L.P.,,
+TNK,Teekay Tankers Ltd.,EOD/TNK,GOOG/NYSE_TNK
+GCI,TEGNA Inc.,EOD/GCI,GOOG/NYSE_GCI
+TGNA,TEGNA Inc.,EOD/TGNA,
+TRC,Tejon Ranch Co,EOD/TRC,GOOG/NYSE_TRC
+HQH,Tekla Healthcare Investors,EOD/HQH,GOOG/NYSE_HQH
+THQ,Tekla Healthcare Opportunies Fund,EOD/THQ,
+HQL,Tekla Life Sciences Investors,EOD/HQL,GOOG/NYSE_HQL
+THW,Tekla World Healthcare Fund,EOD/THW,
+TDOC,"Teladoc,EOD/TDOC,
+TEO,Telecom Argentina Stet - France Telecom S.A.,EOD/TEO,GOOG/NYSE_TEO
+TI,Telecom Italia S.P.A.,EOD/TI,GOOG/NYSE_TI
+TI_A,Telecom Italia S.P.A.,EOD/TI_A,GOOG/NYSE_TI_A
+TDY,Teledyne Technologies Incorporated,EOD/TDY,GOOG/NYSE_TDY
+TFX,Teleflex Incorporated,EOD/TFX,GOOG/NYSE_TFX
+VIV,Telefonica Brasil S.A.,EOD/VIV,GOOG/NYSE_VIV
+TEF,Telefonica SA,EOD/TEF,GOOG/NYSE_TEF
+TDA,"Telephone and Data Systems,EOD/TDA,
+TDE,"Telephone and Data Systems,EOD/TDE,GOOG/NYSE_TDE
+TDI,"Telephone and Data Systems,EOD/TDI,GOOG/NYSE_TDI
+TDJ,"Telephone and Data Systems,EOD/TDJ,GOOG/NYSE_TDJ
+TDS,"Telephone and Data Systems,EOD/TDS,GOOG/NYSE_TDS
+TU,TELUS Corporation,EOD/TU,GOOG/NYSE_TU
+TDF,"Templeton Dragon Fund,EOD/TDF,GOOG/NYSE_TDF
+EMF,Templeton Emerging Markets Fund,EOD/EMF,GOOG/NYSE_EMF
+TEI,"Templeton Emerging Markets Income Fund,EOD/TEI,GOOG/NYSE_TEI
+GIM,"Templeton Global Income Fund,EOD/GIM,GOOG/NYSE_GIM
+TRF,"Templeton Russia Fund,EOD/TRF,GOOG/NYSE_TRF
+TPX,"Tempur Sealy International,EOD/TPX,GOOG/NYSE_TPX
+TS,Tenaris S.A.,EOD/TS,GOOG/NYSE_TS
+THC,Tenet Healthcare Corporation,EOD/THC,GOOG/NYSE_THC
+TNC,Tennant Company,EOD/TNC,GOOG/NYSE_TNC
+TEN,Tenneco Inc.,EOD/TEN,GOOG/NYSE_TEN
+TVC,Tennessee Valley Authority,EOD/TVC,GOOG/NYSE_TVC
+TVE,Tennessee Valley Authority,EOD/TVE,GOOG/NYSE_TVE
+TDC,Teradata Corporation,EOD/TDC,GOOG/NYSE_TDC
+TER,"Teradyne,EOD/TER,GOOG/NYSE_TER
+TEX,Terex Corporation,EOD/TEX,GOOG/NYSE_TEX
+TX,Ternium S.A.,EOD/TX,GOOG/NYSE_TX
+TNH,"Terra Nitrogen Company,EOD/TNH,GOOG/NYSE_TNH
+TRNO,Terreno Realty Corporation,EOD/TRNO,GOOG/NYSE_TRNO
+TRNO_A,Terreno Realty Corporation,,
+TSO,Tesoro Corporation,EOD/TSO,GOOG/NYSE_TSO
+TLLP,Tesoro Logistics LP,EOD/TLLP,GOOG/NYSE_TLLP
+TTI,"Tetra Technologies,EOD/TTI,GOOG/NYSE_TTI
+TEVA,Teva Pharmaceutical Industries Limited,EOD/TEVA,GOOG/NYSE_TEVA
+TPL,Texas Pacific Land Trust,EOD/TPL,GOOG/NYSE_TPL
+TGH,Textainer Group Holdings Limited,EOD/TGH,GOOG/NYSE_TGH
+TXT,Textron Inc.,EOD/TXT,GOOG/NYSE_TXT
+TXTR,Textura Corporation,EOD/TXTR,GOOG/NYSE_TXTR
+TTF,"Thai Fund,EOD/TTF,GOOG/NYSE_TTF
+AES,The AES Corporation,EOD/AES,GOOG/NYSE_AES
+AES_C,The AES Corporation,,GOOG/NYSE_AES_C
+BX,The Blackstone Group L.P.,EOD/BX,GOOG/NYSE_BX
+SCHW,The Charles Schwab Corporation,EOD/SCHW,GOOG/NYSE_SCHW
+SCHW_B,The Charles Schwab Corporation,,
+SCHW_C,The Charles Schwab Corporation,,
+SRV,The Cushing MLP Total Return Fund,EOD/SRV,GOOG/NYSE_SRV
+GRX,The Gabelli Healthcare & Wellness Trust,EOD/GRX,GOOG/NYSE_GRX
+GRX_A,The Gabelli Healthcare & Wellness Trust,,GOOG/NYSE_GRX_A
+GRX_B,The Gabelli Healthcare & Wellness Trust,,
+GDL,The GDL Fund,EOD/GDL,GOOG/NYSE_GDL
+GDL_B,The GDL Fund,,GOOG/NYSE_GDL_B
+THG,"The Hanover Insurance Group,EOD/THG,GOOG/NYSE_THG
+THGA,"The Hanover Insurance Group,EOD/THGA,
+RUBI,"The Rubicon Project,EOD/RUBI,
+TRV,"The Travelers Companies,EOD/TRV,GOOG/NYSE_TRV
+TMO,Thermo Fisher Scientific Inc,EOD/TMO,GOOG/NYSE_TMO
+THR,"Thermon Group Holdings,EOD/THR,GOOG/NYSE_THR
+TPRE,Third Point Reinsurance Ltd.,EOD/TPRE,GOOG/NYSE_TPRE
+TSLF,THL Credit Senior Loan Fund,EOD/TSLF,
+TCRX,"THL Credit,EOD/TCRX,
+TC,Thompson Creek Metals Company Inc.,EOD/TC,GOOG/NYSE_TC
+TRI,Thomson Reuters Corp,EOD/TRI,GOOG/NYSE_TRI
+THO,"Thor Industries,EOD/THO,GOOG/NYSE_THO
+TDW,Tidewater Inc.,EOD/TDW,GOOG/NYSE_TDW
+TIER,"TIER REIT,EOD/TIER,
+TIF,Tiffany & Co.,EOD/TIF,GOOG/NYSE_TIF
+TLYS,"Tilly&#39;s,EOD/TLYS,GOOG/NYSE_TLYS
+TSU,TIM Participacoes S.A.,EOD/TSU,GOOG/NYSE_TSU
+TIME,Time Inc.,EOD/TIME,
+TWC,Time Warner Cable Inc,EOD/TWC,GOOG/NYSE_TWC
+TWX,Time Warner Inc.,EOD/TWX,GOOG/NYSE_TWX
+TKR,Timken Company (The),EOD/TKR,GOOG/NYSE_TKR
+TMST,Timken Steel Corporation,EOD/TMST,
+TWI,"Titan International,EOD/TWI,GOOG/NYSE_TWI
+TJX,"TJX Companies,EOD/TJX,GOOG/NYSE_TJX
+TOL,Toll Brothers Inc.,EOD/TOL,GOOG/NYSE_TOL
+TR,"Tootsie Roll Industries,EOD/TR,GOOG/NYSE_TR
+BLD,TopBuild Corp.,EOD/BLD,
+TMK,Torchmark Corporation,EOD/TMK,GOOG/NYSE_TMK
+TMK_B,Torchmark Corporation,,
+TTC,Toro Company (The),EOD/TTC,GOOG/NYSE_TTC
+TD,Toronto Dominion Bank (The),EOD/TD,GOOG/NYSE_TD
+NDP,"Tortoise Energy Independence Fund,EOD/NDP,GOOG/NYSE_NDP
+TYG,Tortoise Energy Infrastructure Corporation,EOD/TYG,GOOG/NYSE_TYG
+TYG_B,Tortoise Energy Infrastructure Corporation,,GOOG/NYSE_TYG_B
+TYG_C,Tortoise Energy Infrastructure Corporation,,
+NTG,"Tortoise MLP Fund,EOD/NTG,GOOG/NYSE_NTG
+TTP,"Tortoise Pipeline & Energy Fund,EOD/TTP,GOOG/NYSE_TTP
+TPZ,"Tortoise Power and Energy Infrastructure Fund,EOD/TPZ,GOOG/NYSE_TPZ
+TSS,"Total System Services,EOD/TSS,GOOG/NYSE_TSS
+TOT,"TotalFinaElf,EOD/TOT,GOOG/NYSE_TOT
+TOWR,"Tower International,EOD/TOWR,GOOG/NYSE_TOWR
+TSQ,"Townsquare Media,EOD/TSQ,
+TM,Toyota Motor Corp Ltd Ord,EOD/TM,GOOG/NYSE_TM
+TSLX,"TPG Specialty Lending,EOD/TSLX,
+TAC,TransAlta Corporation,EOD/TAC,GOOG/NYSE_TAC
+TAI,"Transamerica Income Shares,EOD/TAI,GOOG/NYSE_TAI
+TRP,TransCanada Corporation,EOD/TRP,GOOG/NYSE_TRP
+TCI,"Transcontinental Realty Investors,EOD/TCI,GOOG/NYSE_TCI
+TDG,Transdigm Group Incorporated,EOD/TDG,GOOG/NYSE_TDG
+TLP,Transmontaigne Partners L.P.,EOD/TLP,GOOG/NYSE_TLP
+RIG,Transocean Ltd.,EOD/RIG,GOOG/NYSE_RIG
+RIGP,Transocean Partners LLC,EOD/RIGP,
+TGS,Transportadora De Gas Sa Ord B,EOD/TGS,GOOG/NYSE_TGS
+TRU,TransUnion,EOD/TRU,GOOG/NYSE_TRU
+TA,TravelCenters of America LLC,EOD/TA,GOOG/NYSE_TA
+TANN,TravelCenters of America LLC,EOD/TANN,
+TANO,TravelCenters of America LLC,EOD/TANO,
+TANP,TravelCenters of America LLC,EOD/TANP,
+TVPT,Travelport Worldwide Limited,EOD/TVPT,
+TRR,"TRC Companies,EOD/TRR,GOOG/NYSE_TRR
+TREC,Trecora Resources,EOD/TREC,
+TG,Tredegar Corporation,EOD/TG,GOOG/NYSE_TG
+THS,"Treehouse Foods,EOD/THS,GOOG/NYSE_THS
+TRMR,"Tremor Video,EOD/TRMR,GOOG/NYSE_TRMR
+TREX,"Trex Company,EOD/TREX,GOOG/NYSE_TREX
+TY,Tri Continental Corporation,EOD/TY,GOOG/NYSE_TY
+TY_,Tri Continental Corporation,,GOOG/NYSE_TY_
+TPH,"TRI Pointe Group,EOD/TPH,GOOG/NYSE_TPH
+TCAP,Triangle Capital Corporation,EOD/TCAP,GOOG/NYSE_TCAP
+TCCA,Triangle Capital Corporation,EOD/TCCA,
+TCCB,Triangle Capital Corporation,EOD/TCCB,
+TRCO,Tribune Media Company,EOD/TRCO,
+TPUB,Tribune Publishing Company,EOD/TPUB,
+TSL,Trina Solar Limited,EOD/TSL,GOOG/NYSE_TSL
+TNET,"TriNet Group,EOD/TNET,
+TRN,"Trinity Industries,EOD/TRN,GOOG/NYSE_TRN
+TSE,Trinseo S.A.,EOD/TSE,
+TPVG,TriplePoint Venture Growth BDC Corp.,EOD/TPVG,
+TPVZ,TriplePoint Venture Growth BDC Corp.,EOD/TPVZ,
+GTS,Triple-S Management Corporation,EOD/GTS,GOOG/NYSE_GTS
+TGI,"Triumph Group,EOD/TGI,GOOG/NYSE_TGI
+TROX,Tronox Limited,EOD/TROX,GOOG/NYSE_TROX
+TBI,"TrueBlue,EOD/TBI,GOOG/NYSE_TBI
+TRUP,"Trupanion,EOD/TRUP,
+TNP,Tsakos Energy Navigation Ltd,EOD/TNP,GOOG/NYSE_TNP
+TNP_B,Tsakos Energy Navigation Ltd,,
+TNP_C,Tsakos Energy Navigation Ltd,,
+TNP_D,Tsakos Energy Navigation Ltd,,
+TUMI,"Tumi Holdings,EOD/TUMI,GOOG/NYSE_TUMI
+TUP,Tupperware Brands Corporation,EOD/TUP,GOOG/NYSE_TUP
+TKC,Turkcell Iletisim Hizmetleri AS,EOD/TKC,GOOG/NYSE_TKC
+TKF,"Turkish Investment Fund,EOD/TKF,GOOG/NYSE_TKF
+TRQ,Turquoise Hill Resources Ltd.,EOD/TRQ,GOOG/NYSE_TRQ
+TPC,Tutor Perini Corporation,EOD/TPC,GOOG/NYSE_TPC
+TWTR,"Twitter,EOD/TWTR,GOOG/NYSE_TWTR
+TWO,Two Harbors Investments Corp,EOD/TWO,GOOG/NYSE_TWO
+TYC,Tyco International plc,EOD/TYC,GOOG/NYSE_TYC
+TYL,"Tyler Technologies,EOD/TYL,GOOG/NYSE_TYL
+TSN,"Tyson Foods,EOD/TSN,GOOG/NYSE_TSN
+TSNU,"Tyson Foods,EOD/TSNU,
+USB,U.S. Bancorp,EOD/USB,GOOG/NYSE_USB
+USB_A,U.S. Bancorp,,GOOG/NYSE_USB_A
+USB_H,U.S. Bancorp,,GOOG/NYSE_USB_H
+USB_M,U.S. Bancorp,,GOOG/NYSE_USB_M
+USB_N,U.S. Bancorp,,GOOG/NYSE_USB_N
+USB_O,U.S. Bancorp,,
+USPH,"U.S. Physical Therapy,EOD/USPH,GOOG/NYSE_USPH
+SLCA,"U.S. Silica Holdings,EOD/SLCA,GOOG/NYSE_SLCA
+UBS,UBS AG,EOD/UBS,GOOG/NYSE_UBS
+UBS_D,UBS AG,,GOOG/NYSE_UBS_D
+UCP,"UCP,EOD/UCP,GOOG/NYSE_UCP
+UGI,UGI Corporation,EOD/UGI,GOOG/NYSE_UGI
+UIL,UIL Holdings Corporation,EOD/UIL,GOOG/NYSE_UIL
+UPL,Ultra Petroleum Corp.,EOD/UPL,GOOG/NYSE_UPL
+UGP,Ultrapar Participacoes S.A.,EOD/UGP,GOOG/NYSE_UGP
+UMH,"UMH Properties,EOD/UMH,GOOG/NYSE_UMH
+UMH_A,"UMH Properties,,GOOG/NYSE_UMH_A
+UMH_B,"UMH Properties,,
+UA,"Under Armour,EOD/UA,GOOG/NYSE_UA
+UFI,"Unifi,EOD/UFI,GOOG/NYSE_UFI
+UNF,Unifirst Corporation,EOD/UNF,GOOG/NYSE_UNF
+UN,Unilever NV,EOD/UN,GOOG/NYSE_UN
+UL,Unilever PLC,EOD/UL,GOOG/NYSE_UL
+UNP,Union Pacific Corporation,EOD/UNP,GOOG/NYSE_UNP
+UIS,Unisys Corporation,EOD/UIS,GOOG/NYSE_UIS
+UNT,Unit Corporation,EOD/UNT,GOOG/NYSE_UNT
+UAL,"United Continental Holdings,EOD/UAL,GOOG/NYSE_UAL
+UDR,"United Dominion Realty Trust,EOD/UDR,GOOG/NYSE_UDR
+UMC,United Microelectronics Corporation,EOD/UMC,GOOG/NYSE_UMC
+UPS,"United Parcel Service,EOD/UPS,GOOG/NYSE_UPS
+URI,"United Rentals,EOD/URI,GOOG/NYSE_URI
+USM,United States Cellular Corporation,EOD/USM,GOOG/NYSE_USM
+UZA,United States Cellular Corporation,EOD/UZA,GOOG/NYSE_UZA
+UZB,United States Cellular Corporation,EOD/UZB,
+X,United States Steel Corporation,EOD/X,GOOG/NYSE_X
+UTX,United Technologies Corporation,EOD/UTX,GOOG/NYSE_UTX
+UNH,UnitedHealth Group Incorporated,EOD/UNH,GOOG/NYSE_UNH
+UTL,UNITIL Corporation,EOD/UTL,GOOG/NYSE_UTL
+UNVR,Univar Inc.,EOD/UNVR,
+UAM,Universal American Corp.,EOD/UAM,GOOG/NYSE_UAM
+UVV,Universal Corporation,EOD/UVV,GOOG/NYSE_UVV
+UHT,Universal Health Realty Income Trust,EOD/UHT,GOOG/NYSE_UHT
+UHS,"Universal Health Services,EOD/UHS,GOOG/NYSE_UHS
+UVE,UNIVERSAL INSURANCE HOLDINGS INC,EOD/UVE,
+UTI,Universal Technical Institute Inc,EOD/UTI,GOOG/NYSE_UTI
+UNM,Unum Group,EOD/UNM,GOOG/NYSE_UNM
+UE,Urban Edge Properties,EOD/UE,
+UBA,Urstadt Biddle Properties Inc.,EOD/UBA,GOOG/NYSE_UBA
+UBP,Urstadt Biddle Properties Inc.,EOD/UBP,GOOG/NYSE_UBP
+UBP_F,Urstadt Biddle Properties Inc.,,GOOG/NYSE_UBP_F
+UBP_G,Urstadt Biddle Properties Inc.,,
+USAC,"USA Compression Partners,EOD/USAC,GOOG/NYSE_USAC
+USNA,"USANA Health Sciences,EOD/USNA,GOOG/NYSE_USNA
+USDP,USD Partners LP,EOD/USDP,
+USG,USG Corporation,EOD/USG,GOOG/NYSE_USG
+BIF,"USLIFE Income Fund,EOD/BIF,GOOG/NYSE_BIF
+VFC,V.F. Corporation,EOD/VFC,GOOG/NYSE_VFC
+EGY,Vaalco Energy Inc,EOD/EGY,GOOG/NYSE_EGY
+MTN,"Vail Resorts,EOD/MTN,GOOG/NYSE_MTN
+VALE,VALE S.A.,EOD/VALE,GOOG/NYSE_VALE
+VALE_P,VALE S.A.,EOD/VALE_P,
+VRX,"Valeant Pharmaceuticals International,EOD/VRX,GOOG/NYSE_VRX
+VLO,Valero Energy Corporation,EOD/VLO,GOOG/NYSE_VLO
+VLP,Valero Energy Partners LP,EOD/VLP,
+VHI,"Valhi,EOD/VHI,GOOG/NYSE_VHI
+VR,"Validus Holdings,EOD/VR,GOOG/NYSE_VR
+VLY,Valley National Bancorp,EOD/VLY,GOOG/NYSE_VLY
+VLY_WS,Valley National Bancorp,EOD/VLY_WS,
+VLY_A,Valley National Bancorp,,GOOG/NYSE_VLY_A
+VMI,"Valmont Industries,EOD/VMI,GOOG/NYSE_VMI
+VAL,Valspar Corporation (The),EOD/VAL,GOOG/NYSE_VAL
+VNTV,"Vantiv,EOD/VNTV,GOOG/NYSE_VNTV
+VAR,"Varian Medical Systems,EOD/VAR,GOOG/NYSE_VAR
+VGR,Vector Group Ltd.,EOD/VGR,GOOG/NYSE_VGR
+VVC,Vectren Corporation,EOD/VVC,GOOG/NYSE_VVC
+VEC,"Vectrus,EOD/VEC,
+VEDL,Vedanta  Limited,EOD/VEDL,
+VEEV,Veeva Systems Inc.,EOD/VEEV,GOOG/NYSE_VEEV
+VTRB,"Ventas Realty,EOD/VTRB,
+VTR,"Ventas,EOD/VTR,GOOG/NYSE_VTR
+VER,VEREIT Inc.,EOD/VER,
+VER_F,VEREIT Inc.,,
+PAY,"Verifone Systems,EOD/PAY,GOOG/NYSE_PAY
+VRTV,Veritiv Corporation,EOD/VRTV,
+VZ,Verizon Communications Inc.,EOD/VZ,GOOG/NYSE_VZ
+VZA,Verizon Communications Inc.,EOD/VZA,
+VET,Vermilion Energy Inc.,EOD/VET,GOOG/NYSE_VET
+VVI,Viad Corp,EOD/VVI,GOOG/NYSE_VVI
+VCO,Vina Concha Y Toro,EOD/VCO,GOOG/NYSE_VCO
+VNCE,Vince Holding Corp.,EOD/VNCE,
+VMEM,"Violin Memory,EOD/VMEM,GOOG/NYSE_VMEM
+VIPS,Vipshop Holdings Limited,EOD/VIPS,GOOG/NYSE_VIPS
+VGI,Virtus Global Multi-Sector Income Fund,EOD/VGI,GOOG/NYSE_VGI
+DCA,Virtus Total Return Fund,EOD/DCA,GOOG/NYSE_DCA
+V,Visa Inc.,EOD/V,GOOG/NYSE_V
+VSH,"Vishay Intertechnology,EOD/VSH,GOOG/NYSE_VSH
+VPG,"Vishay Precision Group,EOD/VPG,GOOG/NYSE_VPG
+VSTO,Vista Outdoor Inc.,EOD/VSTO,
+VC,Visteon Corporation,EOD/VC,GOOG/NYSE_VC
+VSI,"Vitamin Shoppe,EOD/VSI,GOOG/NYSE_VSI
+VSLR,"Vivint Solar,EOD/VSLR,
+VMW,"Vmware,EOD/VMW,GOOG/NYSE_VMW
+VOC,VOC Energy Trust,EOD/VOC,GOOG/NYSE_VOC
+VCRA,"Vocera Communications,EOD/VCRA,GOOG/NYSE_VCRA
+VG,Vonage Holdings Corp.,EOD/VG,GOOG/NYSE_VG
+VNO,Vornado Realty Trust,EOD/VNO,GOOG/NYSE_VNO
+VNO_G,Vornado Realty Trust,,GOOG/NYSE_VNO_G
+VNO_I,Vornado Realty Trust,,GOOG/NYSE_VNO_I
+VNO_J,Vornado Realty Trust,,GOOG/NYSE_VNO_J
+VNO_K,Vornado Realty Trust,,GOOG/NYSE_VNO_K
+VNO_L,Vornado Realty Trust,,GOOG/NYSE_VNO_L
+VJET,voxeljet AG,EOD/VJET,GOOG/NYSE_VJET
+IAE,Voya Asia Pacific High Dividend Equity Income Fund,EOD/IAE,GOOG/NYSE_IAE
+IHD,Voya Emerging Markets High Income Dividend Equity Fund,EOD/IHD,GOOG/NYSE_IHD
+VOYA,"Voya Financial,EOD/VOYA,GOOG/NYSE_VOYA
+IGA,Voya Global Advantage and Premium Opportunity Fund,EOD/IGA,GOOG/NYSE_IGA
+IGD,Voya Global Equity Dividend and Premium Opportunity Fund,EOD/IGD,GOOG/NYSE_IGD
+IDE,"Voya Infrastructure,EOD/IDE,GOOG/NYSE_IDE
+IID,Voya International High Dividend Equity Income Fund,EOD/IID,GOOG/NYSE_IID
+IRR,Voya Natural Resources Equity Income Fund,EOD/IRR,GOOG/NYSE_IRR
+PPR,Voya Prime Rate Trust,EOD/PPR,GOOG/NYSE_PPR
+VTTI,VTTI Energy Partners LP,EOD/VTTI,
+VMC,Vulcan Materials Company,EOD/VMC,GOOG/NYSE_VMC
+WTI,"W&T Offshore,EOD/WTI,GOOG/NYSE_WTI
+WPC,W.P. Carey Inc.,EOD/WPC,GOOG/NYSE_WPC
+WRB,W.R. Berkley Corporation,EOD/WRB,GOOG/NYSE_WRB
+WRB_B,W.R. Berkley Corporation,,
+GRA,W.R. Grace & Co.,EOD/GRA,GOOG/NYSE_GRA
+GWW,"W.W. Grainger,EOD/GWW,GOOG/NYSE_GWW
+WNC,Wabash National Corporation,EOD/WNC,GOOG/NYSE_WNC
+WBC,Wabco Holdings Inc.,EOD/WBC,GOOG/NYSE_WBC
+WDR,"Waddell & Reed Financial,EOD/WDR,GOOG/NYSE_WDR
+WAGE,"WageWorks,EOD/WAGE,GOOG/NYSE_WAGE
+WD,"Walker & Dunlop,EOD/WD,GOOG/NYSE_WD
+WMT,"Wal-Mart Stores,EOD/WMT,GOOG/NYSE_WMT
+DIS,Walt Disney Company (The),EOD/DIS,GOOG/NYSE_DIS
+WAC,Walter Investment Management Corp.,EOD/WAC,GOOG/NYSE_WAC
+WRE,Washington Real Estate Investment Trust,EOD/WRE,GOOG/NYSE_WRE
+WCN,"Waste Connections,EOD/WCN,GOOG/NYSE_WCN
+WM,"Waste Management,EOD/WM,GOOG/NYSE_WM
+WAT,Waters Corporation,EOD/WAT,GOOG/NYSE_WAT
+WSO,"Watsco,EOD/WSO,GOOG/NYSE_WSO
+WSO_B,"Watsco,EOD/WSO_B,GOOG/NYSE_WSO_B
+WTS,"Watts Water Technologies,EOD/WTS,GOOG/NYSE_WTS
+WPP,Wausau Paper Corp.,EOD/WPP,GOOG/NYSE_WPP
+W,Wayfair Inc.,EOD/W,
+WCIC,"WCI Communities,EOD/WCIC,GOOG/NYSE_WCIC
+WFT,Weatherford International plc,EOD/WFT,GOOG/NYSE_WFT
+WBS,Webster Financial Corporation,EOD/WBS,GOOG/NYSE_WBS
+WBS_WS,Webster Financial Corporation,EOD/WBS_WS,
+WBS_E,Webster Financial Corporation,,GOOG/NYSE_WBS_E
+WEC,"WEC Energy Group,EOD/WEC,GOOG/NYSE_WEC
+WTW,Weight Watchers International Inc,EOD/WTW,GOOG/NYSE_WTW
+WRI,Weingarten Realty Investors,EOD/WRI,GOOG/NYSE_WRI
+WMK,"Weis Markets,EOD/WMK,GOOG/NYSE_WMK
+WCG,"WellCare Health Plans,EOD/WCG,GOOG/NYSE_WCG
+WFC,Wells Fargo & Company,EOD/WFC,GOOG/NYSE_WFC
+WFC_WS,Wells Fargo & Company,EOD/WFC_WS,
+WFC_J,Wells Fargo & Company,,GOOG/NYSE_WFC_J
+WFC_L,Wells Fargo & Company,,GOOG/NYSE_WFC_L
+WFC_N,Wells Fargo & Company,,GOOG/NYSE_WFC_N
+WFC_O,Wells Fargo & Company,,GOOG/NYSE_WFC_O
+WFC_P,Wells Fargo & Company,,GOOG/NYSE_WFC_P
+WFC_Q,Wells Fargo & Company,,
+WFC_R,Wells Fargo & Company,,
+WFC_T,Wells Fargo & Company,,
+WFC_V,Wells Fargo & Company,,
+WFE_A,Wells Fargo & Company,,
+EOD,Wells Fargo Advantage Global Dividend Opportunity Fund,EOD/EOD,GOOG/NYSE_EOD
+HCN,Welltower Inc.,EOD/HCN,GOOG/NYSE_HCN
+HCN_I,Welltower Inc.,,GOOG/NYSE_HCN_I
+HCN_J,Welltower Inc.,,GOOG/NYSE_HCN_J
+WAIR,"Wesco Aircraft Holdings,EOD/WAIR,GOOG/NYSE_WAIR
+WCC,"WESCO International,EOD/WCC,GOOG/NYSE_WCC
+WST,"West Pharmaceutical Services,EOD/WST,GOOG/NYSE_WST
+WR,"Westar Energy,EOD/WR,GOOG/NYSE_WR
+WAL,Western Alliance Bancorporation,EOD/WAL,GOOG/NYSE_WAL
+WEA,Western Asset Bond Fund,EOD/WEA,GOOG/NYSE_WEA
+ESD,Western Asset Emerging Markets Debt Fund Inc,EOD/ESD,GOOG/NYSE_ESD
+EMD,"Western Asset Emerging Markets Income Fund,EOD/EMD,GOOG/NYSE_EMD
+GDO,Western Asset Global Corporate Defined Opportunity Fund Inc.,EOD/GDO,GOOG/NYSE_GDO
+EHI,Western Asset Global High Income Fund Inc,EOD/EHI,GOOG/NYSE_EHI
+GDF,"Western Asset Global Partners Income Fund,EOD/GDF,GOOG/NYSE_GDF
+HIX,Western Asset High Income Fund II Inc.,EOD/HIX,GOOG/NYSE_HIX
+HIO,"Western Asset High Income Opportunity Fund,EOD/HIO,GOOG/NYSE_HIO
+HYI,Western Asset High Yield Defined Opportunity Fund Inc.,EOD/HYI,GOOG/NYSE_HYI
+IGI,Western Asset Investment Grade Defined Opportunity Trust Inc.,EOD/IGI,GOOG/NYSE_IGI
+MHY,"Western Asset Managed High Income Fund,EOD/MHY,GOOG/NYSE_MHY
+MMU,"Western Asset Managed Municipals Fund,EOD/MMU,GOOG/NYSE_MMU
+WMC,Western Asset Mortgage Capital Corporation,EOD/WMC,GOOG/NYSE_WMC
+DMO,Western Asset Mortgage Defined Opportunity Fund Inc,EOD/DMO,GOOG/NYSE_DMO
+MTT,Western Asset Municipal Defined Opportunity Trust Inc,EOD/MTT,GOOG/NYSE_MTT
+MHF,"Western Asset Municipal High Income Fund,EOD/MHF,GOOG/NYSE_MHF
+MNP,"Western Asset Municipal Partners Fund,EOD/MNP,GOOG/NYSE_MNP
+GFY,Western Asset Variable Rate Strategic Fund Inc.,EOD/GFY,GOOG/NYSE_GFY
+SBW,Western Asset Worldwide Income Fund Inc.,EOD/SBW,GOOG/NYSE_SBW
+WIW,Western Asset/Claymore U.S Treasury Inflation Prot Secs Fd 2,EOD/WIW,GOOG/NYSE_WIW
+WIA,Western Asset/Claymore U.S. Treasury Inflation Prot Secs Fd,EOD/WIA,GOOG/NYSE_WIA
+WGP,"Western Gas Equity Partners,EOD/WGP,GOOG/NYSE_WGP
+WES,"Western Gas Partners,EOD/WES,GOOG/NYSE_WES
+WNRL,"Western Refining Logistics,EOD/WNRL,GOOG/NYSE_WNRL
+WNR,"Western Refining,EOD/WNR,GOOG/NYSE_WNR
+WU,Western Union Company (The),EOD/WU,GOOG/NYSE_WU
+WAB,Westinghouse Air Brake Technologies Corporation,EOD/WAB,GOOG/NYSE_WAB
+WLK,Westlake Chemical Corporation,EOD/WLK,GOOG/NYSE_WLK
+WLKP,Westlake Chemical Partners LP,EOD/WLKP,
+WMLP,"Westmoreland Resource Partners,EOD/WMLP,
+WBK,Westpac Banking Corporation,EOD/WBK,GOOG/NYSE_WBK
+WRK,Westrock Company,EOD/WRK,
+WHG,Westwood Holdings Group Inc,EOD/WHG,GOOG/NYSE_WHG
+WEX,WEX Inc.,EOD/WEX,
+WY,Weyerhaeuser Company,EOD/WY,GOOG/NYSE_WY
+WY_A,Weyerhaeuser Company,,
+WGL,WGL Holdings Inc,EOD/WGL,GOOG/NYSE_WGL
+WHR,Whirlpool Corporation,EOD/WHR,GOOG/NYSE_WHR
+WTM,"White Mountains Insurance Group,EOD/WTM,GOOG/NYSE_WTM
+WSR,Whitestone REIT,EOD/WSR,GOOG/NYSE_WSR
+WWAV,Whitewave Foods Company (The),EOD/WWAV,GOOG/NYSE_WWAV
+WLL,Whiting Petroleum Corporation,EOD/WLL,GOOG/NYSE_WLL
+WHZ,Whiting USA Trust II,EOD/WHZ,GOOG/NYSE_WHZ
+WG,"Willbros Group,EOD/WG,GOOG/NYSE_WG
+WMB,"Williams Companies,EOD/WMB,GOOG/NYSE_WMB
+WPZ,Williams Partners LP,EOD/WPZ,GOOG/NYSE_WPZ
+WSM,"Williams-Sonoma,EOD/WSM,GOOG/NYSE_WSM
+WSH,Willis Group Holdings Limited,EOD/WSH,GOOG/NYSE_WSH
+WGO,"Winnebago Industries,EOD/WGO,GOOG/NYSE_WGO
+FUR,Winthrop Realty Trust,EOD/FUR,GOOG/NYSE_FUR
+WIT,Wipro Limited,EOD/WIT,GOOG/NYSE_WIT
+WNS,WNS (Holdings) Limited,EOD/WNS,GOOG/NYSE_WNS
+WWW,"Wolverine World Wide,EOD/WWW,GOOG/NYSE_WWW
+WF,Woori Bank,EOD/WF,GOOG/NYSE_WF
+WDAY,"Workday,EOD/WDAY,GOOG/NYSE_WDAY
+WK,Workiva Inc.,EOD/WK,
+INT,World Fuel Services Corporation,EOD/INT,GOOG/NYSE_INT
+WPT,"World Point Terminals,EOD/WPT,GOOG/NYSE_WPT
+WWE,"World Wrestling Entertainment,EOD/WWE,GOOG/NYSE_WWE
+WOR,"Worthington Industries,EOD/WOR,GOOG/NYSE_WOR
+WPG,WP Glimcher Inc.,EOD/WPG,
+WPG_H,WP Glimcher Inc.,,
+WPG_I,WP Glimcher Inc.,,
+WPX,"WPX Energy,EOD/WPX,GOOG/NYSE_WPX
+WPXP,"WPX Energy,EOD/WPXP,
+WX,Wuxi Pharmatech (Cayman) Inc.,EOD/WX,GOOG/NYSE_WX
+WYN,Wyndham Worldwide Corp,EOD/WYN,GOOG/NYSE_WYN
+XTLY,Xactly Corporation,EOD/XTLY,
+XEL,Xcel Energy Inc.,EOD/XEL,GOOG/NYSE_XEL
+XHR,"Xenia Hotels & Resorts,EOD/XHR,
+XRM,"Xerium Technologies,EOD/XRM,GOOG/NYSE_XRM
+XRX,Xerox Corporation,EOD/XRX,GOOG/NYSE_XRX
+XIN,Xinyuan Real Estate Co Ltd,EOD/XIN,GOOG/NYSE_XIN
+XL,XL Group plc,EOD/XL,GOOG/NYSE_XL
+XOXO,"XO Group,EOD/XOXO,GOOG/NYSE_XOXO
+XPO,"XPO Logistics,EOD/XPO,GOOG/NYSE_XPO
+XUE,Xueda Education Group,EOD/XUE,GOOG/NYSE_XUE
+XYL,Xylem Inc.,EOD/XYL,GOOG/NYSE_XYL
+YDKN,Yadkin Financial Corporation,EOD/YDKN,
+AUY,Yamana Gold Inc.,EOD/AUY,GOOG/NYSE_AUY
+YZC,Yanzhou Coal Mining Company Limited,EOD/YZC,GOOG/NYSE_YZC
+YELP,Yelp Inc.,EOD/YELP,GOOG/NYSE_YELP
+YGE,Yingli Green Energy Holding Company Limited,EOD/YGE,GOOG/NYSE_YGE
+YOKU,Youku Tudou Inc.,EOD/YOKU,GOOG/NYSE_YOKU
+YPF,YPF Sociedad Anonima,EOD/YPF,GOOG/NYSE_YPF
+YUM,"Yum! Brands,EOD/YUM,GOOG/NYSE_YUM
+YUME,"YuMe,EOD/YUME,GOOG/NYSE_YUME
+ZFC,ZAIS Financial Corp.,EOD/ZFC,GOOG/NYSE_ZFC
+ZAYO,"Zayo Group Holdings,EOD/ZAYO,
+ZEN,"Zendesk,EOD/ZEN,
+ZPIN,Zhaopin Limited,EOD/ZPIN,
+ZBH,"Zimmer Biomet Holdings,EOD/ZBH,
+ZB_A,Zions Bancorporation,,GOOG/NYSE_ZB_A
+ZB_F,Zions Bancorporation,,GOOG/NYSE_ZB_F
+ZB_G,Zions Bancorporation,,GOOG/NYSE_ZB_G
+ZB_H,Zions Bancorporation,,
+ZBK,Zions Bancorporation,EOD/ZBK,
+ZOES,"Zoe&#39;s Kitchen,EOD/ZOES,
+ZTS,Zoetis Inc.,EOD/ZTS,GOOG/NYSE_ZTS
+ZF,"Zweig Fund,EOD/ZF,GOOG/NYSE_ZF
+ZTR,"Zweig Total Return Fund,EOD/ZTR,GOOG/NYSE_ZTR
