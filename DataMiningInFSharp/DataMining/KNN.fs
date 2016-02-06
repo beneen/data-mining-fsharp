@@ -33,7 +33,7 @@ let doKnn (dataSet: DataSet) =
         let validationInputs = dataSet.TrainingSet.Submatrix(indicesValidation)
         let validationOutputs = dataSet.Classifications.Submatrix(indicesValidation)
 
-        let knn = KNearestNeighbors(11, trainingInputs, trainingOutputs)
+        let knn = KNearestNeighbors(1, trainingInputs, trainingOutputs)
 
         let trainingPredictions = trainingInputs |> Seq.map (fun input -> knn.Compute input) |> Seq.toArray
         let trainingConfusion = ConfusionMatrix(trainingPredictions, trainingOutputs)
@@ -55,9 +55,14 @@ let doKnn (dataSet: DataSet) =
 [<TestFixture>] 
 type ``given stock files that have been downloaded`` ()=
     let targetStock = loadFile "EBAY"
-    let otherStocks = [| "MSFT"; "JPM"; "GS"; "GOOGL" |] |> Seq.map loadFile
-    //let otherStocks = DirectoryInfo(Configuration.stockPath).GetFiles() |> Seq.map (fun file -> file.Name.Substring(0, file.Name.Length - 4)) |> Seq.map loadFile
+    //let otherStocks = [| "MSFT"; "JPM"; "GS"; "GOOGL" |] |> Seq.map loadFile
+    let otherStocks = 
+        DirectoryInfo(Configuration.stockPath).GetFiles() 
+            |> Seq.map (fun file -> file.Name.Substring(0, file.Name.Length - 4))
+            |> Seq.map loadFile
+            |> Seq.take 10
+
     let dataSet = convertToDataSet targetStock otherStocks
     [<Test>] member test.
-     ``when I convert to a data set`` ()=
+     ``when I run the KNN classifier`` ()=
             doKnn dataSet |> should equal 0.5

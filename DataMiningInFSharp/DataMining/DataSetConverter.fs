@@ -7,14 +7,15 @@ open DataMiningInFSharp.DataMining.StockLoader
 open NUnit.Framework
 open FsUnit
 
-type DataSet(trainingSet: float[][], classifications: int[]) = class
+type DataSet(trainingSet: double[][], classifications: int[]) = class
     member x.TrainingSet = trainingSet
     member x.Classifications = classifications
 end
 
 let entriesOverlapping (targetStockHistory: StockHistory) (otherStockHistories: seq<StockHistory>) =
-    let firstDate = targetStockHistory.MinDate
-    let lastDate = targetStockHistory.MaxDate
+    let predictForward = 1.0
+    let firstDate = targetStockHistory.MinDate.AddDays(-predictForward)
+    let lastDate = targetStockHistory.MaxDate.AddDays(-predictForward)
     otherStockHistories 
         |> Seq.map (fun stockHistory -> stockHistory.ClampToWindow firstDate lastDate)
         |> Seq.filter (fun stockHistory -> stockHistory.Length = targetStockHistory.Length)
@@ -22,7 +23,7 @@ let entriesOverlapping (targetStockHistory: StockHistory) (otherStockHistories: 
 let convertToDataSet (targetStockHistory: StockHistory) (otherStockHistories: seq<StockHistory>) =
     let entriesOverlapping = entriesOverlapping targetStockHistory otherStockHistories
     let otherStockPriceDifferences = entriesOverlapping |> Seq.map (fun stockHistory -> stockHistory.PriceDifferences) |> Seq.toArray
-    let trainingSet = Matrix.Transpose<float>(otherStockPriceDifferences)
+    let trainingSet = Matrix.Transpose<double>(otherStockPriceDifferences)
     let classifications = targetStockHistory.PriceDifferences |> Seq.map (fun difference -> if difference >= 0.0 then 1 else 0)|> Seq.toArray
     DataSet(trainingSet, classifications)
 

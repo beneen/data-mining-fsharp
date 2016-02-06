@@ -7,7 +7,7 @@ open FsUnit
 
 type StockHistoryEntry(csvRow: CsvRow) = class
     member x.Date = csvRow.GetColumn("Date") |> DateTime.Parse
-    member x.ClosingPrice = csvRow.GetColumn("Close") |> Double.Parse
+    member x.ClosingPrice:double = csvRow.GetColumn("Close") |> Double.Parse
 end
 
 type StockHistory(ticker: string, entries: seq<StockHistoryEntry>) = class
@@ -24,7 +24,7 @@ type StockHistory(ticker: string, entries: seq<StockHistoryEntry>) = class
         x.Entries 
             |> Seq.map (fun stock -> stock.ClosingPrice) 
             |> Seq.pairwise 
-            |> Seq.map (fun (x, y) -> y - x)
+            |> Seq.map (fun (x, y) -> (y - x) / x)
             |> Seq.toArray
 
     static member minimumLength (stocks: seq<StockHistory>) = stocks|> Seq.map (fun stock -> stock.Length) |> Seq.min
