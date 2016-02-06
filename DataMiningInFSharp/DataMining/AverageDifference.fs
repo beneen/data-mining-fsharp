@@ -3,6 +3,7 @@
 open FSharp.Data
 open System
 open DataMiningInFSharp.DataMining.Configuration
+open DataMiningInFSharp.DataMining.StockLoader
 
 let startDate (file:CsvFile) =
     let firstRow = file.Rows |> Seq.head
@@ -12,8 +13,6 @@ let validateStartDates (fileA:CsvFile) (fileB:CsvFile) =
     let startDateA = startDate fileA
     let startDateB = startDate fileB
     if startDateA <> startDateB then failwith ("Start dates for " + fileA.ToString() + " and " + fileB.ToString() + " do not match!")
-
-let loadFile stock = CsvFile.Load(Configuration.stockPath + stock + ".csv")
 
 let length (file:CsvFile) = file.Rows |> Seq.length
 
