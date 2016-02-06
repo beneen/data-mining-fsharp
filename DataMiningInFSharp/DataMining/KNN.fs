@@ -21,6 +21,9 @@ open System.IO
 open NUnit.Framework
 open FsUnit
 
+type Accord.MachineLearning.CrossValidationResult<'TModel when 'TModel : not struct> with
+    member this.ConfusionMatrices = this.Models |> Seq.map (fun model -> model.Tag :?> ConfusionMatrix)
+
 let doKnn (dataSet: DataSet) =
     let crossValidation = CrossValidation<KNearestNeighbors>(dataSet.TrainingSet.Length)
     let fitting (k:int) (indicesTrain: int[]) (indicesValidation: int[]) = 
@@ -38,14 +41,16 @@ let doKnn (dataSet: DataSet) =
         let validationPredictions = validationInputs |> Seq.map (fun input -> knn.Compute input) |> Seq.toArray
         let validationConfusion = ConfusionMatrix(validationPredictions, validationOutputs)
         
-        CrossValidationValues<KNearestNeighbors>(knn, trainingConfusion.Accuracy, validationConfusion.Accuracy)
+        let result = CrossValidationValues<KNearestNeighbors>(knn, trainingConfusion.Accuracy, validationConfusion.Accuracy)
+        result.Tag <- validationConfusion
+        result
 
     crossValidation.Fitting <- CrossValidationFittingFunction(fitting)
 
     let result = crossValidation.Compute()
     printfn "Average training accuracy: %f" result.Training.Mean
     printfn "Average validation accuracy: %f" result.Validation.Mean
-    result.Validation.Mean
+    result.ConfusionMatrices
     
 [<TestFixture>] 
 type ``given stock files that have been downloaded`` ()=

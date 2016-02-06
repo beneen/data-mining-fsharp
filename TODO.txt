@@ -1,0 +1,8 @@
+TODO:
+- Naive bayes classifier
+- Check offset of data conversion (we should be training to predict the next day not the same day)
+- Consider looking back more than one day
+  - This could also mean a new dimension per extra day with the per day changes
+- Normalise price changes so that they are relative not absolute  
+- Consider predicting forward more than one day
+- Chart of actual stock price history with shading for whether the up/down predictions were correct
