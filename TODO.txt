@@ -1,8 +1,6 @@
 TODO:
-- Order is important! Need to be ordered by date ascending not descending
 - Consider whether it makes sense to do random cross validation. This means sometimes future data is being used to predict past data.
 - Naive bayes classifier
-- Check offset of data conversion (we should be training to predict the next day not the same day)
 - Consider looking back more than one day
   - This could also mean a new dimension per extra day with the per day changes
 - Normalise price changes so that they are relative not absolute  

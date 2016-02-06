@@ -14,8 +14,8 @@ type StockHistory(ticker: string, entries: seq<StockHistoryEntry>) = class
     member x.Entries = entries
     member x.Ticker = ticker
     member x.Length = x.Entries |> Seq.length
-    member x.MinDate = (x.Entries |> Seq.last).Date
-    member x.MaxDate = (x.Entries |> Seq.head).Date
+    member x.MinDate = (x.Entries |> Seq.head).Date
+    member x.MaxDate = (x.Entries |> Seq.last).Date
     member x.ClampToWindow (firstDate: DateTime) (lastDate: DateTime) =
         let overlappingEntries = x.Entries |> Seq.filter (fun entry -> entry.Date >= firstDate && entry.Date <= lastDate)
         StockHistory(x.Ticker, overlappingEntries)
@@ -32,7 +32,7 @@ end
 
 let loadFile stock = 
     let file = CsvFile.Load(Configuration.stockPath + stock + ".csv")
-    let entries = file.Rows |> Seq.map StockHistoryEntry
+    let entries = file.Rows |> Seq.rev |> Seq.map StockHistoryEntry 
     StockHistory(stock, entries)
 
 [<TestFixture>] 
