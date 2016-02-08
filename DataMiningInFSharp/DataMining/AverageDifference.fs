@@ -6,7 +6,7 @@ open DataMiningInFSharp.DataMining.Configuration
 open DataMiningInFSharp.DataMining.StockLoader
 
 let startDate (file:StockHistory) =
-    let firstRow = file.Entries |> Seq.head
+    let firstRow = file.Entries |> Seq.last
     firstRow.Date
 
 let validateStartDates (fileA:StockHistory) (fileB:StockHistory) =
