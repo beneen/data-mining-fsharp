@@ -66,3 +66,24 @@ type ``given stock files that have been downloaded`` ()=
     [<Test>] member test.
      ``when I run the Naive Bayes classifier`` ()=
             performCrossValidation dataSet naiveBayesFactory |> should equal 0.5
+
+[<TestFixture>] 
+type ``given the bins have been computed`` ()=
+    let binLocations = [| 
+        [| 10.0 ; 20.0 |] ;
+        [| 1.0 ; 2.0 |]
+     |]
+
+    static member BinningExamples = seq {
+       yield TestCaseData([ 5.0  ; 0.5 ], [ 0 ; 0 ])
+       yield TestCaseData([ 10.0 ; 1.0 ], [ 0 ; 0 ])
+       yield TestCaseData([ 15.0 ; 1.5 ], [ 1 ; 1 ])
+       yield TestCaseData([ 20.0 ; 2.0 ], [ 1 ; 1 ])
+       yield TestCaseData([ 25.0 ; 2.5 ], [ 2 ; 2 ])
+    }
+        
+    [<Test>]
+    [<TestCaseSource("BinningExamples")>]
+    member test.
+     ``when I bin the data point`` (dataPoint: List<double>, binnedDataPoint: List<int>) =
+            binDataPoint binLocations (List.toArray dataPoint) |> should equal (List.toArray binnedDataPoint)
