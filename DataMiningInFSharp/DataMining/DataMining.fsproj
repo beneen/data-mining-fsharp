@@ -64,7 +64,7 @@
     <Compile Include="AverageDifference.fs" />
     <Compile Include="CrossValidation.fs" />
     <Compile Include="KNN.fs" />
-    <Compile Include="Bayes.fs" />
+    <Compile Include="LogisticRegression.fs" />
     <Compile Include="Main.fs" />
     <Content Include="packages.config" />
   </ItemGroup>
