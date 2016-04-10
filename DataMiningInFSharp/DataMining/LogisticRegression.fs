@@ -35,13 +35,16 @@ let logisticRegressionFactory (dataSet: DataSet): Classifier =
 
 [<TestFixture>] 
 type ``given stock files that have been downloaded`` ()=
-    let targetStock = loadFile "EBAY"
-    let otherStocks = [| "MSFT"; "JPM"; "GS"; "GOOGL" |] |> Seq.map loadFile
+    let targetStock = loadFile "test/PERFECTB"
+    let otherStocks = [| "test/PERFECTA" |] |> Seq.map loadFile |> Seq.toList
+    //let targetStock = loadFile "EBAY"
+    //let otherStocks = [| "MSFT"; "JPM"; "GS"; "GOOGL" |] |> Seq.map loadFile |> Seq.toList
    // let otherStocks = 
    //     DirectoryInfo(Configuration.stockPath).GetFiles() 
    //         |> Seq.map (fun file -> file.Name.Substring(0, file.Name.Length - 4))
    //         |> Seq.map loadFile
    //         |> Seq.take 10
+   //         |> Seq.toList
 
     let dataSet = convertToDataSet targetStock otherStocks
     [<Test>] member test.

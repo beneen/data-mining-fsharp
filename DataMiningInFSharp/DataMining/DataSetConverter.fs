@@ -24,7 +24,7 @@ type DataSet(dataPoints: DataPoint[], classifications: Classification[]) = class
         ConfusionMatrix(predictions, x.Classifications)
 end
 
-let entriesOverlapping (targetStockHistory: StockHistory) (otherStockHistories: seq<StockHistory>) =
+let entriesOverlapping (targetStockHistory: StockHistory) (otherStockHistories: List<StockHistory>) =
     let predictForward = 1.0
     let firstDate = targetStockHistory.MinDate.AddDays(-predictForward)
     let lastDate = targetStockHistory.MaxDate.AddDays(-predictForward)
@@ -32,17 +32,17 @@ let entriesOverlapping (targetStockHistory: StockHistory) (otherStockHistories: 
         |> Seq.map (fun stockHistory -> stockHistory.ClampToWindow firstDate lastDate)
         |> Seq.filter (fun stockHistory -> stockHistory.Length = targetStockHistory.Length)
 
-let convertToDataSet (targetStockHistory: StockHistory) (otherStockHistories: seq<StockHistory>) =
+let convertToDataSet (targetStockHistory: StockHistory) (otherStockHistories: List<StockHistory>) =
     let entriesOverlapping = entriesOverlapping targetStockHistory otherStockHistories
     let otherStockPriceDifferences = entriesOverlapping |> Seq.map (fun stockHistory -> stockHistory.PriceDifferences) |> Seq.toArray
-    let trainingSet = Matrix.Transpose<double>(otherStockPriceDifferences)
+    let dataPoints = Matrix.Transpose<double>(otherStockPriceDifferences)
     let classifications = targetStockHistory.PriceDifferences |> Seq.map (fun difference -> if difference >= 0.0 then 1 else 0)|> Seq.toArray
-    DataSet(trainingSet, classifications)
+    DataSet(dataPoints, classifications)
 
 [<TestFixture>] 
 type ``given stock files that have been downloaded`` ()=
     let targetStock = loadFile "EBAY"
-    let otherStocks = [| "MSFT"; "JPM" |] |> Seq.map loadFile
+    let otherStocks = [| "MSFT"; "JPM" |] |> Seq.map loadFile |> Seq.toList
     [<Test>] member test.
      ``when I convert to a data set`` ()=
             (convertToDataSet targetStock otherStocks).DataPoints.Length |> should be (greaterThan 0)

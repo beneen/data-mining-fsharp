@@ -8,16 +8,17 @@ open FsUnit
 type StockHistoryEntry(csvRow: CsvRow) = class
     member x.Date = csvRow.GetColumn("Date") |> DateTime.Parse
     member x.ClosingPrice:double = csvRow.GetColumn("Close") |> Double.Parse
+    override x.ToString() = String.Format("Date: {0}, ClosingPrice: {1}", x.Date, x.ClosingPrice)
 end
 
-type StockHistory(ticker: string, entries: seq<StockHistoryEntry>) = class
+type StockHistory(ticker: string, entries: List<StockHistoryEntry>) = class
     member x.Entries = entries
     member x.Ticker = ticker
     member x.Length = x.Entries |> Seq.length
     member x.MinDate = (x.Entries |> Seq.head).Date
     member x.MaxDate = (x.Entries |> Seq.last).Date
     member x.ClampToWindow (firstDate: DateTime) (lastDate: DateTime) =
-        let overlappingEntries = x.Entries |> Seq.filter (fun entry -> entry.Date >= firstDate && entry.Date <= lastDate)
+        let overlappingEntries = x.Entries |> Seq.filter (fun entry -> entry.Date >= firstDate && entry.Date <= lastDate) |> Seq.toList
         StockHistory(x.Ticker, overlappingEntries)
 
     member x.PriceDifferences =
@@ -32,7 +33,7 @@ end
 
 let loadFile stock = 
     let file = CsvFile.Load(Configuration.stockPath + stock + ".csv")
-    let entries = file.Rows |> Seq.rev |> Seq.map StockHistoryEntry 
+    let entries = file.Rows |> Seq.rev |> Seq.map StockHistoryEntry |> Seq.toList
     StockHistory(stock, entries)
 
 [<TestFixture>] 
