@@ -65,6 +65,7 @@
     <Compile Include="CrossValidation.fs" />
     <Compile Include="KNN.fs" />
     <Compile Include="LogisticRegression.fs" />
+    <Compile Include="NaiveBayes.fs" />
     <Compile Include="Main.fs" />
     <Content Include="packages.config" />
   </ItemGroup>
