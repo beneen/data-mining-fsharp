@@ -1,15 +1,27 @@
 ﻿module DataMiningInFSharp.DataMining.DataSetConverter
 
 open Accord.MachineLearning
+open Accord.Statistics.Analysis
 open System.Data
 open Accord.Math
 open DataMiningInFSharp.DataMining.StockLoader
 open NUnit.Framework
 open FsUnit
 
-type DataSet(trainingSet: double[][], classifications: int[]) = class
-    member x.TrainingSet = trainingSet
+type DataPoint = double[]
+type Classification = int
+type Classifier = DataPoint -> Classification
+
+type DataSet(dataPoints: DataPoint[], classifications: Classification[]) = class
+    member x.DataPoints = dataPoints
     member x.Classifications = classifications
+
+    member x.SubSet (indices: int[]): DataSet =
+        DataSet(x.DataPoints.Submatrix(indices), x.Classifications.Submatrix(indices))
+
+    member x.Predict (classifier: Classifier): ConfusionMatrix =
+        let predictions = x.DataPoints |> Seq.map classifier |> Seq.toArray
+        ConfusionMatrix(predictions, x.Classifications)
 end
 
 let entriesOverlapping (targetStockHistory: StockHistory) (otherStockHistories: seq<StockHistory>) =
@@ -33,4 +45,4 @@ type ``given stock files that have been downloaded`` ()=
     let otherStocks = [| "MSFT"; "JPM" |] |> Seq.map loadFile
     [<Test>] member test.
      ``when I convert to a data set`` ()=
-            (convertToDataSet targetStock otherStocks).TrainingSet.Length |> should be (greaterThan 0)
+            (convertToDataSet targetStock otherStocks).DataPoints.Length |> should be (greaterThan 0)
