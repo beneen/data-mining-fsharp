@@ -58,8 +58,6 @@
     <None Include="App.config" />
     <Compile Include="Configuration.fs" />
     <Compile Include="Downloader.fs" />
-    <Compile Include="Scraper.fs" />
-    <Compile Include="StockAnalyzer.fs" />
     <Compile Include="Main.fs" />
     <Content Include="packages.config" />
   </ItemGroup>

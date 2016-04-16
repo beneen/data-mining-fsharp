@@ -3,4 +3,6 @@
 let basePath = "../../../../"
 let dataPath = basePath + "data/"
 let indexesPath = dataPath + "indexes/"
-let stockPath = dataPath + "stocks/"
+let indexesFile = indexesPath + "tickers.txt"
+let tickerPath = dataPath + "stocks/"
+let tickerFile ticker = tickerPath + ticker + ".csv" 
