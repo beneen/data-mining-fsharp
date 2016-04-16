@@ -1,6 +1,8 @@
 ﻿module DataMiningInFSharp.Scraper.Configuration
 
-let basePath = "../../../../"
+open System.IO
+
+let basePath = Path.GetFullPath "../../../../"
 let dataPath = basePath + "data/"
 let indexesPath = dataPath + "indexes/"
 let indexesFile = indexesPath + "tickers.txt"

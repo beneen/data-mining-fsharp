@@ -7,6 +7,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Scraper", "Scraper\Scraper.
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DataMining", "DataMining\DataMining.fsproj", "{EDC19EDC-62E2-4891-92F4-6A613E233C0F}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Database", "Database\Database.fsproj", "{026581D1-6432-42B1-8DA7-2D9C7B5E17E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EDC19EDC-62E2-4891-92F4-6A613E233C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDC19EDC-62E2-4891-92F4-6A613E233C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDC19EDC-62E2-4891-92F4-6A613E233C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{026581D1-6432-42B1-8DA7-2D9C7B5E17E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{026581D1-6432-42B1-8DA7-2D9C7B5E17E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{026581D1-6432-42B1-8DA7-2D9C7B5E17E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{026581D1-6432-42B1-8DA7-2D9C7B5E17E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

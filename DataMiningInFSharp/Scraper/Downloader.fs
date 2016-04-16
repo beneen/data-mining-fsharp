@@ -18,7 +18,7 @@ let loadPrices ticker =
     let file = Configuration.tickerFile ticker
     if File.Exists(file) then 
         let dateDownloaded = (File.GetLastWriteTime file).ToString("dd-MM-yyyy")
-        printfn "Already downloaded ticker '%s' on '%s'" ticker dateDownloaded
+        printfn "Already downloaded ticker '%s' to '%s' on '%s'" ticker file dateDownloaded
     else 
         downloadTickerFile ticker url file
 

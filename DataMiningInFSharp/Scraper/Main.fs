@@ -9,7 +9,7 @@ let main args =
     File.ReadLines(Configuration.indexesFile) 
         |> Seq.iter Downloader.loadPrices
 
-    printfn "Finished scraping. Press any key to exit."
+    printfn "Finished scraping. Press the enter key to exit..."
     let unused = Console.ReadLine() // Keep console open
     // Return 0. This indicates success.
     0
