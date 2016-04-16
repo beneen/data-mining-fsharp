@@ -12,7 +12,7 @@ type DataPoint = double[]
 type Classification = int
 type Classifier = DataPoint -> Classification
 
-type DataSet(dataPoints: DataPoint[], classifications: Classification[]) = class
+type DataSet(dataPoints: DataPoint[], classifications: Classification[]) =
     member x.DataPoints = dataPoints
     member x.Classifications = classifications
 
@@ -22,7 +22,6 @@ type DataSet(dataPoints: DataPoint[], classifications: Classification[]) = class
     member x.Predict (classifier: Classifier): ConfusionMatrix =
         let predictions = x.DataPoints |> Seq.map classifier |> Seq.toArray
         ConfusionMatrix(predictions, x.Classifications)
-end
 
 let entriesOverlapping (targetStockHistory: StockHistory) (otherStockHistories: List<StockHistory>) =
     let predictForward = 1.0
