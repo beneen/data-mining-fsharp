@@ -8,8 +8,8 @@ let main args =
     printfn "Scraping tickers that are listed in '%s'..." Configuration.indexesFile
     File.ReadLines(Configuration.indexesFile) 
         |> Seq.iter Downloader.loadPrices
+    printfn "Finished scraping"
 
-    printfn "Finished scraping. Press the enter key to exit..."
-    let unused = Console.ReadLine() // Keep console open
-    // Return 0. This indicates success.
-    0
+    printfn "Press any key to exit..."
+    Console.Read() |> ignore
+    0 // Return 0. This indicates success.
