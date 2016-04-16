@@ -6,7 +6,7 @@ open NUnit.Framework
 open FsUnit
 
 let downloadTickerFile (ticker: string) (url: string) (file: string) =
-    let webClient = new WebClient()
+    use webClient = new WebClient()
     try 
         webClient.DownloadFile(url, file)
     with

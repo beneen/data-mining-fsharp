@@ -32,7 +32,7 @@ type StockHistory(ticker: string, entries: List<StockHistoryEntry>) = class
 end
 
 let loadFile stock = 
-    let file = CsvFile.Load(Configuration.stockPath + stock + ".csv")
+    use file = CsvFile.Load(Configuration.stockPath + stock + ".csv")
     let entries = file.Rows |> Seq.rev |> Seq.map StockHistoryEntry |> Seq.toList
     StockHistory(stock, entries)
 

@@ -16,7 +16,7 @@ let priceHistoryEntry tickerId (csvRow: CsvRow) =
 
 let loadPriceHistory (ticker: Ticker) = 
     printfn "Loading history for ticker '%s'" ticker.TickerName 
-    let file = CsvFile.Load(Configuration.tickerFile ticker.TickerName)
+    use file = CsvFile.Load(Configuration.tickerFile ticker.TickerName)
     file.Rows |> Seq.map (fun csvRow -> priceHistoryEntry ticker.TickerId csvRow) |> Seq.toList
 
 let tickerNames() = 
