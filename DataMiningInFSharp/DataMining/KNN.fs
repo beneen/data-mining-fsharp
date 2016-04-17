@@ -9,8 +9,9 @@ open Accord.MachineLearning
 open NUnit.Framework
 open FsUnit
 
+let k = 5
 let knnFactory (dataSet: DataSet) = 
-    KNearestNeighbors(5, dataSet.DataPoints, dataSet.Classifications).Compute
+    KNearestNeighbors(k, dataSet.DataPoints, dataSet.Classifications).Compute
 
 [<TestFixture>] 
 type ``given stock files that have been downloaded`` ()=
