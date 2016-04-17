@@ -11,11 +11,13 @@ open System.IO
 open NUnit.Framework
 open FsUnit
 
+let numberOfFolds = 10
+
 type Accord.MachineLearning.CrossValidationResult<'TModel when 'TModel : not struct> with
     member this.ConfusionMatrices = this.Models |> Seq.map (fun model -> model.Tag :?> ConfusionMatrix)
 
 let performCrossValidation (dataSet: DataSet) (classifierFactory: DataSet -> Classifier) =
-    let crossValidation = CrossValidation<Classifier>(dataSet.DataPoints.Length)
+    let crossValidation = CrossValidation<Classifier>(dataSet.DataPoints.Length, numberOfFolds)
     let fitting _ (indicesTrain: int[]) (indicesValidation: int[]) = 
         let trainingSet = dataSet.SubSet(indicesTrain)
         let validationSet = dataSet.SubSet(indicesValidation)
