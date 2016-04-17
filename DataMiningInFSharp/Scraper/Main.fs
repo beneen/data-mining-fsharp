@@ -7,7 +7,11 @@ open System.IO
 let main args =
     printfn "Scraping tickers that are listed in '%s'..." Configuration.indexesFile
     File.ReadLines(Configuration.indexesFile) 
-        |> Seq.iter Downloader.loadPrices
+        |> Seq.map (fun ticker -> async { Downloader.loadPrices ticker })
+        |> Async.Parallel
+        |> Async.RunSynchronously
+        |> ignore
+
     printfn "Finished scraping"
 
     printfn "Press any key to exit..."
