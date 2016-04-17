@@ -9,15 +9,15 @@ open System.Data.Linq
 open System.Data.Linq.Mapping
 open FSharp.Data
 
-let priceHistoryEntry tickerId (csvRow: CsvRow) = 
+let priceHistoryEntry ticker (csvRow: CsvRow) = 
     let tradingDate = csvRow.GetColumn("Date") |> DateTime.Parse
     let closingPrice = csvRow.GetColumn("Close") |> Double.Parse
-    PriceHistory(tickerId, tradingDate, closingPrice)
+    PriceHistory(ticker, tradingDate, closingPrice)
 
 let loadPriceHistory (ticker: Ticker) = 
     printfn "Loading history for ticker '%s'" ticker.TickerName 
     use file = CsvFile.Load(Configuration.tickerFile ticker.TickerName)
-    file.Rows |> Seq.map (fun csvRow -> priceHistoryEntry ticker.TickerId csvRow) |> Seq.toList
+    file.Rows |> Seq.map (fun csvRow -> priceHistoryEntry ticker csvRow) |> Seq.toList
 
 let tickerNames() = 
     DirectoryInfo(Configuration.tickerPath).GetFiles()
