@@ -1,8 +1,0 @@
-TODO:
-- Consider whether it makes sense to do random cross validation. This means sometimes future data is being used to predict past data.
-- Naive bayes classifier
-- Consider looking back more than one day
-  - This could also mean a new dimension per extra day with the per day changes
-- Normalise price changes so that they are relative not absolute  
-- Consider predicting forward more than one day
-- Chart of actual stock price history with shading for whether the up/down predictions were correct
